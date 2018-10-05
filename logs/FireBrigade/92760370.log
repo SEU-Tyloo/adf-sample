@@ -1,0 +1,1267 @@
+2018-10-05 16:59:32,691 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:1
+2018-10-05 16:59:32,693 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:1
+2018-10-05 16:59:32,694 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 13512, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 26336, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 16:59:32,694 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[32754, 6936, 169, 35367, 35366, 34022, 26032, 26016]
+2018-10-05 16:59:32,694 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34022
+2018-10-05 17:00:59,450 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:2
+2018-10-05 17:00:59,453 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:2
+2018-10-05 17:00:59,454 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 13512, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 26336, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 17:00:59,454 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[32754, 6936, 169, 35367, 35366, 34022, 26032, 26016]
+2018-10-05 17:00:59,455 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34022
+2018-10-05 17:01:35,772 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:3
+2018-10-05 17:01:35,773 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:3
+2018-10-05 17:01:35,773 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 13512, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 26336, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 17:01:35,774 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[32754, 6936, 169, 35367, 35366, 34022, 26032, 26016]
+2018-10-05 17:01:35,774 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34022
+2018-10-05 17:01:38,696 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:4
+2018-10-05 17:01:38,697 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:4
+2018-10-05 17:01:38,699 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:01:38,699 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812)]
+2018-10-05 17:01:38,699 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:01:38,699 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 13512, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 26336, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 17:01:38,699 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35366, 34022, 26032, 26016]
+2018-10-05 17:01:38,699 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34022
+2018-10-05 17:01:41,148 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:5
+2018-10-05 17:01:41,149 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:5
+2018-10-05 17:01:41,150 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:01:41,150 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812)]
+2018-10-05 17:01:41,150 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:01:41,150 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26336, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 28206, 24752, 10416, 20337, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 17:01:41,151 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34022, 34008, 34001, 33989, 13920, 13904]
+2018-10-05 17:01:41,151 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33989
+2018-10-05 17:01:43,336 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:6
+2018-10-05 17:01:43,337 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:6
+2018-10-05 17:01:43,337 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:01:43,338 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812), Building (29979)]
+2018-10-05 17:01:43,338 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:01:43,338 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 17229, 25421, 11661, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26336, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 28206, 24752, 10416, 20337, 25394, 20597, 18933, 26171, 22779, 23931, 20478]
+2018-10-05 17:01:43,338 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[9141, 6045, 34588, 25437, 25421]
+2018-10-05 17:01:43,338 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34588
+2018-10-05 17:01:45,212 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:7
+2018-10-05 17:01:45,213 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:7
+2018-10-05 17:01:45,214 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:01:45,214 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812), Building (29979)]
+2018-10-05 17:01:45,214 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:01:45,214 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 17229, 11661, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26336, 10336, 22752, 19046, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:01:45,214 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34588, 33064, 35932, 35638, 35639, 35634, 35536]
+2018-10-05 17:01:45,214 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35639
+2018-10-05 17:01:47,104 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:8
+2018-10-05 17:01:47,105 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:8
+2018-10-05 17:01:47,105 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:01:47,105 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812)]
+2018-10-05 17:01:47,106 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:01:47,106 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 17229, 11661, 26704, 20306, 33043, 24725, 16600, 33048, 14040, 26074, 35676, 26336, 10336, 22752, 19046, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:01:47,106 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35932, 35930, 4731, 16917, 16901]
+2018-10-05 17:01:47,106 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:4731
+2018-10-05 17:01:49,021 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:9
+2018-10-05 17:01:49,021 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:9
+2018-10-05 17:01:49,022 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:01:49,022 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812)]
+2018-10-05 17:01:49,022 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:01:49,022 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 24725, 16600, 33048, 14040, 26074, 26336, 10336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:01:49,022 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2382, 7359, 20494, 20478]
+2018-10-05 17:01:49,022 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7359
+2018-10-05 17:01:50,972 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:10
+2018-10-05 17:01:50,973 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:10
+2018-10-05 17:01:50,973 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:01:50,973 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812)]
+2018-10-05 17:01:50,973 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:01:50,974 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 24725, 16600, 33048, 14040, 26074, 26336, 10336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931]
+2018-10-05 17:01:50,974 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[4524, 34584, 6450, 24741, 24725]
+2018-10-05 17:01:50,974 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:6450
+2018-10-05 17:01:52,744 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:11
+2018-10-05 17:01:52,745 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:11
+2018-10-05 17:01:52,745 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:01:52,745 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812)]
+2018-10-05 17:01:52,745 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:01:52,745 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 10336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931]
+2018-10-05 17:01:52,746 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33986, 33987, 2508, 7215, 22768, 22752]
+2018-10-05 17:01:52,746 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7215
+2018-10-05 17:01:54,532 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:12
+2018-10-05 17:01:54,533 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:12
+2018-10-05 17:01:54,534 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:01:54,534 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812)]
+2018-10-05 17:01:54,534 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:01:54,534 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 10336, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931]
+2018-10-05 17:01:54,534 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[7215, 33969, 34654, 33968, 10432, 10416]
+2018-10-05 17:01:54,534 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33968
+2018-10-05 17:01:56,333 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:13
+2018-10-05 17:01:56,333 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:13
+2018-10-05 17:01:56,334 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:01:56,334 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812)]
+2018-10-05 17:01:56,334 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:01:56,334 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 10336, 28839, 24752, 10416, 20597, 26171, 22779, 23931]
+2018-10-05 17:01:56,334 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[10432, 10416]
+2018-10-05 17:01:56,334 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:10416
+2018-10-05 17:01:58,148 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:14
+2018-10-05 17:01:58,148 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:14
+2018-10-05 17:01:58,149 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:01:58,149 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812)]
+2018-10-05 17:01:58,149 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:01:58,149 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 10336, 28839, 24752, 20597, 26171, 22779, 23931]
+2018-10-05 17:01:58,149 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[10432, 7746, 24768, 24752]
+2018-10-05 17:01:58,150 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7746
+2018-10-05 17:01:59,732 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:15
+2018-10-05 17:01:59,733 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:15
+2018-10-05 17:01:59,733 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:01:59,733 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812)]
+2018-10-05 17:01:59,733 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:01:59,733 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 20306, 33043, 33048, 14040, 26074, 26336, 10336, 28839, 20597, 26171, 22779, 23931]
+2018-10-05 17:01:59,733 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[5028, 26090, 26074]
+2018-10-05 17:01:59,734 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:5028
+2018-10-05 17:02:01,476 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:16
+2018-10-05 17:02:01,476 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:16
+2018-10-05 17:02:01,477 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:01,477 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812)]
+2018-10-05 17:02:01,477 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:01,477 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 20306, 33043, 33048, 26336, 10336, 28839, 20597, 26171, 22779, 23931]
+2018-10-05 17:02:01,477 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[8376, 20322, 20306]
+2018-10-05 17:02:01,477 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:8376
+2018-10-05 17:02:03,072 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:17
+2018-10-05 17:02:03,073 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:17
+2018-10-05 17:02:03,073 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:03,073 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812)]
+2018-10-05 17:02:03,073 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:03,073 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336, 10336, 28839, 20597, 22779, 23931]
+2018-10-05 17:02:03,073 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2544, 6945, 35918, 35920, 22795, 22779]
+2018-10-05 17:02:03,074 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35920
+2018-10-05 17:02:04,708 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:18
+2018-10-05 17:02:04,709 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:18
+2018-10-05 17:02:04,709 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:04,709 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (28812)]
+2018-10-05 17:02:04,709 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:04,710 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336, 10336, 28839, 20597, 23931]
+2018-10-05 17:02:04,710 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35918, 35914, 35911, 3462, 28855, 28839]
+2018-10-05 17:02:04,710 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:3462
+2018-10-05 17:02:06,544 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:19
+2018-10-05 17:02:06,544 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:19
+2018-10-05 17:02:06,545 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336, 10336, 20597, 23931]
+2018-10-05 17:02:06,545 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[3462, 2526, 20613, 20597]
+2018-10-05 17:02:06,545 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:2526
+2018-10-05 17:02:08,272 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:20
+2018-10-05 17:02:08,272 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:20
+2018-10-05 17:02:08,273 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:08,273 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (18262)]
+2018-10-05 17:02:08,273 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:08,273 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336, 10336, 23931]
+2018-10-05 17:02:08,273 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[3462, 35911, 35912, 35915, 35720, 35782, 35786, 35789, 35801, 35803, 35807, 21145, 21130]
+2018-10-05 17:02:08,273 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35807
+2018-10-05 17:02:09,876 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:21
+2018-10-05 17:02:09,876 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:21
+2018-10-05 17:02:09,876 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336, 10336, 23931]
+2018-10-05 17:02:09,877 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35911, 35912, 35915, 35720, 35782, 35786, 35789, 35801, 35803, 35807, 21145, 21130]
+2018-10-05 17:02:09,877 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35807
+2018-10-05 17:02:11,380 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:22
+2018-10-05 17:02:11,380 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:22
+2018-10-05 17:02:11,381 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336, 10336, 23931]
+2018-10-05 17:02:11,381 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35720, 35782, 35786, 35789, 35801, 35803, 35807, 21145, 21130]
+2018-10-05 17:02:11,381 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35807
+2018-10-05 17:02:12,900 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:23
+2018-10-05 17:02:12,900 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:23
+2018-10-05 17:02:12,901 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 33048, 26336, 10336, 23931]
+2018-10-05 17:02:12,901 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35801, 35803, 35807, 35810, 33049, 33048]
+2018-10-05 17:02:12,901 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35810
+2018-10-05 17:02:14,380 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:24
+2018-10-05 17:02:14,381 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:24
+2018-10-05 17:02:14,381 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[26336, 10336, 23931]
+2018-10-05 17:02:14,381 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35813, 35816, 35818, 35822, 31060, 31059, 26352, 26336]
+2018-10-05 17:02:14,381 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:31059
+2018-10-05 17:02:15,948 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:25
+2018-10-05 17:02:15,949 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:25
+2018-10-05 17:02:15,949 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:02:15,949 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35949, 35948, 33132, 33133, 8997, 1609, 7287, 4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:02:15,949 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:02:17,512 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:26
+2018-10-05 17:02:17,513 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:26
+2018-10-05 17:02:17,513 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:02:17,513 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33132, 33133, 8997, 1609, 7287, 4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:02:17,514 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:02:19,034 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:27
+2018-10-05 17:02:19,035 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:27
+2018-10-05 17:02:19,035 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:19,035 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (22124)]
+2018-10-05 17:02:19,036 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:19,037 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:02:19,037 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[1609, 7287, 4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:02:19,037 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:02:20,540 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:28
+2018-10-05 17:02:20,540 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:28
+2018-10-05 17:02:20,541 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:20,541 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (22124)]
+2018-10-05 17:02:20,541 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:20,541 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[23931]
+2018-10-05 17:02:20,541 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[14459, 34700, 23931]
+2018-10-05 17:02:20,541 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:02:21,976 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:29
+2018-10-05 17:02:21,976 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:29
+2018-10-05 17:02:21,977 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:21,977 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (22124)]
+2018-10-05 17:02:21,977 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:21,977 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[23931]
+2018-10-05 17:02:21,977 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34700, 23931]
+2018-10-05 17:02:21,977 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:23931
+2018-10-05 17:02:23,392 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:30
+2018-10-05 17:02:23,392 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:30
+2018-10-05 17:02:23,393 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:23,393 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (22124)]
+2018-10-05 17:02:23,393 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:23,393 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 13512, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 26336, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 14067, 20597, 18933, 10362, 26171, 22779, 20478]
+2018-10-05 17:02:23,393 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34700, 14459, 34710, 10336]
+2018-10-05 17:02:23,393 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:02:24,868 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:31
+2018-10-05 17:02:24,868 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:31
+2018-10-05 17:02:24,869 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:24,869 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (22124)]
+2018-10-05 17:02:24,869 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:24,869 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 13512, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 26336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 14067, 20597, 18933, 10362, 26171, 22779, 20478]
+2018-10-05 17:02:24,869 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[14475, 4065, 8277, 5991, 32737, 32736, 8736, 6369, 35366, 34022, 26032, 26016]
+2018-10-05 17:02:24,869 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34022
+2018-10-05 17:02:26,300 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:32
+2018-10-05 17:02:26,301 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:32
+2018-10-05 17:02:26,301 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:26,301 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (22124)]
+2018-10-05 17:02:26,302 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:26,302 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 13512, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 26336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 28206, 24752, 10416, 20337, 14067, 20597, 18933, 10362, 26171, 22779, 20478]
+2018-10-05 17:02:26,302 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[32736, 8736, 6369, 35366, 34022, 26032, 26016]
+2018-10-05 17:02:26,302 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34022
+2018-10-05 17:02:27,728 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:33
+2018-10-05 17:02:27,729 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:33
+2018-10-05 17:02:27,729 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:27,729 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (22124)]
+2018-10-05 17:02:27,729 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:27,729 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26336, 22752, 20451, 19046, 35686, 28839, 35687, 28206, 24752, 10416, 20337, 14067, 20597, 18933, 10362, 26171, 22779, 20478]
+2018-10-05 17:02:27,730 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34008, 34001, 33989, 13920, 13904]
+2018-10-05 17:02:27,730 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33989
+2018-10-05 17:02:29,256 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:34
+2018-10-05 17:02:29,256 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:34
+2018-10-05 17:02:29,257 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:29,257 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (22124)]
+2018-10-05 17:02:29,257 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:29,257 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 17229, 25421, 11661, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26336, 22752, 20451, 19046, 35686, 28839, 35687, 28206, 24752, 10416, 20337, 20597, 18933, 26171, 22779, 20478]
+2018-10-05 17:02:29,257 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[9141, 6045, 34588, 25437, 25421]
+2018-10-05 17:02:29,257 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34588
+2018-10-05 17:02:30,724 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:35
+2018-10-05 17:02:30,724 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:35
+2018-10-05 17:02:30,725 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:30,725 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (22124)]
+2018-10-05 17:02:30,725 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:30,725 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 17229, 11661, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 26336, 22752, 20451, 19046, 28839, 28206, 24752, 10416, 20337, 20597, 26171, 22779, 20478]
+2018-10-05 17:02:30,725 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34588, 33064, 35932, 35936, 35939, 20352, 20337]
+2018-10-05 17:02:30,726 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35939
+2018-10-05 17:02:32,160 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:36
+2018-10-05 17:02:32,161 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:36
+2018-10-05 17:02:32,161 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:02:32,161 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (22124)]
+2018-10-05 17:02:32,161 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:02:32,161 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 17229, 11661, 26704, 20306, 33043, 24725, 16600, 33048, 14040, 26074, 26336, 22752, 20451, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 20478]
+2018-10-05 17:02:32,161 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35932, 35930, 4731, 16917, 16901]
+2018-10-05 17:02:32,161 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:4731
+2018-10-05 17:02:33,648 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:37
+2018-10-05 17:02:33,648 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:37
+2018-10-05 17:02:33,649 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 24725, 16600, 33048, 14040, 26074, 26336, 22752, 20451, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 20478]
+2018-10-05 17:02:33,649 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2382, 7359, 20494, 20478]
+2018-10-05 17:02:33,649 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7359
+2018-10-05 17:02:35,068 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:38
+2018-10-05 17:02:35,068 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:38
+2018-10-05 17:02:35,068 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 24725, 16600, 33048, 14040, 26074, 26336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779]
+2018-10-05 17:02:35,069 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[4524, 34584, 6450, 24741, 24725]
+2018-10-05 17:02:35,069 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:6450
+2018-10-05 17:02:36,492 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:39
+2018-10-05 17:02:36,493 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:39
+2018-10-05 17:02:36,494 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779]
+2018-10-05 17:02:36,494 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33986, 33987, 2508, 7215, 22768, 22752]
+2018-10-05 17:02:36,494 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7215
+2018-10-05 17:02:38,012 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:40
+2018-10-05 17:02:38,013 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:40
+2018-10-05 17:02:38,013 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 28839, 28206, 24752, 10416, 20597, 26171, 22779]
+2018-10-05 17:02:38,013 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[7215, 33969, 34654, 33968, 10432, 10416]
+2018-10-05 17:02:38,013 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33968
+2018-10-05 17:02:39,436 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:41
+2018-10-05 17:02:39,436 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:41
+2018-10-05 17:02:39,437 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 28839, 24752, 10416, 20597, 26171, 22779]
+2018-10-05 17:02:39,437 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[10432, 10416]
+2018-10-05 17:02:39,437 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:10416
+2018-10-05 17:02:40,892 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:42
+2018-10-05 17:02:40,892 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:42
+2018-10-05 17:02:40,892 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 28839, 24752, 20597, 26171, 22779]
+2018-10-05 17:02:40,892 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[10432, 7746, 24768, 24752]
+2018-10-05 17:02:40,892 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7746
+2018-10-05 17:02:42,368 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:43
+2018-10-05 17:02:42,368 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:43
+2018-10-05 17:02:42,369 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 20306, 33043, 33048, 14040, 26336, 28839, 20597, 26171, 22779]
+2018-10-05 17:02:42,369 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[5028, 8376, 20322, 20306]
+2018-10-05 17:02:42,369 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:8376
+2018-10-05 17:02:43,772 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:44
+2018-10-05 17:02:43,772 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:44
+2018-10-05 17:02:43,773 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336, 28839, 20597, 22779]
+2018-10-05 17:02:43,773 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2544, 6945, 35918, 35920, 22795, 22779]
+2018-10-05 17:02:43,773 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35920
+2018-10-05 17:02:45,400 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:45
+2018-10-05 17:02:45,400 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:45
+2018-10-05 17:02:45,401 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336, 28839, 20597]
+2018-10-05 17:02:45,401 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35914, 35911, 3462, 28855, 28839]
+2018-10-05 17:02:45,401 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:3462
+2018-10-05 17:02:46,956 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:46
+2018-10-05 17:02:46,956 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:46
+2018-10-05 17:02:46,957 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336, 20597]
+2018-10-05 17:02:46,957 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[3462, 2526, 20613, 20597]
+2018-10-05 17:02:46,957 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:2526
+2018-10-05 17:02:48,344 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:47
+2018-10-05 17:02:48,344 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:47
+2018-10-05 17:02:48,345 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336]
+2018-10-05 17:02:48,345 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[3462, 35911, 35912, 35915, 35720, 35782, 35786, 35789, 35801, 35803, 35807, 21145, 21130]
+2018-10-05 17:02:48,345 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35807
+2018-10-05 17:02:49,768 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:48
+2018-10-05 17:02:49,768 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:48
+2018-10-05 17:02:49,769 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336]
+2018-10-05 17:02:49,769 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35911, 35912, 35915, 35720, 35782, 35786, 35789, 35801, 35803, 35807, 21145, 21130]
+2018-10-05 17:02:49,769 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35807
+2018-10-05 17:02:51,248 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:49
+2018-10-05 17:02:51,248 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:49
+2018-10-05 17:02:51,249 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336]
+2018-10-05 17:02:51,249 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35720, 35782, 35786, 35789, 35801, 35803, 35807, 21145, 21130]
+2018-10-05 17:02:51,249 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35807
+2018-10-05 17:02:52,612 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:50
+2018-10-05 17:02:52,612 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:50
+2018-10-05 17:02:52,613 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 33048, 26336]
+2018-10-05 17:02:52,613 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35801, 35803, 35807, 35810, 33049, 33048]
+2018-10-05 17:02:52,613 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35810
+2018-10-05 17:02:54,012 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:51
+2018-10-05 17:02:54,013 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:51
+2018-10-05 17:02:54,013 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[26336]
+2018-10-05 17:02:54,013 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35813, 35816, 35818, 35822, 31060, 31059, 26352, 26336]
+2018-10-05 17:02:54,013 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:31059
+2018-10-05 17:02:55,392 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:52
+2018-10-05 17:02:55,392 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:52
+2018-10-05 17:02:55,392 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 17:02:55,393 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35818, 35816, 35813, 35810, 33049, 33048]
+2018-10-05 17:02:55,393 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35810
+2018-10-05 17:02:57,009 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:53
+2018-10-05 17:02:57,010 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:53
+2018-10-05 17:02:57,010 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 35667, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 17:02:57,010 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35937, 35936, 35939, 20352, 20337]
+2018-10-05 17:02:57,010 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35939
+2018-10-05 17:02:58,608 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:54
+2018-10-05 17:02:58,608 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:54
+2018-10-05 17:02:58,609 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 25421, 11661, 13904, 26704, 20306, 35667, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 17:02:58,609 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35932, 33064, 34588, 25437, 25421]
+2018-10-05 17:02:58,609 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34588
+2018-10-05 17:02:59,976 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:55
+2018-10-05 17:02:59,976 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:55
+2018-10-05 17:02:59,977 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 25421, 11661, 13904, 26704, 20306, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 28839, 22697, 25515, 28206, 24752, 10416, 25394, 14067, 20597, 18933, 26171, 22779, 23931, 20478]
+2018-10-05 17:02:59,977 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34588, 25437, 25421]
+2018-10-05 17:02:59,977 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34588
+2018-10-05 17:03:01,364 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:56
+2018-10-05 17:03:01,364 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:56
+2018-10-05 17:03:01,365 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 11661, 13904, 26704, 20306, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 28839, 22697, 25515, 28206, 24752, 10416, 14067, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:03:01,365 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[6045, 9141, 13920, 13904]
+2018-10-05 17:03:01,365 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:9141
+2018-10-05 17:03:02,828 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:57
+2018-10-05 17:03:02,828 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:57
+2018-10-05 17:03:02,828 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 11661, 26704, 20306, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 28839, 22697, 25515, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:03:02,829 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33989, 34001, 25515]
+2018-10-05 17:03:02,829 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33989
+2018-10-05 17:03:04,216 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:58
+2018-10-05 17:03:04,216 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:58
+2018-10-05 17:03:04,217 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 17229, 11661, 26704, 20306, 24725, 16600, 14040, 26074, 35676, 10336, 22752, 20451, 28839, 22697, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:03:04,217 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34001, 34002, 34635, 34623, 33987, 33986, 24741, 24725]
+2018-10-05 17:03:04,217 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33986
+2018-10-05 17:03:05,616 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:59
+2018-10-05 17:03:05,617 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:59
+2018-10-05 17:03:05,617 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 17229, 11661, 26704, 20306, 24725, 16600, 14040, 26074, 35676, 10336, 22752, 20451, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:03:05,617 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33986, 24741, 24725]
+2018-10-05 17:03:05,617 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33986
+2018-10-05 17:03:07,032 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:60
+2018-10-05 17:03:07,032 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:60
+2018-10-05 17:03:07,033 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 17229, 11661, 26704, 20306, 16600, 14040, 26074, 35676, 10336, 22752, 20451, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:03:07,033 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[6450, 20467, 20451]
+2018-10-05 17:03:07,033 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:6450
+2018-10-05 17:03:08,428 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:61
+2018-10-05 17:03:08,428 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:61
+2018-10-05 17:03:08,428 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 17229, 11661, 26704, 20306, 16600, 14040, 26074, 35676, 10336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:03:08,429 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34584, 17245, 17229]
+2018-10-05 17:03:08,429 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34584
+2018-10-05 17:03:09,820 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:62
+2018-10-05 17:03:09,820 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:62
+2018-10-05 17:03:09,821 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 11661, 26704, 20306, 16600, 14040, 26074, 10336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931]
+2018-10-05 17:03:09,821 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[4524, 7359, 23893, 23877]
+2018-10-05 17:03:09,821 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7359
+2018-10-05 17:03:11,536 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:63
+2018-10-05 17:03:11,536 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:63
+2018-10-05 17:03:11,537 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11661, 26704, 20306, 16600, 14040, 26074, 10336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931]
+2018-10-05 17:03:11,537 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2382, 4731, 35930, 35926, 35923, 35920, 22795, 22779]
+2018-10-05 17:03:11,537 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35920
+2018-10-05 17:03:13,236 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:64
+2018-10-05 17:03:13,236 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:64
+2018-10-05 17:03:13,237 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11661, 26704, 20306, 16600, 14040, 26074, 10336, 22752, 28839, 28206, 24752, 10416, 20597, 23931]
+2018-10-05 17:03:13,237 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35920, 35918, 6945, 14056, 14040]
+2018-10-05 17:03:13,237 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:6945
+2018-10-05 17:03:14,740 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:65
+2018-10-05 17:03:14,740 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:65
+2018-10-05 17:03:14,740 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11661, 26704, 16600, 10336, 22752, 28839, 28206, 24752, 10416, 20597, 23931]
+2018-10-05 17:03:14,741 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2544, 8376, 26720, 26704]
+2018-10-05 17:03:14,741 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:8376
+2018-10-05 17:03:16,152 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:66
+2018-10-05 17:03:16,152 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:66
+2018-10-05 17:03:16,153 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11661, 10336, 22752, 28839, 28206, 10416, 20597, 23931]
+2018-10-05 17:03:16,153 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[5028, 7746, 10432, 10416]
+2018-10-05 17:03:16,153 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7746
+2018-10-05 17:03:17,552 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:67
+2018-10-05 17:03:17,553 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:67
+2018-10-05 17:03:17,553 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11661, 10336, 22752, 28839, 20597, 23931]
+2018-10-05 17:03:17,553 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33968, 34654, 33969, 22768, 22752]
+2018-10-05 17:03:17,553 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33969
+2018-10-05 17:03:19,024 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:68
+2018-10-05 17:03:19,025 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:68
+2018-10-05 17:03:19,025 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11661, 10336, 28839, 20597, 23931]
+2018-10-05 17:03:19,025 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33968, 8925, 5766, 4128, 4173, 352, 4155, 33357, 4956, 11677, 11661]
+2018-10-05 17:03:19,025 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:4956
+2018-10-05 17:03:20,428 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:69
+2018-10-05 17:03:20,429 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:69
+2018-10-05 17:03:20,429 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:03:20,429 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (34410)]
+2018-10-05 17:03:20,429 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:03:20,430 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 28839, 20597, 23931]
+2018-10-05 17:03:20,430 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33357, 4956, 7080, 20613, 20597]
+2018-10-05 17:03:20,430 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7080
+2018-10-05 17:03:21,864 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:70
+2018-10-05 17:03:21,865 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:70
+2018-10-05 17:03:21,865 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:03:21,865 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (34410)]
+2018-10-05 17:03:21,865 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:03:21,865 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:03:21,866 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2526, 3462, 35911, 35914, 35918, 35920, 35923, 35926, 35930, 35932, 33064, 34588, 35983, 35982, 35979, 4209, 1609, 7287, 4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:03:21,866 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:03:23,328 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:71
+2018-10-05 17:03:23,328 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:71
+2018-10-05 17:03:23,328 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:03:23,329 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35911, 35914, 35918, 35920, 35923, 35926, 35930, 35932, 33064, 34588, 35983, 35982, 35979, 4209, 1609, 7287, 4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:03:23,329 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:03:24,788 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:72
+2018-10-05 17:03:24,788 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:72
+2018-10-05 17:03:24,789 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:03:24,789 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35920, 35923, 35926, 35930, 35932, 33064, 34588, 35983, 35982, 35979, 4209, 1609, 7287, 4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:03:24,789 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:03:26,248 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:73
+2018-10-05 17:03:26,248 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:73
+2018-10-05 17:03:26,249 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:03:26,249 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33064, 34588, 35983, 35982, 35979, 4209, 1609, 7287, 4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:03:26,249 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:03:27,624 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:74
+2018-10-05 17:03:27,625 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:74
+2018-10-05 17:03:27,625 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:03:27,625 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35982, 35979, 4209, 1609, 7287, 4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:03:27,625 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:03:29,068 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:75
+2018-10-05 17:03:29,068 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:75
+2018-10-05 17:03:29,069 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:03:29,069 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:03:29,069 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:03:30,552 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:76
+2018-10-05 17:03:30,552 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:76
+2018-10-05 17:03:30,553 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[23931]
+2018-10-05 17:03:30,553 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34700, 23931]
+2018-10-05 17:03:30,553 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:23931
+2018-10-05 17:03:32,016 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:77
+2018-10-05 17:03:32,016 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:77
+2018-10-05 17:03:32,017 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 13512, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 26336, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 14067, 20597, 18933, 10362, 26171, 22779, 20478]
+2018-10-05 17:03:32,017 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34700, 14459, 34710, 10336]
+2018-10-05 17:03:32,017 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:03:33,468 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:78
+2018-10-05 17:03:33,468 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:78
+2018-10-05 17:03:33,469 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 13512, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 26336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 14067, 20597, 18933, 10362, 26171, 22779, 20478]
+2018-10-05 17:03:33,469 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[14475, 4065, 8277, 5991, 32737, 32736, 8736, 6369, 35366, 34022, 26032, 26016]
+2018-10-05 17:03:33,469 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34022
+2018-10-05 17:03:35,044 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:79
+2018-10-05 17:03:35,045 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:79
+2018-10-05 17:03:35,045 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 13512, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 26336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 14067, 20597, 18933, 10362, 26171, 22779, 20478]
+2018-10-05 17:03:35,045 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[32736, 8736, 6369, 35366, 34022, 26032, 26016]
+2018-10-05 17:03:35,045 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34022
+2018-10-05 17:03:36,620 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:80
+2018-10-05 17:03:36,621 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:80
+2018-10-05 17:03:36,621 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26336, 22752, 20451, 19046, 35686, 28839, 35687, 28206, 24752, 10416, 20337, 14067, 20597, 18933, 10362, 26171, 22779, 20478]
+2018-10-05 17:03:36,621 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34008, 34001, 33989, 13920, 13904]
+2018-10-05 17:03:36,621 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33989
+2018-10-05 17:03:38,052 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:81
+2018-10-05 17:03:38,052 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:81
+2018-10-05 17:03:38,053 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 17229, 25421, 11661, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26336, 22752, 20451, 19046, 35686, 28839, 35687, 28206, 24752, 10416, 20337, 20597, 18933, 26171, 22779, 20478]
+2018-10-05 17:03:38,053 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[9141, 6045, 34588, 25437, 25421]
+2018-10-05 17:03:38,053 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34588
+2018-10-05 17:03:39,424 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:82
+2018-10-05 17:03:39,425 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:82
+2018-10-05 17:03:39,425 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 11661, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 26336, 22752, 20451, 19046, 28839, 28206, 24752, 10416, 20337, 20597, 26171, 22779, 20478]
+2018-10-05 17:03:39,425 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34588, 33064, 35932, 35936, 35939, 20352, 20337]
+2018-10-05 17:03:39,425 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35939
+2018-10-05 17:03:40,824 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:83
+2018-10-05 17:03:40,824 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:83
+2018-10-05 17:03:40,825 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 11661, 26704, 20306, 33043, 24725, 16600, 33048, 14040, 26074, 26336, 22752, 20451, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 20478]
+2018-10-05 17:03:40,825 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35932, 35930, 4731, 16917, 16901]
+2018-10-05 17:03:40,825 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:4731
+2018-10-05 17:03:42,332 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:84
+2018-10-05 17:03:42,332 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:84
+2018-10-05 17:03:42,333 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 24725, 16600, 33048, 14040, 26074, 26336, 22752, 20451, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 20478]
+2018-10-05 17:03:42,333 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2382, 7359, 20494, 20478]
+2018-10-05 17:03:42,333 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7359
+2018-10-05 17:03:43,736 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:85
+2018-10-05 17:03:43,736 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:85
+2018-10-05 17:03:43,737 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 24725, 16600, 33048, 14040, 26074, 26336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779]
+2018-10-05 17:03:43,737 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[4524, 34584, 6450, 24741, 24725]
+2018-10-05 17:03:43,737 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:6450
+2018-10-05 17:03:45,152 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:86
+2018-10-05 17:03:45,152 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:86
+2018-10-05 17:03:45,152 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779]
+2018-10-05 17:03:45,152 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33986, 33987, 2508, 7215, 22768, 22752]
+2018-10-05 17:03:45,152 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7215
+2018-10-05 17:03:46,592 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:87
+2018-10-05 17:03:46,592 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:87
+2018-10-05 17:03:46,593 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 28839, 28206, 24752, 10416, 20597, 26171, 22779]
+2018-10-05 17:03:46,593 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[7215, 33969, 34654, 33968, 10432, 10416]
+2018-10-05 17:03:46,593 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33968
+2018-10-05 17:03:48,136 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:88
+2018-10-05 17:03:48,136 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:88
+2018-10-05 17:03:48,137 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 28839, 24752, 20597, 26171, 22779]
+2018-10-05 17:03:48,137 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33968, 7746, 24768, 24752]
+2018-10-05 17:03:48,137 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7746
+2018-10-05 17:03:49,520 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:89
+2018-10-05 17:03:49,520 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:89
+2018-10-05 17:03:49,521 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 20306, 33043, 33048, 14040, 26074, 26336, 28839, 20597, 26171, 22779]
+2018-10-05 17:03:49,521 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[5028, 26090, 26074]
+2018-10-05 17:03:49,521 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:5028
+2018-10-05 17:03:51,020 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:90
+2018-10-05 17:03:51,020 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:90
+2018-10-05 17:03:51,021 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 20306, 33043, 33048, 26336, 28839, 20597, 26171, 22779]
+2018-10-05 17:03:51,021 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[8376, 20322, 20306]
+2018-10-05 17:03:51,021 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:8376
+2018-10-05 17:03:52,508 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:91
+2018-10-05 17:03:52,508 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:91
+2018-10-05 17:03:52,509 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 33043, 33048, 26336, 28839, 20597, 22779]
+2018-10-05 17:03:52,509 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2544, 6945, 35918, 35920, 22795, 22779]
+2018-10-05 17:03:52,509 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35920
+2018-10-05 17:03:53,996 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:92
+2018-10-05 17:03:53,996 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:92
+2018-10-05 17:03:53,997 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 33043, 33048, 26336, 28839, 20597]
+2018-10-05 17:03:53,997 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35918, 35914, 35911, 3462, 28855, 28839]
+2018-10-05 17:03:53,997 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:3462
+2018-10-05 17:03:55,488 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:93
+2018-10-05 17:03:55,488 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:93
+2018-10-05 17:03:55,489 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 33043, 33048, 26336, 20597]
+2018-10-05 17:03:55,489 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[3462, 2526, 20613, 20597]
+2018-10-05 17:03:55,489 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:2526
+2018-10-05 17:03:56,964 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:94
+2018-10-05 17:03:56,964 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:94
+2018-10-05 17:03:56,965 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336]
+2018-10-05 17:03:56,967 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[3462, 35911, 35912, 35915, 35720, 35782, 35786, 35789, 35801, 35803, 35807, 21145, 21130]
+2018-10-05 17:03:56,967 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35807
+2018-10-05 17:03:58,360 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:95
+2018-10-05 17:03:58,360 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:95
+2018-10-05 17:03:58,360 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336]
+2018-10-05 17:03:58,361 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35911, 35912, 35915, 35720, 35782, 35786, 35789, 35801, 35803, 35807, 21145, 21130]
+2018-10-05 17:03:58,361 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35807
+2018-10-05 17:03:59,708 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:96
+2018-10-05 17:03:59,708 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:96
+2018-10-05 17:03:59,709 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336]
+2018-10-05 17:03:59,709 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35720, 35782, 35786, 35789, 35801, 35803, 35807, 21145, 21130]
+2018-10-05 17:03:59,709 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35807
+2018-10-05 17:04:01,104 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:97
+2018-10-05 17:04:01,104 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:97
+2018-10-05 17:04:01,105 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 33048, 26336]
+2018-10-05 17:04:01,105 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35801, 35803, 35807, 35810, 33049, 33048]
+2018-10-05 17:04:01,105 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35810
+2018-10-05 17:04:02,612 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:98
+2018-10-05 17:04:02,612 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:98
+2018-10-05 17:04:02,613 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[26336]
+2018-10-05 17:04:02,613 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35813, 35816, 35818, 35822, 31060, 31059, 26352, 26336]
+2018-10-05 17:04:02,613 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:31059
+2018-10-05 17:04:03,988 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:99
+2018-10-05 17:04:03,988 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:99
+2018-10-05 17:04:03,989 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 17:04:03,989 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35818, 35816, 35813, 35810, 33049, 33048]
+2018-10-05 17:04:03,989 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35810
+2018-10-05 17:04:05,444 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:100
+2018-10-05 17:04:05,444 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:100
+2018-10-05 17:04:05,445 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 35667, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 17:04:05,445 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35937, 35936, 35939, 20352, 20337]
+2018-10-05 17:04:05,445 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35939
+2018-10-05 17:04:06,844 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:101
+2018-10-05 17:04:06,844 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:101
+2018-10-05 17:04:06,845 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 25421, 11661, 13904, 26704, 20306, 35667, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 17:04:06,845 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35932, 33064, 34588, 25437, 25421]
+2018-10-05 17:04:06,845 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34588
+2018-10-05 17:04:08,288 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:102
+2018-10-05 17:04:08,288 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:102
+2018-10-05 17:04:08,289 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 25421, 11661, 13904, 26704, 20306, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 28839, 22697, 25515, 28206, 24752, 10416, 25394, 14067, 20597, 18933, 26171, 22779, 23931, 20478]
+2018-10-05 17:04:08,289 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34588, 25437, 25421]
+2018-10-05 17:04:08,289 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34588
+2018-10-05 17:04:09,680 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:103
+2018-10-05 17:04:09,680 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:103
+2018-10-05 17:04:09,681 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 11661, 13904, 26704, 20306, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 28839, 22697, 25515, 28206, 24752, 10416, 14067, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:04:09,681 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[6045, 9141, 13920, 13904]
+2018-10-05 17:04:09,681 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:9141
+2018-10-05 17:04:11,112 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:104
+2018-10-05 17:04:11,112 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:104
+2018-10-05 17:04:11,112 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 11661, 26704, 20306, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 28839, 22697, 25515, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:04:11,112 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33989, 34001, 25515]
+2018-10-05 17:04:11,112 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33989
+2018-10-05 17:04:12,496 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:105
+2018-10-05 17:04:12,496 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:105
+2018-10-05 17:04:12,497 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 17229, 11661, 26704, 20306, 24725, 16600, 14040, 26074, 35676, 10336, 22752, 20451, 28839, 22697, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:04:12,497 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34001, 34002, 34635, 34623, 33987, 33986, 24741, 24725]
+2018-10-05 17:04:12,497 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33986
+2018-10-05 17:04:13,896 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:106
+2018-10-05 17:04:13,897 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:106
+2018-10-05 17:04:13,897 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 17229, 11661, 26704, 20306, 16600, 14040, 26074, 35676, 10336, 22752, 20451, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:04:13,897 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33986, 6450, 20467, 20451]
+2018-10-05 17:04:13,897 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:6450
+2018-10-05 17:04:15,324 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:107
+2018-10-05 17:04:15,325 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:107
+2018-10-05 17:04:15,325 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 17229, 11661, 26704, 20306, 16600, 14040, 26074, 35676, 10336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:04:15,325 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34584, 17245, 17229]
+2018-10-05 17:04:15,325 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34584
+2018-10-05 17:04:16,748 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:108
+2018-10-05 17:04:16,748 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:108
+2018-10-05 17:04:16,749 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 11661, 26704, 20306, 16600, 14040, 26074, 10336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931]
+2018-10-05 17:04:16,749 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[4524, 7359, 23893, 23877]
+2018-10-05 17:04:16,749 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7359
+2018-10-05 17:04:18,108 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:109
+2018-10-05 17:04:18,108 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:109
+2018-10-05 17:04:18,109 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11661, 26704, 20306, 16600, 14040, 26074, 10336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 23931]
+2018-10-05 17:04:18,109 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2382, 4731, 35930, 35926, 35923, 35920, 22795, 22779]
+2018-10-05 17:04:18,109 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35920
+2018-10-05 17:04:19,480 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:110
+2018-10-05 17:04:19,480 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:110
+2018-10-05 17:04:19,481 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11661, 26704, 20306, 16600, 14040, 26074, 10336, 22752, 28839, 28206, 24752, 10416, 20597, 23931]
+2018-10-05 17:04:19,481 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35920, 35918, 6945, 14056, 14040]
+2018-10-05 17:04:19,481 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:6945
+2018-10-05 17:04:20,912 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:111
+2018-10-05 17:04:20,913 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:111
+2018-10-05 17:04:20,913 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11661, 26704, 16600, 10336, 22752, 28839, 28206, 24752, 10416, 20597, 23931]
+2018-10-05 17:04:20,913 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2544, 8376, 26720, 26704]
+2018-10-05 17:04:20,913 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:8376
+2018-10-05 17:04:22,388 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:112
+2018-10-05 17:04:22,388 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:112
+2018-10-05 17:04:22,389 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:04:22,389 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (14745)]
+2018-10-05 17:04:22,389 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:04:22,389 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11661, 10336, 22752, 28839, 28206, 10416, 20597, 23931]
+2018-10-05 17:04:22,389 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[5028, 7746, 10432, 10416]
+2018-10-05 17:04:22,389 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7746
+2018-10-05 17:04:24,260 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:113
+2018-10-05 17:04:24,260 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:113
+2018-10-05 17:04:24,261 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11661, 10336, 22752, 28839, 20597, 23931]
+2018-10-05 17:04:24,261 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33968, 34654, 33969, 22768, 22752]
+2018-10-05 17:04:24,261 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33969
+2018-10-05 17:04:26,267 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:114
+2018-10-05 17:04:26,267 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:114
+2018-10-05 17:04:26,268 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:04:26,268 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (20885), Building (28395)]
+2018-10-05 17:04:26,268 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:04:26,268 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11661, 10336, 28839, 20597, 23931]
+2018-10-05 17:04:26,269 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33968, 8925, 5766, 4128, 4173, 352, 4155, 33357, 4956, 11677, 11661]
+2018-10-05 17:04:26,269 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:4956
+2018-10-05 17:04:27,952 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:115
+2018-10-05 17:04:27,952 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:115
+2018-10-05 17:04:27,953 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 28839, 20597, 23931]
+2018-10-05 17:04:27,953 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33357, 4956, 7080, 20613, 20597]
+2018-10-05 17:04:27,953 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7080
+2018-10-05 17:04:29,460 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:116
+2018-10-05 17:04:29,460 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:116
+2018-10-05 17:04:29,461 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:04:29,461 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2526, 3462, 35911, 35914, 35918, 35920, 35923, 35926, 35930, 35932, 33064, 34588, 35983, 35982, 35979, 4209, 1609, 7287, 4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:04:29,461 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:04:30,824 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:117
+2018-10-05 17:04:30,824 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:117
+2018-10-05 17:04:30,825 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:04:30,825 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35911, 35914, 35918, 35920, 35923, 35926, 35930, 35932, 33064, 34588, 35983, 35982, 35979, 4209, 1609, 7287, 4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:04:30,825 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:04:32,204 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:118
+2018-10-05 17:04:32,204 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:118
+2018-10-05 17:04:32,205 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:04:32,205 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (35676)]
+2018-10-05 17:04:32,205 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: [Building (35676)]
+2018-10-05 17:04:32,205 [DEBUG|FireBrigade/92760370|TestBuildingDetector] There are fire in my cluster!
+2018-10-05 17:04:32,205 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Has allocate:0
+2018-10-05 17:04:32,205 [DEBUG|FireBrigade/92760370|TestBuildingDetector] So need me? :true
+2018-10-05 17:04:32,205 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I am going to the cluster!
+2018-10-05 17:04:32,205 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I see the 35676
+2018-10-05 17:04:32,205 [DEBUG|FireBrigade/92760370|TestBuildingDetector] One people has been doing this.
+2018-10-05 17:04:32,205 [DEBUG|FireBrigade/92760370|TestBuildingDetector] My cluster ok, but I am near a fire !
+2018-10-05 17:04:32,205 [DEBUG|FireBrigade/92760370|TestBuildingDetector] They need some people!
+2018-10-05 17:04:32,206 [DEBUG|FireBrigade/92760370|TestBuildingDetector] One people has been doing this.
+2018-10-05 17:04:32,206 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:04:32,206 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35920, 35923, 35926, 35930, 35932, 33064, 34588, 35983, 35982, 35979, 4209, 1609, 7287, 4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:04:32,206 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:04:33,652 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:119
+2018-10-05 17:04:33,653 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:119
+2018-10-05 17:04:33,653 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:04:33,653 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (35676)]
+2018-10-05 17:04:33,653 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: [Building (35676)]
+2018-10-05 17:04:33,653 [DEBUG|FireBrigade/92760370|TestBuildingDetector] There are fire in my cluster!
+2018-10-05 17:04:33,653 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Has allocate:0
+2018-10-05 17:04:33,653 [DEBUG|FireBrigade/92760370|TestBuildingDetector] So need me? :true
+2018-10-05 17:04:33,653 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I am going to the cluster!
+2018-10-05 17:04:33,653 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I see the 35676
+2018-10-05 17:04:33,653 [DEBUG|FireBrigade/92760370|TestBuildingDetector] One people has been doing this.
+2018-10-05 17:04:33,654 [DEBUG|FireBrigade/92760370|TestBuildingDetector] My cluster ok, but I am near a fire !
+2018-10-05 17:04:33,654 [DEBUG|FireBrigade/92760370|TestBuildingDetector] They need some people!
+2018-10-05 17:04:33,654 [DEBUG|FireBrigade/92760370|TestBuildingDetector] One people has been doing this.
+2018-10-05 17:04:33,654 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:04:33,654 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33064, 34588, 35983, 35982, 35979, 4209, 1609, 7287, 4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:04:33,654 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:04:35,060 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:120
+2018-10-05 17:04:35,061 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:120
+2018-10-05 17:04:35,061 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:04:35,061 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (35676)]
+2018-10-05 17:04:35,061 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: [Building (35676)]
+2018-10-05 17:04:35,061 [DEBUG|FireBrigade/92760370|TestBuildingDetector] There are fire in my cluster!
+2018-10-05 17:04:35,061 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Has allocate:0
+2018-10-05 17:04:35,061 [DEBUG|FireBrigade/92760370|TestBuildingDetector] So need me? :true
+2018-10-05 17:04:35,061 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I am going to the cluster!
+2018-10-05 17:04:35,061 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I see the 35676
+2018-10-05 17:04:35,061 [DEBUG|FireBrigade/92760370|TestBuildingDetector] One people has been doing this.
+2018-10-05 17:04:35,062 [DEBUG|FireBrigade/92760370|TestBuildingDetector] My cluster ok, but I am near a fire !
+2018-10-05 17:04:35,062 [DEBUG|FireBrigade/92760370|TestBuildingDetector] They need some people!
+2018-10-05 17:04:35,062 [DEBUG|FireBrigade/92760370|TestBuildingDetector] One people has been doing this.
+2018-10-05 17:04:35,062 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:04:35,062 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35982, 35979, 4209, 1609, 7287, 4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:04:35,062 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:04:36,468 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:121
+2018-10-05 17:04:36,468 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:121
+2018-10-05 17:04:36,468 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[10336, 23931]
+2018-10-05 17:04:36,469 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[4479, 33449, 35989, 35990, 14475, 14459, 34710, 10336]
+2018-10-05 17:04:36,469 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:04:37,936 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:122
+2018-10-05 17:04:37,936 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:122
+2018-10-05 17:04:37,937 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[23931]
+2018-10-05 17:04:37,937 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34700, 23931]
+2018-10-05 17:04:37,937 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:23931
+2018-10-05 17:04:39,412 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:123
+2018-10-05 17:04:39,412 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:123
+2018-10-05 17:04:39,413 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 13512, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 26336, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 14067, 20597, 18933, 10362, 26171, 22779, 20478]
+2018-10-05 17:04:39,413 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34700, 14459, 34710, 10336]
+2018-10-05 17:04:39,413 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:14459
+2018-10-05 17:04:40,876 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:124
+2018-10-05 17:04:40,876 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:124
+2018-10-05 17:04:40,876 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 13512, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 26336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 14067, 20597, 18933, 10362, 26171, 22779, 20478]
+2018-10-05 17:04:40,877 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[14475, 4065, 8277, 5991, 32737, 32736, 8736, 6369, 35366, 34022, 26032, 26016]
+2018-10-05 17:04:40,877 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34022
+2018-10-05 17:04:42,372 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:125
+2018-10-05 17:04:42,373 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:125
+2018-10-05 17:04:42,373 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:04:42,373 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (16681)]
+2018-10-05 17:04:42,373 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:04:42,373 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 13512, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 26336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 14067, 20597, 18933, 10362, 26171, 22779, 20478]
+2018-10-05 17:04:42,374 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[32736, 8736, 6369, 35366, 34022, 26032, 26016]
+2018-10-05 17:04:42,374 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34022
+2018-10-05 17:04:43,900 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:126
+2018-10-05 17:04:43,900 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:126
+2018-10-05 17:04:43,901 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:04:43,901 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (16681)]
+2018-10-05 17:04:43,901 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:04:43,901 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26336, 22752, 20451, 19046, 35686, 28839, 35687, 28206, 24752, 10416, 20337, 14067, 20597, 18933, 10362, 26171, 22779, 20478]
+2018-10-05 17:04:43,901 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34008, 34001, 33989, 13920, 13904]
+2018-10-05 17:04:43,901 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33989
+2018-10-05 17:04:45,388 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:127
+2018-10-05 17:04:45,388 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:127
+2018-10-05 17:04:45,389 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:04:45,389 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (16681)]
+2018-10-05 17:04:45,389 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:04:45,389 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 17229, 25421, 11661, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26336, 22752, 20451, 19046, 35686, 28839, 35687, 28206, 24752, 10416, 20337, 20597, 18933, 26171, 22779, 20478]
+2018-10-05 17:04:45,389 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[9141, 6045, 34588, 25437, 25421]
+2018-10-05 17:04:45,389 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34588
+2018-10-05 17:04:46,920 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:128
+2018-10-05 17:04:46,921 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:128
+2018-10-05 17:04:46,921 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:04:46,921 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (16681)]
+2018-10-05 17:04:46,921 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:04:46,921 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 11661, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 26336, 22752, 20451, 19046, 28839, 28206, 24752, 10416, 20337, 20597, 26171, 22779, 20478]
+2018-10-05 17:04:46,921 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34588, 33064, 35932, 35936, 35939, 20352, 20337]
+2018-10-05 17:04:46,921 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35939
+2018-10-05 17:04:48,532 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:129
+2018-10-05 17:04:48,532 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:129
+2018-10-05 17:04:48,533 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:04:48,533 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (16681)]
+2018-10-05 17:04:48,533 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:04:48,533 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 13512, 21130, 11661, 26704, 20306, 33043, 24725, 16600, 33048, 14040, 26074, 26336, 22752, 20451, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 20478]
+2018-10-05 17:04:48,533 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35932, 35930, 4731, 16917, 16901]
+2018-10-05 17:04:48,533 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:4731
+2018-10-05 17:04:50,236 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:130
+2018-10-05 17:04:50,236 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:130
+2018-10-05 17:04:50,237 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:04:50,237 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (16681)]
+2018-10-05 17:04:50,237 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:04:50,237 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 24725, 16600, 33048, 14040, 26074, 26336, 22752, 20451, 28839, 28206, 24752, 10416, 20597, 26171, 22779, 20478]
+2018-10-05 17:04:50,237 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2382, 7359, 20494, 20478]
+2018-10-05 17:04:50,237 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7359
+2018-10-05 17:04:51,689 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:131
+2018-10-05 17:04:51,690 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:131
+2018-10-05 17:04:51,690 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 24725, 16600, 33048, 14040, 26074, 26336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779]
+2018-10-05 17:04:51,690 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[4524, 34584, 6450, 24741, 24725]
+2018-10-05 17:04:51,690 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:6450
+2018-10-05 17:04:53,112 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:132
+2018-10-05 17:04:53,112 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:132
+2018-10-05 17:04:53,113 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:04:53,113 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (34198)]
+2018-10-05 17:04:53,113 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:04:53,113 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 22752, 28839, 28206, 24752, 10416, 20597, 26171, 22779]
+2018-10-05 17:04:53,113 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33986, 33987, 2508, 7215, 22768, 22752]
+2018-10-05 17:04:53,113 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7215
+2018-10-05 17:04:54,540 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:133
+2018-10-05 17:04:54,540 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:133
+2018-10-05 17:04:54,541 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:04:54,541 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (23792)]
+2018-10-05 17:04:54,541 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:04:54,541 [DEBUG|FireBrigade/92760370|TestBuildingDetector] My cluster ok, but I am near a fire !
+2018-10-05 17:04:54,541 [DEBUG|FireBrigade/92760370|TestBuildingDetector] They need some people!
+2018-10-05 17:04:56,260 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:134
+2018-10-05 17:04:56,261 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:134
+2018-10-05 17:04:56,261 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 28839, 28206, 24752, 10416, 20597, 26171, 22779]
+2018-10-05 17:04:56,261 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[7215, 33969, 34654, 33968, 10432, 10416]
+2018-10-05 17:04:56,261 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33968
+2018-10-05 17:04:58,212 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:135
+2018-10-05 17:04:58,212 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:135
+2018-10-05 17:04:58,213 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 28839, 24752, 10416, 20597, 26171, 22779]
+2018-10-05 17:04:58,213 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[10432, 10416]
+2018-10-05 17:04:58,213 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:10416
+2018-10-05 17:04:59,824 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:136
+2018-10-05 17:04:59,824 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:136
+2018-10-05 17:04:59,824 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 11661, 26704, 20306, 33043, 16600, 33048, 14040, 26074, 26336, 28839, 24752, 20597, 26171, 22779]
+2018-10-05 17:04:59,825 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[10432, 7746, 24768, 24752]
+2018-10-05 17:04:59,825 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:7746
+2018-10-05 17:05:01,204 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:137
+2018-10-05 17:05:01,204 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:137
+2018-10-05 17:05:01,205 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 20306, 33043, 33048, 14040, 26336, 28839, 20597, 26171, 22779]
+2018-10-05 17:05:01,205 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[5028, 8376, 20322, 20306]
+2018-10-05 17:05:01,205 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:8376
+2018-10-05 17:05:02,655 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:138
+2018-10-05 17:05:02,655 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:138
+2018-10-05 17:05:02,656 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336, 28839, 20597, 22779]
+2018-10-05 17:05:02,656 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[2544, 6945, 35918, 35920, 22795, 22779]
+2018-10-05 17:05:02,656 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35920
+2018-10-05 17:05:04,085 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:139
+2018-10-05 17:05:04,085 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:139
+2018-10-05 17:05:04,085 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336, 28839, 20597]
+2018-10-05 17:05:04,085 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35914, 35911, 3462, 28855, 28839]
+2018-10-05 17:05:04,086 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:3462
+2018-10-05 17:05:05,460 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:140
+2018-10-05 17:05:05,460 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:140
+2018-10-05 17:05:05,461 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336, 20597]
+2018-10-05 17:05:05,461 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[3462, 2526, 20613, 20597]
+2018-10-05 17:05:05,461 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:2526
+2018-10-05 17:05:06,900 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:141
+2018-10-05 17:05:06,900 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:141
+2018-10-05 17:05:06,900 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336]
+2018-10-05 17:05:06,901 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[3462, 35911, 35912, 35915, 35720, 35782, 35786, 35789, 35801, 35803, 35807, 21145, 21130]
+2018-10-05 17:05:06,901 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35807
+2018-10-05 17:05:08,300 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:142
+2018-10-05 17:05:08,301 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:142
+2018-10-05 17:05:08,301 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336]
+2018-10-05 17:05:08,301 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35911, 35912, 35915, 35720, 35782, 35786, 35789, 35801, 35803, 35807, 21145, 21130]
+2018-10-05 17:05:08,301 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35807
+2018-10-05 17:05:09,744 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:143
+2018-10-05 17:05:09,744 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:143
+2018-10-05 17:05:09,744 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 21130, 33043, 33048, 26336]
+2018-10-05 17:05:09,745 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35720, 35782, 35786, 35789, 35801, 35803, 35807, 21145, 21130]
+2018-10-05 17:05:09,745 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35807
+2018-10-05 17:05:11,176 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:144
+2018-10-05 17:05:11,176 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:144
+2018-10-05 17:05:11,176 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[13512, 33048, 26336]
+2018-10-05 17:05:11,176 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35801, 35803, 35807, 35810, 33049, 33048]
+2018-10-05 17:05:11,176 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35810
+2018-10-05 17:05:12,578 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:145
+2018-10-05 17:05:12,578 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:145
+2018-10-05 17:05:12,578 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[26336]
+2018-10-05 17:05:12,578 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35813, 35816, 35818, 35822, 31060, 31059, 26352, 26336]
+2018-10-05 17:05:12,578 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:31059
+2018-10-05 17:05:14,025 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:146
+2018-10-05 17:05:14,026 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:146
+2018-10-05 17:05:14,026 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 21130, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 33043, 35667, 24725, 16600, 33048, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 17:05:14,026 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35818, 35816, 35813, 35810, 33049, 33048]
+2018-10-05 17:05:14,026 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35810
+2018-10-05 17:05:15,476 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:147
+2018-10-05 17:05:15,476 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:147
+2018-10-05 17:05:15,476 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 25421, 11661, 13904, 26704, 35536, 35601, 20306, 35667, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 19046, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 20337, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 17:05:15,477 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35937, 35936, 35939, 20352, 20337]
+2018-10-05 17:05:15,477 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:35939
+2018-10-05 17:05:16,920 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:148
+2018-10-05 17:05:16,920 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:148
+2018-10-05 17:05:16,921 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 25421, 11661, 13904, 26704, 20306, 35667, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 35686, 28839, 35687, 22697, 25515, 28206, 24752, 10416, 25394, 14067, 20597, 18933, 10362, 26171, 22779, 23931, 20478]
+2018-10-05 17:05:16,921 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[35932, 33064, 34588, 25437, 25421]
+2018-10-05 17:05:16,921 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34588
+2018-10-05 17:05:18,332 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:149
+2018-10-05 17:05:18,332 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:149
+2018-10-05 17:05:18,333 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 25421, 11661, 13904, 26704, 20306, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 28839, 22697, 25515, 28206, 24752, 10416, 25394, 14067, 20597, 18933, 26171, 22779, 23931, 20478]
+2018-10-05 17:05:18,333 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34588, 25437, 25421]
+2018-10-05 17:05:18,333 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:34588
+2018-10-05 17:05:19,776 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:150
+2018-10-05 17:05:19,776 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:150
+2018-10-05 17:05:19,777 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 11661, 13904, 26704, 20306, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 28839, 22697, 25515, 28206, 24752, 10416, 14067, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:05:19,777 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[6045, 9141, 13920, 13904]
+2018-10-05 17:05:19,777 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:9141
+2018-10-05 17:05:21,147 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:151
+2018-10-05 17:05:21,147 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:151
+2018-10-05 17:05:21,148 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[11329, 16901, 23877, 20363, 17229, 11661, 26704, 20306, 24725, 16600, 14040, 26074, 35676, 26016, 10336, 22752, 20451, 28839, 22697, 25515, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:05:21,148 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[33989, 34001, 25515]
+2018-10-05 17:05:21,148 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33989
+2018-10-05 17:05:22,616 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:152
+2018-10-05 17:05:22,616 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:152
+2018-10-05 17:05:22,617 [DEBUG|FireBrigade/92760370|TestSearchForFire] unsearchedBuildingIDs:[16901, 23877, 17229, 11661, 26704, 20306, 24725, 16600, 14040, 26074, 35676, 10336, 22752, 20451, 28839, 22697, 28206, 24752, 10416, 20597, 26171, 22779, 23931, 20478]
+2018-10-05 17:05:22,617 [DEBUG|FireBrigade/92760370|TestSearchForFire] best path is:[34001, 34002, 34635, 34623, 33987, 33986, 24741, 24725]
+2018-10-05 17:05:22,617 [DEBUG|FireBrigade/92760370|TestSearchForFire] choosed:33986
+2018-10-05 17:05:24,128 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:153
+2018-10-05 17:05:24,128 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:153
+2018-10-05 17:05:24,129 [DEBUG|FireBrigade/92760370|TestBuildingDetector] ====================================================================
+2018-10-05 17:05:24,129 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Fire Building: [Building (17283)]
+2018-10-05 17:05:24,129 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Cluster Fire Building: []
+2018-10-05 17:05:24,129 [DEBUG|FireBrigade/92760370|TestBuildingDetector] My cluster ok, but I am near a fire !
+2018-10-05 17:05:24,129 [DEBUG|FireBrigade/92760370|TestBuildingDetector] They need some people!
+2018-10-05 17:05:25,528 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:154
+2018-10-05 17:05:25,529 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:154
+2018-10-05 17:05:25,529 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:26,900 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:155
+2018-10-05 17:05:26,900 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:155
+2018-10-05 17:05:26,900 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:28,416 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:156
+2018-10-05 17:05:28,416 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:156
+2018-10-05 17:05:28,417 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:29,828 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:157
+2018-10-05 17:05:29,828 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:157
+2018-10-05 17:05:29,829 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:31,200 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:158
+2018-10-05 17:05:31,201 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:158
+2018-10-05 17:05:31,201 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:32,620 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:159
+2018-10-05 17:05:32,621 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:159
+2018-10-05 17:05:32,621 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:34,112 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:160
+2018-10-05 17:05:34,112 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:160
+2018-10-05 17:05:34,113 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:35,536 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:161
+2018-10-05 17:05:35,536 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:161
+2018-10-05 17:05:35,536 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:36,924 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:162
+2018-10-05 17:05:36,924 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:162
+2018-10-05 17:05:36,924 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:38,334 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:163
+2018-10-05 17:05:38,336 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:163
+2018-10-05 17:05:38,336 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:39,764 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:164
+2018-10-05 17:05:39,764 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:164
+2018-10-05 17:05:39,764 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:41,232 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:165
+2018-10-05 17:05:41,233 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:165
+2018-10-05 17:05:41,233 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:42,673 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:166
+2018-10-05 17:05:42,673 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:166
+2018-10-05 17:05:42,673 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:44,148 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:167
+2018-10-05 17:05:44,148 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:167
+2018-10-05 17:05:44,149 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:45,644 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:168
+2018-10-05 17:05:45,645 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:168
+2018-10-05 17:05:45,645 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:47,044 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:169
+2018-10-05 17:05:47,044 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:169
+2018-10-05 17:05:47,045 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:48,432 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:170
+2018-10-05 17:05:48,432 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:170
+2018-10-05 17:05:48,433 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:49,824 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:171
+2018-10-05 17:05:49,824 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:171
+2018-10-05 17:05:49,824 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:51,192 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:172
+2018-10-05 17:05:51,192 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:172
+2018-10-05 17:05:51,192 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:52,624 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:173
+2018-10-05 17:05:52,624 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:173
+2018-10-05 17:05:52,625 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:54,072 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:174
+2018-10-05 17:05:54,072 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:174
+2018-10-05 17:05:54,073 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:55,460 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:175
+2018-10-05 17:05:55,460 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:175
+2018-10-05 17:05:55,461 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:56,840 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:176
+2018-10-05 17:05:56,841 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:176
+2018-10-05 17:05:56,841 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:58,324 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:177
+2018-10-05 17:05:58,324 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:177
+2018-10-05 17:05:58,325 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:05:59,684 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:178
+2018-10-05 17:05:59,685 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:178
+2018-10-05 17:05:59,685 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:01,120 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:179
+2018-10-05 17:06:01,121 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:179
+2018-10-05 17:06:01,121 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:02,580 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:180
+2018-10-05 17:06:02,580 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:180
+2018-10-05 17:06:02,581 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:04,016 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:181
+2018-10-05 17:06:04,017 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:181
+2018-10-05 17:06:04,017 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:05,416 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:182
+2018-10-05 17:06:05,416 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:182
+2018-10-05 17:06:05,416 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:06,836 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:183
+2018-10-05 17:06:06,837 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:183
+2018-10-05 17:06:06,837 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:08,392 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:184
+2018-10-05 17:06:08,392 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:184
+2018-10-05 17:06:08,393 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:09,892 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:185
+2018-10-05 17:06:09,892 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:185
+2018-10-05 17:06:09,892 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:11,356 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:186
+2018-10-05 17:06:11,357 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:186
+2018-10-05 17:06:11,357 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:12,768 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:187
+2018-10-05 17:06:12,768 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:187
+2018-10-05 17:06:12,769 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:14,232 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:188
+2018-10-05 17:06:14,232 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:188
+2018-10-05 17:06:14,233 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:15,704 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:189
+2018-10-05 17:06:15,704 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:189
+2018-10-05 17:06:15,704 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:17,197 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:190
+2018-10-05 17:06:17,197 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:190
+2018-10-05 17:06:17,197 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:18,612 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:191
+2018-10-05 17:06:18,612 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:191
+2018-10-05 17:06:18,613 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:20,071 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:192
+2018-10-05 17:06:20,071 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:192
+2018-10-05 17:06:20,072 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:21,528 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:193
+2018-10-05 17:06:21,529 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:193
+2018-10-05 17:06:21,529 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:23,029 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:194
+2018-10-05 17:06:23,029 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:194
+2018-10-05 17:06:23,029 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:24,552 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:195
+2018-10-05 17:06:24,552 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:195
+2018-10-05 17:06:24,553 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:26,044 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:196
+2018-10-05 17:06:26,045 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:196
+2018-10-05 17:06:26,045 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:27,460 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:197
+2018-10-05 17:06:27,460 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:197
+2018-10-05 17:06:27,460 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:28,848 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:198
+2018-10-05 17:06:28,848 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:198
+2018-10-05 17:06:28,849 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:30,276 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:199
+2018-10-05 17:06:30,277 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:199
+2018-10-05 17:06:30,277 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:31,732 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:200
+2018-10-05 17:06:31,733 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:200
+2018-10-05 17:06:31,733 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:33,124 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:201
+2018-10-05 17:06:33,125 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:201
+2018-10-05 17:06:33,125 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:34,496 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:202
+2018-10-05 17:06:34,496 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:202
+2018-10-05 17:06:34,497 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:35,896 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:203
+2018-10-05 17:06:35,897 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:203
+2018-10-05 17:06:35,897 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:37,392 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:204
+2018-10-05 17:06:37,393 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:204
+2018-10-05 17:06:37,393 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:38,831 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:205
+2018-10-05 17:06:38,832 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:205
+2018-10-05 17:06:38,832 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:40,304 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:206
+2018-10-05 17:06:40,305 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:206
+2018-10-05 17:06:40,305 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:41,728 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:207
+2018-10-05 17:06:41,729 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:207
+2018-10-05 17:06:41,729 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:43,184 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:208
+2018-10-05 17:06:43,185 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:208
+2018-10-05 17:06:43,185 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:44,600 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:209
+2018-10-05 17:06:44,600 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:209
+2018-10-05 17:06:44,601 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:46,060 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:210
+2018-10-05 17:06:46,061 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:210
+2018-10-05 17:06:46,061 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:47,492 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:211
+2018-10-05 17:06:47,493 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:211
+2018-10-05 17:06:47,493 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:48,952 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:212
+2018-10-05 17:06:48,952 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:212
+2018-10-05 17:06:48,953 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:50,340 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:213
+2018-10-05 17:06:50,341 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:213
+2018-10-05 17:06:50,341 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:51,728 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:214
+2018-10-05 17:06:51,729 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:214
+2018-10-05 17:06:51,729 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:53,091 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:215
+2018-10-05 17:06:53,092 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:215
+2018-10-05 17:06:53,092 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:54,544 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:216
+2018-10-05 17:06:54,544 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:216
+2018-10-05 17:06:54,545 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:55,944 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:217
+2018-10-05 17:06:55,944 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:217
+2018-10-05 17:06:55,944 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:57,348 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:218
+2018-10-05 17:06:57,348 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:218
+2018-10-05 17:06:57,348 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:06:58,773 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:219
+2018-10-05 17:06:58,773 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:219
+2018-10-05 17:06:58,773 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:00,184 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:220
+2018-10-05 17:07:00,184 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:220
+2018-10-05 17:07:00,185 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:01,616 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:221
+2018-10-05 17:07:01,616 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:221
+2018-10-05 17:07:01,616 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:03,157 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:222
+2018-10-05 17:07:03,157 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:222
+2018-10-05 17:07:03,157 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:04,656 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:223
+2018-10-05 17:07:04,657 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:223
+2018-10-05 17:07:04,657 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:06,044 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:224
+2018-10-05 17:07:06,045 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:224
+2018-10-05 17:07:06,045 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:07,461 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:225
+2018-10-05 17:07:07,461 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:225
+2018-10-05 17:07:07,461 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:09,000 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:226
+2018-10-05 17:07:09,001 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:226
+2018-10-05 17:07:09,001 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:10,370 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:227
+2018-10-05 17:07:10,371 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:227
+2018-10-05 17:07:10,371 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:11,760 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:228
+2018-10-05 17:07:11,761 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:228
+2018-10-05 17:07:11,761 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:13,164 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:229
+2018-10-05 17:07:13,165 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:229
+2018-10-05 17:07:13,165 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:14,560 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:230
+2018-10-05 17:07:14,561 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:230
+2018-10-05 17:07:14,561 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:15,928 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:231
+2018-10-05 17:07:15,928 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:231
+2018-10-05 17:07:15,929 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:17,320 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:232
+2018-10-05 17:07:17,321 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:232
+2018-10-05 17:07:17,321 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:18,780 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:233
+2018-10-05 17:07:18,781 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:233
+2018-10-05 17:07:18,781 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:20,144 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:234
+2018-10-05 17:07:20,144 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:234
+2018-10-05 17:07:20,144 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:21,548 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:235
+2018-10-05 17:07:21,549 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:235
+2018-10-05 17:07:21,549 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:22,956 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:236
+2018-10-05 17:07:22,957 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:236
+2018-10-05 17:07:22,957 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:24,292 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:237
+2018-10-05 17:07:24,292 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:237
+2018-10-05 17:07:24,293 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:25,676 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:238
+2018-10-05 17:07:25,676 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:238
+2018-10-05 17:07:25,676 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:27,148 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:239
+2018-10-05 17:07:27,148 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:239
+2018-10-05 17:07:27,149 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:28,560 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:240
+2018-10-05 17:07:28,561 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:240
+2018-10-05 17:07:28,561 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:30,024 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:241
+2018-10-05 17:07:30,024 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:241
+2018-10-05 17:07:30,025 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:31,500 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:242
+2018-10-05 17:07:31,500 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:242
+2018-10-05 17:07:31,501 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:32,932 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:243
+2018-10-05 17:07:32,933 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:243
+2018-10-05 17:07:32,933 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:34,360 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:244
+2018-10-05 17:07:34,360 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:244
+2018-10-05 17:07:34,361 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:35,848 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:245
+2018-10-05 17:07:35,849 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:245
+2018-10-05 17:07:35,849 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:37,444 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:246
+2018-10-05 17:07:37,444 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:246
+2018-10-05 17:07:37,445 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:38,980 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:247
+2018-10-05 17:07:38,981 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:247
+2018-10-05 17:07:38,981 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:40,464 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:248
+2018-10-05 17:07:40,464 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:248
+2018-10-05 17:07:40,465 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:41,952 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:249
+2018-10-05 17:07:41,952 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:249
+2018-10-05 17:07:41,953 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:43,440 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:250
+2018-10-05 17:07:43,440 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:250
+2018-10-05 17:07:43,441 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:44,813 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:251
+2018-10-05 17:07:44,814 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:251
+2018-10-05 17:07:44,814 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:46,217 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:252
+2018-10-05 17:07:46,217 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:252
+2018-10-05 17:07:46,217 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:47,728 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:253
+2018-10-05 17:07:47,728 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:253
+2018-10-05 17:07:47,728 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:49,170 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:254
+2018-10-05 17:07:49,171 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:254
+2018-10-05 17:07:49,171 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:50,600 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:255
+2018-10-05 17:07:50,601 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:255
+2018-10-05 17:07:50,601 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:51,964 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:256
+2018-10-05 17:07:51,965 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:256
+2018-10-05 17:07:51,965 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:53,445 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:257
+2018-10-05 17:07:53,445 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:257
+2018-10-05 17:07:53,445 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:54,860 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:258
+2018-10-05 17:07:54,861 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:258
+2018-10-05 17:07:54,861 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:56,296 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:259
+2018-10-05 17:07:56,297 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:259
+2018-10-05 17:07:56,297 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:57,720 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:260
+2018-10-05 17:07:57,721 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:260
+2018-10-05 17:07:57,721 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:07:59,132 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:261
+2018-10-05 17:07:59,132 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:261
+2018-10-05 17:07:59,133 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:08:00,496 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:262
+2018-10-05 17:08:00,496 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:262
+2018-10-05 17:08:00,497 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:08:01,952 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:263
+2018-10-05 17:08:01,952 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:263
+2018-10-05 17:08:01,953 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:08:03,348 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:264
+2018-10-05 17:08:03,349 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:264
+2018-10-05 17:08:03,349 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:08:04,716 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:265
+2018-10-05 17:08:04,716 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:265
+2018-10-05 17:08:04,717 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:08:06,052 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:266
+2018-10-05 17:08:06,052 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:266
+2018-10-05 17:08:06,052 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:08:07,456 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:267
+2018-10-05 17:08:07,456 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:267
+2018-10-05 17:08:07,457 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:08:08,833 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:268
+2018-10-05 17:08:08,833 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:268
+2018-10-05 17:08:08,833 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:08:10,184 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:269
+2018-10-05 17:08:10,184 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:269
+2018-10-05 17:08:10,185 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!
+2018-10-05 17:08:11,676 [DEBUG|FireBrigade/92760370|TestBuildingDetector] Time:270
+2018-10-05 17:08:11,676 [DEBUG|FireBrigade/92760370|TestSearchForFire] Time:270
+2018-10-05 17:08:11,677 [DEBUG|FireBrigade/92760370|TestBuildingDetector] I has been allocated!

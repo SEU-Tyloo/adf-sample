@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df6b85b0-4ac0-45f6-b2ce-b4f56be40061" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Tyloo/module/algorithm/AStarPathPlanning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tyloo/module/algorithm/AStarPathPlanning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tyloo/module/algorithm/KMeans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tyloo/module/algorithm/KMeans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/algorithm/AStarPathPlanning$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/algorithm/AStarPathPlanning$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/algorithm/AStarPathPlanning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/algorithm/KMeans$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/algorithm/KMeans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/complex/center/TestAmbulanceTargetAllocator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/complex/center/TestFireTargetAllocator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/complex/center/TestPoliceTargetAllocator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/complex/self/TestBuildingDetector$DistanceSorter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/complex/self/TestBuildingDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/complex/self/TestHumanDetector$DistanceSorter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/complex/self/TestHumanDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/complex/self/TestRoadDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SEU/module/complex/self/TestSearchForFire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/adf/sample/module/algorithm/SampleKMeans$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/adf/sample/module/algorithm/SampleKMeans$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/adf/sample/module/algorithm/SampleKMeans.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/adf/sample/module/algorithm/SampleKMeans.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/adf/sample/tactics/SampleTacticsFireBrigade.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/adf/sample/tactics/SampleTacticsFireBrigade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compile.sh" beforeDir="false" afterPath="$PROJECT_DIR$/compile.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/AmbulanceTeam/1759103535.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/FireBrigade/1756678390.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/PoliceForce/1629372541.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestBuildingDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestBuildingDetector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestSearchForFire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestSearchForFire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adf/sample/module/algorithm/SampleKMeans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adf/sample/module/algorithm/SampleKMeans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adf/sample/tactics/SampleTacticsFireBrigade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adf/sample/tactics/SampleTacticsFireBrigade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/start.sh" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,6 +54,16 @@
           <entry key="JAVA" value="16" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="33" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
@@ -61,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/self/TestBuildingDetector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="165">
+              <caret line="214" column="79" selection-start-line="214" selection-start-column="79" selection-end-line="214" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -176,7 +204,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538728875127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538730499926" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -204,16 +232,15 @@
       <option name="presentableId" value="Default" />
       <updated>1537797400701</updated>
       <workItem from="1537797406295" duration="212000" />
-      <workItem from="1538728782024" duration="87000" />
+      <workItem from="1538728782024" duration="1303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299000" />
+    <option name="totallyTimeSpent" value="1515000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1279" y="33" width="1282" height="732" extended-state="6" />
-    <editor active="true" />
+    <frame x="1279" y="33" width="1282" height="732" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25405845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -352,8 +379,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/self/TestBuildingDetector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="165">
+          <caret line="214" column="79" selection-start-line="214" selection-start-column="79" selection-end-line="214" selection-end-column="79" />
         </state>
       </provider>
     </entry>

@@ -95,7 +95,7 @@ public class TestSearchForFire extends Search {
 		if (path != null && path.size() > 2) {
 			this.result = path.get(path.size() - 3);
 		}else if (path != null && path.size() > 0) {
-			this.result = path.get(path.size() - 1);
+			this.result = path.get(path.size() - 1);;
 		}
 		logger.debug("choosed:"+result);
 		return this;

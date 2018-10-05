@@ -168,6 +168,7 @@ public class SampleKMeans extends StaticClustering {
         return this;
     }
 
+
     private void calcStandard(int repeat) {
         this.initShortestPath(this.worldInfo);
         Random random = new Random();

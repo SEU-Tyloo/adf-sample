@@ -9,6 +9,8 @@ import adf.agent.module.ModuleManager;
 import adf.agent.precompute.PrecomputeData;
 import adf.component.module.algorithm.Clustering;
 import adf.component.module.algorithm.StaticClustering;
+import adf.debug.TestLogger;
+import org.apache.log4j.Logger;
 import rescuecore2.misc.Pair;
 import rescuecore2.misc.collections.LazyMap;
 import rescuecore2.misc.geometry.Point2D;
@@ -43,6 +45,12 @@ public class KMeans extends StaticClustering {
 
     private Map<EntityID, Set<EntityID>> shortestPathGraph;
 
+
+    //HOX
+    private Logger logger;
+
+
+
     public KMeans(AgentInfo ai, WorldInfo wi, ScenarioInfo si, ModuleManager moduleManager, DevelopData developData) {
         super(ai, wi, si, moduleManager, developData);
         this.repeatPrecompute = developData.getInteger("sample.module.SampleKMeans.repeatPrecompute", 7);
@@ -63,6 +71,7 @@ public class KMeans extends StaticClustering {
                 StandardEntityURN.FIRE_STATION,
                 StandardEntityURN.POLICE_OFFICE
         );
+        logger = TestLogger.getLogger("HOX_KMINGS");
     }
 
     @Override
@@ -164,8 +173,11 @@ public class KMeans extends StaticClustering {
         return this.clusterEntityIDsList.get(index);
     }
 
+
+    // HOX : 火的绑定关系
     @Override
     public Clustering calc() {
+
         return this;
     }
 

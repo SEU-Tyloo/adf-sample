@@ -39,7 +39,7 @@ public class AStarPathPlanning extends PathPlanning {
                Collection<EntityID> areaNeighbours = ((Area) next).getNeighbours();
                neighbours.get(next.getID()).addAll(areaNeighbours);
            }
-       }
+       }//可通过的area
        this.graph = neighbours;
    }
 
@@ -80,104 +80,63 @@ public class AStarPathPlanning extends PathPlanning {
 
    @Override
    public PathPlanning calc() {
-       //  1
-       List<EntityID> open = new LinkedList<>();
-       List<EntityID> close = new LinkedList<>();
-       Map<EntityID, Node> nodeMap = new HashMap<>();
-    
-       //  3
-       open.add(this.from);
-       nodeMap.put(this.from, new Node(null, this.from));
-       close.clear();
-    
-       while (true) {
-           //  4
-           if (open.size() < 0) {
-               this.result = null;
-               return this;
+       //采用广度优先遍历，找到最近的路径
+       List<EntityID> isPass=new LinkedList<>();
+       Map<EntityID,EntityID> ancestors = new HashMap<>();
+       isPass.add(this.from);
+       EntityID child;
+       boolean found=false;
+       ancestors.put(this.from,this.from);//前面是儿子，后面是父亲，父子关系图
+       do {
+           child = isPass.remove(0);
+
+           //判断child是否在targets中,如果在目标区域内，则跳出循环
+           if (isGoal(child, targets)) {
+               found = true;
+               break;
            }
-    
-           //  5
-           Node n = null;
-           for (EntityID id : open) {
-               Node node = nodeMap.get(id);
-    
-               if (n == null) {
-                   n = node;
-               } else if (node.estimate() < n.estimate()) {
-                   n = node;
-               }
-           }
-    
-           //  6
-           if (targets.contains(n.getID())) {
-               //  9
-               List<EntityID> path = new LinkedList<>();
-               while (n != null) {
-                   path.add(0, n.getID());
-                   n = nodeMap.get(n.getParent());
-               }
-    
-               this.result = path;
-               return this;
-           }
-           open.remove(n.getID());
-           close.add(n.getID());
-    
-           //  7
-           Collection<EntityID> neighbours = this.graph.get(n.getID());
+
+           Collection<EntityID> neighbours = graph.get(child);
+           if (neighbours.isEmpty()) {
+               continue;
+           }//如果child没有在targets中，开始遍历它的邻居，寻找其邻居是否在targets中
+
            for (EntityID neighbour : neighbours) {
-               Node m = new Node(n, neighbour);
-    
-               if (!open.contains(neighbour) && !close.contains(neighbour)) {
-                   open.add(m.getID());
-                   nodeMap.put(neighbour, m);
-               }
-               else if (open.contains(neighbour) && m.estimate() < nodeMap.get(neighbour).estimate()) {
-                   nodeMap.put(neighbour, m);
-               }
-               else if (!close.contains(neighbour) && m.estimate() < nodeMap.get(neighbour).estimate()) {
-                   nodeMap.put(neighbour, m);
+               if (isGoal(neighbour, targets)) {
+                   ancestors.put(neighbour, child);
+                   child = neighbour;
+                   found = true;
+                   break;//如果其子孙在目标区域内，跳出循环
+               } else {
+                   if (!ancestors.containsKey(neighbour)) {
+                       isPass.add(neighbour);
+                       ancestors.put(neighbour, child);
+                   }//如果其不在父子关系图中，将其放在遍历列表和父子关系图中
                }
            }
-       }
+       }while(!found && !isPass.isEmpty());
+
+       if(!found){
+           this.result=null;
+       }//没有找到路径，返回空
+
+       EntityID current = child;
+       LinkedList<EntityID> path = new LinkedList<>();
+       do {
+           path.add(0, current);
+           current = ancestors.get(current);
+           if (current == null) {
+               throw new RuntimeException("Found a node with no ancestor! Something is broken.");
+           }
+       } while (current != this.from);//在父子关系图中找出来路径
+
+       this.result = path;
+       return this;
    }
 
 
-   private class Node {
-	    EntityID id;
-	    EntityID parent;
-	 
-	    double cost;
-	    double heuristic;
-	 
-	    public Node(Node from, EntityID id) {
-	        this.id = id;
-	 
-	        if (from == null) {
-	            this.cost = 0;
-	        } else {
-	            this.parent = from.getID();
-	            this.cost = from.getCost() + worldInfo.getDistance(from.getID(), id);
-	        }
-	 
-	        this.heuristic = worldInfo.getDistance(id, targets.toArray(new EntityID[targets.size()])[0]);
-	    }
-	 
-	    public EntityID getID() {
-	        return id;
-	    }
-	 
-	    public double getCost() {
-	        return cost;
-	    }
-	 
-	    public double estimate() {
-	        return cost + heuristic;
-	    }
-	 
-	    public EntityID getParent() {
-	        return this.parent;
-	    }
-	}
+
+    private boolean isGoal(EntityID e, Collection<EntityID> test) {
+        return test.contains(e);
+    }
 }

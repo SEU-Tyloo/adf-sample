@@ -20,8 +20,7 @@ import adf.sample.tactics.utils.MessageTool;
 import rescuecore2.standard.entities.*;
 import rescuecore2.worldmodel.EntityID;
 
-import java.util.List;
-import java.util.Objects;
+import java.util.*;
 
 import adf.agent.action.fire.ActionExtinguish;
 import adf.agent.action.fire.ActionRefill;
@@ -48,6 +47,8 @@ public class SampleTacticsFireBrigade extends TacticsFireBrigade
 
 	private Boolean isVisualDebug;
 
+	public static HashMap<Hydrant,List<EntityID>> H2I = new HashMap<>();
+
     @Override
     public void initialize(AgentInfo agentInfo, WorldInfo worldInfo, ScenarioInfo scenarioInfo, ModuleManager moduleManager, MessageManager messageManager, DevelopData developData)
     {
@@ -68,7 +69,6 @@ public class SampleTacticsFireBrigade extends TacticsFireBrigade
                             && moduleManager.getModuleConfig().getBooleanValue("VisualDebug", false));
 
         this.recentCommand = null;
-        // init Algorithm Module & ExtAction
         switch  (scenarioInfo.getMode())
         {
             case PRECOMPUTATION_PHASE:
@@ -127,6 +127,7 @@ public class SampleTacticsFireBrigade extends TacticsFireBrigade
         }
     }
 
+
     @Override
     public Action think(AgentInfo agentInfo, WorldInfo worldInfo, ScenarioInfo scenarioInfo, ModuleManager moduleManager, MessageManager messageManager, DevelopData developData)
     {
@@ -141,26 +142,23 @@ public class SampleTacticsFireBrigade extends TacticsFireBrigade
             WorldViewLauncher.getInstance().showTimeStep(agentInfo, worldInfo, scenarioInfo);
         }
 
-        if (agentInfo.getWater() == 0)
-        {
-        	PathPlanning pathPlanning = (PathPlanning)moduleManager.getModule("ActionFireFighting.PathPlanning", "adf.sample.module.algorithm.SamplePathPlanning");
-        	pathPlanning.setFrom(agentInfo.getPosition());
-            pathPlanning.setDestination(worldInfo.getEntityIDsOfType(StandardEntityURN.REFUGE));
+        if (agentInfo.getWater() == 0) {
+            PathPlanning pathPlanning = (PathPlanning) moduleManager.getModule("ActionFireFighting.PathPlanning", "adf.sample.module.algorithm.SamplePathPlanning");
+            pathPlanning.setFrom(agentInfo.getPosition());
+            Collection<EntityID> dests = worldInfo.getEntityIDsOfType(StandardEntityURN.REFUGE);
+            pathPlanning.setDestination(dests);
             List<EntityID> path = pathPlanning.calc().getResult();
-            if (path != null && path.size() > 0)
-            {
+            if (path != null && path.size() > 0) {
                 StandardEntity entity = worldInfo.getEntity(path.get(path.size() - 1));
-                if (entity instanceof Building)
-                {
-                    if (entity.getStandardURN() != StandardEntityURN.REFUGE)
-                    {
+                if (entity instanceof Building) {
+                    if (entity.getStandardURN() != StandardEntityURN.REFUGE) {
                         path.remove(path.size() - 1);
                     }
                 }
                 return new ActionMove(path);
             }
         }
-        	
+
         FireBrigade agent = (FireBrigade) agentInfo.me();
         EntityID agentID = agentInfo.getID();
         // command

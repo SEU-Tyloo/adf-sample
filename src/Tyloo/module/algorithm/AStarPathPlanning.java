@@ -9,6 +9,8 @@ import adf.agent.precompute.PrecomputeData;
 import adf.component.module.algorithm.PathPlanning;
 import rescuecore2.misc.collections.LazyMap;
 import rescuecore2.standard.entities.Area;
+import rescuecore2.standard.entities.Road;
+import rescuecore2.standard.entities.StandardEntity;
 import rescuecore2.worldmodel.Entity;
 import rescuecore2.worldmodel.EntityID;
 

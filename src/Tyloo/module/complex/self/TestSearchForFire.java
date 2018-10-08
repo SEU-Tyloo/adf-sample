@@ -10,11 +10,9 @@ import static rescuecore2.standard.entities.StandardEntityURN.POLICE_FORCE;
 import static rescuecore2.standard.entities.StandardEntityURN.POLICE_OFFICE;
 import static rescuecore2.standard.entities.StandardEntityURN.REFUGE;
 
-import java.util.Collection;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
+//import Tyloo.module.algorithm.AStarPathPlanning;
 import adf.debug.TestLogger;
 import org.apache.log4j.Logger;
 
@@ -34,11 +32,14 @@ import adf.agent.module.ModuleManager;
 import adf.component.communication.CommunicationMessage;
 import adf.component.module.algorithm.Clustering;
 import adf.component.module.algorithm.PathPlanning;
+
 import adf.component.module.complex.Search;
 import rescuecore2.standard.entities.Building;
 import rescuecore2.standard.entities.StandardEntity;
 import rescuecore2.standard.entities.StandardEntityURN;
 import rescuecore2.worldmodel.EntityID;
+
+import javax.swing.text.Position;
 
 public class TestSearchForFire extends Search {
 	private PathPlanning pathPlanning;
@@ -47,6 +48,18 @@ public class TestSearchForFire extends Search {
 	private EntityID result;
 	private Collection<EntityID> unsearchedBuildingIDs;
 	private Logger logger;
+
+    private ArrayList<EntityID> historyPosition;
+
+    private  boolean isBlocked(){
+        if(historyPosition.size() > 5){
+            EntityID a = historyPosition.get(historyPosition.size()-1);
+            EntityID b = historyPosition.get(historyPosition.size()-2);
+            EntityID c = historyPosition.get(historyPosition.size()-3);
+            return a == b && b == c;
+        }
+        return  false;
+    }
 
 	public TestSearchForFire(AgentInfo ai, WorldInfo wi, ScenarioInfo si, ModuleManager moduleManager, DevelopData developData) {
 		super(ai, wi, si, moduleManager, developData);
@@ -66,6 +79,8 @@ public class TestSearchForFire extends Search {
 		}
 		registerModule(this.clustering);
 		registerModule(this.pathPlanning);
+
+		historyPosition = new ArrayList<>();
 	}
 
 	@Override

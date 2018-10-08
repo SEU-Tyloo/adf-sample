@@ -1,5 +1,6 @@
 package Tyloo.module.complex.self;
 
+import java.sql.BatchUpdateException;
 import java.util.*;
 
 import adf.agent.action.common.ActionMove;
@@ -27,6 +28,7 @@ import rescuecore2.standard.entities.Building;
 import rescuecore2.standard.entities.Human;
 import rescuecore2.standard.entities.StandardEntity;
 import rescuecore2.standard.entities.StandardEntityURN;
+import rescuecore2.worldmodel.Entity;
 import rescuecore2.worldmodel.EntityID;
 
 public class TestBuildingDetector extends BuildingDetector {
@@ -39,7 +41,6 @@ public class TestBuildingDetector extends BuildingDetector {
 	public static HashMap<EntityID,EntityID> buildingToPeople = new HashMap<>();
 	public static HashMap<Integer,List<EntityID>> clusterToPeople = new HashMap<>();
     public static ArrayList<Building> extroS = new ArrayList<>();
-
     private ArrayList<EntityID> historyPosition;
 	// HOX
 
@@ -76,8 +77,8 @@ public class TestBuildingDetector extends BuildingDetector {
                 Building changedBuilding = (Building) changedEntity;
                 if(! changedBuilding.isOnFire()
                         ||
-                        (changedBuilding.isTemperatureDefined()
-                                && changedBuilding.getTemperature() <60)  ){
+						(changedBuilding.isFierynessDefined() && changedBuilding.getFieryness()==8))
+                {
                     EntityID entityID = buildingToPeople.get(changedBuilding.getID());
                     int cluster = clustering.getClusterIndex(changedBuilding.getID());
                     removeClusterToPeople(cluster,entityID);
@@ -88,6 +89,22 @@ public class TestBuildingDetector extends BuildingDetector {
                 }
             }
         }
+        // 去除那些已经烧黑的
+		for(EntityID buildingId : worldInfo.getEntityIDsOfType(StandardEntityURN.BUILDING)){
+        	Building building = (Building) worldInfo.getEntity(buildingId);
+        	if(building != null
+					&& building.isFierynessDefined() && building.getFieryness() == 8
+					|| (building.isTemperatureDefined() && building.getTemperature() < 30)  ){
+				EntityID entityID = buildingToPeople.get(buildingId);
+				int cluster = clustering.getClusterIndex(buildingId);
+				removeClusterToPeople(cluster,entityID);
+				buildingToPeople.put(buildingId,null);
+				if(getOnfile(cluster) == 0){
+					clusterToPeople.put(cluster,new ArrayList<>());
+				}
+			}
+		}
+
 	    if((agentInfo.isWaterDefined() && agentInfo.getWater() == 0) || isBlocked() ){
             for (EntityID buildingID : buildingToPeople.keySet()) {
                 if(buildingToPeople.get(buildingID) == this.agentInfo.getID()){
@@ -100,7 +117,7 @@ public class TestBuildingDetector extends BuildingDetector {
     }
 
     private  boolean isBlocked(){
-	    if(historyPosition.size() > 5){
+	    if(historyPosition.size() > 4){
             EntityID a = historyPosition.get(historyPosition.size()-1);
             EntityID b = historyPosition.get(historyPosition.size()-2);
             EntityID c = historyPosition.get(historyPosition.size()-3);
@@ -229,14 +246,20 @@ public class TestBuildingDetector extends BuildingDetector {
                 }
                 //全部continue了, 说明每个建筑都有人,算了.
 			}
+			if(isNearGasStation(building)){
+                buildingToPeople.put(entity.getID(),this.agentInfo.getID());
+                addClusterToPeople(clusterIndex,this.agentInfo.getID());
+                return entity.getID();
+            }
 		}
+
 
 		try{
             if(extroS.size() > 1){
                 int extroId = clustering.getClusterIndex(extroS.get(0));
                 Building extroBuilding = extroS.get(0);
                 extroS.remove(0);
-                if(getOnfile(extroId) > 5 && extroBuilding.getFieryness() < 4){ //　火区真的比较大了，迅速集结
+                if(getOnfile(extroId) > 4 && extroBuilding.getFieryness() < 4){ //　火区真的比较大了，迅速集结
                     buildingToPeople.put(extroBuilding.getID(),this.agentInfo.getID());
                     addClusterToPeople(clusterIndex,this.agentInfo.getID());
                     logger.debug("Fire is so big! I am going here!");
@@ -249,6 +272,29 @@ public class TestBuildingDetector extends BuildingDetector {
         return null;
         //SYSTEMW
 	}
+
+	private boolean isNearGasStation(Building building){
+        Collection<StandardEntity> gas_stations = worldInfo.getEntitiesOfType(StandardEntityURN.GAS_STATION);
+        if(gas_stations == null
+                || gas_stations.isEmpty()){
+            return false;
+        }
+        Entity x = worldInfo.getPosition(building.getID());
+        for(StandardEntity entity : gas_stations){
+            Entity y = worldInfo.getPosition(entity.getID());
+            if(x != null && y != null){
+				try {
+					int distance = worldInfo.getDistance(x.getID(),y.getID());
+					if(distance < 56500){
+						return true;
+					}
+				}catch (Exception e){
+					continue;
+				}
+			}
+        }
+        return false;
+    }
 
     synchronized private static void addClusterToPeople(int clusterIndex,EntityID people){ //在区域内添加一个人
         clusterToPeople.computeIfAbsent(clusterIndex, k -> new ArrayList<>());
@@ -301,7 +347,7 @@ public class TestBuildingDetector extends BuildingDetector {
 		ArrayList<Building> fireBuildings = new ArrayList<>();
 		for (StandardEntity entity : input) {
 			if (entity instanceof Building && ((Building) entity).isOnFire()) {
-				if(((Building) entity).isFloorsDefined() && ((Building) entity).getFieryness() == 8)
+				if(((Building) entity).isFierynessDefined() && ((Building) entity).getFieryness() == 8)
 					continue;
 				fireBuildings.add((Building) entity);
 			}

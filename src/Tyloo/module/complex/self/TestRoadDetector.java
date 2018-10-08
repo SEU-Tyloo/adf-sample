@@ -55,7 +55,6 @@ public class TestRoadDetector extends RoadDetector {
 	@Override
 	public RoadDetector calc()
 	{
-
 		//在目标区域中，直接清除目标
 		//如果不在目标区域中，先更新优先级道路
 		//如果优先级道路不为空，优先清理优先级道路
@@ -201,8 +200,22 @@ public class TestRoadDetector extends RoadDetector {
 	@Override
 	public RoadDetector updateInfo(MessageManager messageManager) {
 
+		if(agentInfo.getTime()==1)
+		{
+			this.priorityRoads = new HashSet<>();
+			for (StandardEntity e : this.worldInfo.getEntitiesOfType(REFUGE,GAS_STATION)) {
+				for (EntityID id : ((Building) e).getNeighbours()) {
+					StandardEntity neighbour = this.worldInfo.getEntity(id);
+					if (neighbour instanceof Road) {
+						//if (((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
+							//如果该地区Block被定义，且该Block不为空，加入到优先级道路队列
+							this.priorityRoads.add(id);
+					}
+				}
+			}//优先级队列
+		}
 		this.targetAreas = new HashSet<>();
-		for (StandardEntity e : this.worldInfo.getEntitiesOfType(REFUGE,GAS_STATION,BUILDING,HYDRANT)) {
+		for (StandardEntity e : this.worldInfo.getEntitiesOfType(REFUGE,GAS_STATION,BUILDING)) {
 			for (EntityID id : ((Building) e).getNeighbours()) {
 				StandardEntity neighbour = this.worldInfo.getEntity(id);
 				if (neighbour instanceof Road) {
@@ -402,7 +415,7 @@ public class TestRoadDetector extends RoadDetector {
 		if (messageFireBrigade.getTargetID() == null)
 		{
 			return;
-		}
+		}//消防队的目标为空，直接返回即可，无需响应
 		if (messageFireBrigade.getAction() == MessageFireBrigade.ACTION_EXTINGUISH)//正在扑灭火
 		{
 			StandardEntity position = this.worldInfo.getEntity(messageFireBrigade.getPosition());//消防员的位置
@@ -410,7 +423,7 @@ public class TestRoadDetector extends RoadDetector {
 			{
 				this.targetAreas.removeAll(((Building) position).getNeighbours());
 			}
-		}
+		}//如果消防员在扑灭火，代表这个地区可以通过，无需清理
 		if(messageFireBrigade.getAction() == MessageFireBrigade.ACTION_MOVE)
 		{
 			if (messageFireBrigade.getTargetID() == null)
@@ -426,7 +439,7 @@ public class TestRoadDetector extends RoadDetector {
 					StandardEntity neighbour = this.worldInfo.getEntity(id);
 					if (neighbour instanceof Road)
 					{
-						if(((Road) neighbour).isBlockadesDefined() || !((Road) neighbour).getBlockades().isEmpty())
+						if(((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
 						{
 							this.priorityRoads.add(id);
 							this.targetAreas.add(id);
@@ -446,7 +459,7 @@ public class TestRoadDetector extends RoadDetector {
 					StandardEntity neighbour = this.worldInfo.getEntity(id);
 					if (neighbour instanceof Road)
 					{
-						if(((Road) neighbour).isBlockadesDefined() || !((Road) neighbour).getBlockades().isEmpty())
+						if(((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
 						{
 							this.priorityRoads.add(id);
 							this.targetAreas.add(id);

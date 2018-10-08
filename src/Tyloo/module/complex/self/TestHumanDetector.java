@@ -37,6 +37,12 @@ public class TestHumanDetector extends HumanDetector {
 
 	private Logger logger;
 
+	// 创建一个AToHuman，用来统计救护人员——>human的关系
+	public static HashMap<EntityID,EntityID> AToHuman = new HashMap<>();
+	// 创建一个limit，避免超多人救援一个人,human-->AT的数量
+	public static HashMap<EntityID,List<EntityID>> limit = new HashMap<>();
+
+
 	public TestHumanDetector(AgentInfo ai, WorldInfo wi, ScenarioInfo si, ModuleManager moduleManager, DevelopData developData) {
 		super(ai, wi, si, moduleManager, developData);
 		logger = TestLogger.getLogger(agentInfo.me());
@@ -54,14 +60,25 @@ public class TestHumanDetector extends HumanDetector {
 
 	@Override
 	public HumanDetector calc() {
+		logger.debug("\n");
+		// 判断当前是否有搬运
 		Human transportHuman = this.agentInfo.someoneOnBoard();
 		if (transportHuman != null) {
+			// 在搬运，直接结束
 			logger.debug("someoneOnBoard:" + transportHuman);
+			// 将这个人从AToHuman中清理出来
+			if (AToHuman.containsKey(this.agentInfo.getID())){
+				// 清理limit
+				limit.remove(AToHuman.get(this.agentInfo.getID()));
+				AToHuman.remove(this.agentInfo.getID());
+			}
 			this.result = transportHuman.getID();
 			return this;
 		}
-		if (this.result != null) {
+		//有目标但是没在搬运
+		else if (this.result != null) {
 			Human target = (Human) this.worldInfo.getEntity(this.result);
+			// 判断目标是否要放弃
 			if (!isValidHuman(target)) {
 				logger.debug("Invalid Human:" + target + " ==>reset target");
 				this.result = null;
@@ -70,7 +87,38 @@ public class TestHumanDetector extends HumanDetector {
 		if (this.result == null) {
 			this.result = calcTarget();
 		}
+		// 经过上面的步骤后应该是有result的
+		if (this.result != null){
+			//避免空指针
+			if (!limit.containsKey(this.result)){
+				List<EntityID> list = new ArrayList<>();
+				limit.put(this.result,list);
+			}
+
+			logger.debug("dang qian de limitRESULT"+limit.get(this.result));
+			// 医生数量少于 5 且不包含自己
+			if (limit.get(this.result).size() < 5 && !limit.get(this.result).contains(this.agentInfo.getID())){
+				AToHuman.put(this.agentInfo.getID(),this.result);
+				updateLimit(this.result);
+				return this;
+			}else if(limit.get(this.result).size() <= 5 && limit.get(this.result).contains(this.agentInfo.getID())){
+				return this;
+			}else{
+				logger.debug("hen duo ren dou xuan ze le zhe ge mu biao ,fang qi "+limit.get(this.result));
+				this.result = null;
+				return this;
+			}
+		}
 		return this;
+	}
+	// 当医生找到目标时候触发，更新limit的值，参数是human的id
+	private void updateLimit(EntityID id){
+		if(limit.containsKey(id)){
+			limit.get(id).add(this.agentInfo.me().getID());
+		}else {
+			limit.put(id,new ArrayList<>());
+		}
+
 	}
 
 	private EntityID calcTarget() {
@@ -80,7 +128,7 @@ public class TestHumanDetector extends HumanDetector {
 		if (targets.isEmpty())
 			targets = rescueTargets;
 
-		
+
 		logger.debug("Targets:"+targets);
 		if (!targets.isEmpty()) {
 			targets.sort(new DistanceSorter(this.worldInfo, this.agentInfo.me()));
@@ -88,7 +136,7 @@ public class TestHumanDetector extends HumanDetector {
 			logger.debug("Selected:"+selected);
 			return selected.getID();
 		}
-		
+
 		return null;
 	}
 
@@ -176,75 +224,86 @@ public class TestHumanDetector extends HumanDetector {
 	}
 
 	private boolean isValidHuman(StandardEntity entity) {
+		// 判断这个人是否需要帮助
 		if (entity == null)
 			return false;
 		if (!(entity instanceof Human))
 			return false;
 
 		Human target = (Human) entity;
-		if (!target.isHPDefined() || target.getHP() == 0)
+		logger.debug(" ?target " + target.getID() + "====hp" + target.getHP() + "====bury" + target.getBuriedness());
+		if (!target.isHPDefined() || target.getHP() == 0){
 			return false;
-		if (!target.isPositionDefined())
+		}
+		if (!target.isPositionDefined()){
 			return false;
-		if (!target.isDamageDefined() || target.getDamage() == 0)
+		}
+		if (!target.isDamageDefined() || target.getDamage() == 0){
+			// 受伤
+			logger.debug("target NO HURT");
 			return false;
-		if (!target.isBuriednessDefined())
+		}
+		if (!target.isBuriednessDefined()){
+			logger.debug("target NO BURY");
 			return false;
+		}
 
 		StandardEntity position = worldInfo.getPosition(target);
 		if (position == null)
 			return false;
 
 		StandardEntityURN positionURN = position.getStandardURN();
-		if (positionURN == REFUGE || positionURN == AMBULANCE_TEAM)
+		if (positionURN == REFUGE || positionURN == AMBULANCE_TEAM){
+			logger.debug("target POSITION" + positionURN);
 			return false;
+		}
 
 		return true;
 	}
-	private void reflectMessage(MessageManager messageManager) 
-	 {
-	        Set<EntityID> changedEntities = this.worldInfo.getChanged().getChangedEntities();
-	        changedEntities.add(this.agentInfo.getID());
-	        int time = this.agentInfo.getTime();
+	private void reflectMessage(MessageManager messageManager)
+	{
+		Set<EntityID> changedEntities = this.worldInfo.getChanged().getChangedEntities();
+		changedEntities.add(this.agentInfo.getID());
+		int time = this.agentInfo.getTime();
 
-	        for(CommunicationMessage message : messageManager.getReceivedMessageList()) {
-	            Class<? extends CommunicationMessage> messageClass = message.getClass();
-	            if(messageClass == MessageBuilding.class) {
-	                MessageBuilding mb = (MessageBuilding)message;
-	                if(!changedEntities.contains(mb.getBuildingID())) {
-	                    MessageUtil.reflectMessage(this.worldInfo, mb);
-	                }
-	            } else if(messageClass == MessageRoad.class) {
-	                MessageRoad mr = (MessageRoad)message;
-	                if(mr.isBlockadeDefined() && !changedEntities.contains(mr.getBlockadeID())) {
-	                    MessageUtil.reflectMessage(this.worldInfo, mr);
-	                }
-	                
-	            } else if(messageClass == MessageCivilian.class) {
-	                MessageCivilian mc = (MessageCivilian) message;
-	                if(!changedEntities.contains(mc.getAgentID())){
-	                    MessageUtil.reflectMessage(this.worldInfo, mc);
-	                }
-	                
-	            } else if(messageClass == MessageAmbulanceTeam.class) {
-	                MessageAmbulanceTeam mat = (MessageAmbulanceTeam)message;
-	                if(!changedEntities.contains(mat.getAgentID())) {
-	                    MessageUtil.reflectMessage(this.worldInfo, mat);
-	                }
-	               
-	            } else if(messageClass == MessageFireBrigade.class) {
-	                MessageFireBrigade mfb = (MessageFireBrigade) message;
-	                if(!changedEntities.contains(mfb.getAgentID())) {
-	                    MessageUtil.reflectMessage(this.worldInfo, mfb);
-	                }
-	               
-	            } else if(messageClass == MessagePoliceForce.class) {
-	                MessagePoliceForce mpf = (MessagePoliceForce) message;
-	                if(!changedEntities.contains(mpf.getAgentID())) {
-	                    MessageUtil.reflectMessage(this.worldInfo, mpf);
-	                }
-	                
-	            }
-	        }
-	    }
+		for(CommunicationMessage message : messageManager.getReceivedMessageList()) {
+			Class<? extends CommunicationMessage> messageClass = message.getClass();
+			if(messageClass == MessageBuilding.class) {
+				MessageBuilding mb = (MessageBuilding)message;
+				if(!changedEntities.contains(mb.getBuildingID())) {
+					MessageUtil.reflectMessage(this.worldInfo, mb);
+				}
+			} else if(messageClass == MessageRoad.class) {
+				MessageRoad mr = (MessageRoad)message;
+				if(mr.isBlockadeDefined() && !changedEntities.contains(mr.getBlockadeID())) {
+					MessageUtil.reflectMessage(this.worldInfo, mr);
+				}
+
+			} else if(messageClass == MessageCivilian.class) {
+				MessageCivilian mc = (MessageCivilian) message;
+				if(!changedEntities.contains(mc.getAgentID())){
+					MessageUtil.reflectMessage(this.worldInfo, mc);
+				}
+
+			} else if(messageClass == MessageAmbulanceTeam.class) {
+				MessageAmbulanceTeam mat = (MessageAmbulanceTeam)message;
+				if(!changedEntities.contains(mat.getAgentID())) {
+					MessageUtil.reflectMessage(this.worldInfo, mat);
+				}
+
+			} else if(messageClass == MessageFireBrigade.class) {
+				MessageFireBrigade mfb = (MessageFireBrigade) message;
+				if(!changedEntities.contains(mfb.getAgentID())) {
+					MessageUtil.reflectMessage(this.worldInfo, mfb);
+				}
+
+			} else if(messageClass == MessagePoliceForce.class) {
+				MessagePoliceForce mpf = (MessagePoliceForce) message;
+				if(!changedEntities.contains(mpf.getAgentID())) {
+					MessageUtil.reflectMessage(this.worldInfo, mpf);
+				}
+
+			}
+		}
+	}
 }

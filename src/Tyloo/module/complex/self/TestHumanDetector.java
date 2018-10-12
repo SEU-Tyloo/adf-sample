@@ -96,12 +96,12 @@ public class TestHumanDetector extends HumanDetector {
 			}
 
 			logger.debug("dang qian de limitRESULT"+limit.get(this.result));
-			// 医生数量少于 5 且不包含自己
-			if (limit.get(this.result).size() < 5 && !limit.get(this.result).contains(this.agentInfo.getID())){
+			// 医生数量少于 8 且不包含自己
+			if (limit.get(this.result).size() < 8 && !limit.get(this.result).contains(this.agentInfo.getID())){
 				AToHuman.put(this.agentInfo.getID(),this.result);
 				updateLimit(this.result);
 				return this;
-			}else if(limit.get(this.result).size() <= 5 && limit.get(this.result).contains(this.agentInfo.getID())){
+			}else if(limit.get(this.result).size() <= 8 && limit.get(this.result).contains(this.agentInfo.getID())){
 				return this;
 			}else{
 				logger.debug("hen duo ren dou xuan ze le zhe ge mu biao ,fang qi "+limit.get(this.result));

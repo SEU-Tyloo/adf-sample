@@ -1,0 +1,941 @@
+2018-10-13 01:21:56,329 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:1
+2018-10-13 01:21:56,332 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:1
+2018-10-13 01:21:56,332 [DEBUG|FireBrigade/210552869|TestSearchForFire] unsearchedBuildingIDs:[253, 943]
+2018-10-13 01:21:56,333 [DEBUG|FireBrigade/210552869|TestSearchForFire] best path is:[271, 256, 281, 296, 297, 253]
+2018-10-13 01:21:56,333 [DEBUG|FireBrigade/210552869|TestSearchForFire] choosed:296
+2018-10-13 01:21:57,745 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:2
+2018-10-13 01:21:57,749 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:2
+2018-10-13 01:21:57,749 [DEBUG|FireBrigade/210552869|TestSearchForFire] unsearchedBuildingIDs:[253, 943]
+2018-10-13 01:21:57,749 [DEBUG|FireBrigade/210552869|TestSearchForFire] best path is:[271, 256, 281, 296, 297, 253]
+2018-10-13 01:21:57,749 [DEBUG|FireBrigade/210552869|TestSearchForFire] choosed:296
+2018-10-13 01:21:58,858 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:3
+2018-10-13 01:21:58,859 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:3
+2018-10-13 01:21:58,859 [DEBUG|FireBrigade/210552869|TestSearchForFire] unsearchedBuildingIDs:[253, 943]
+2018-10-13 01:21:58,859 [DEBUG|FireBrigade/210552869|TestSearchForFire] best path is:[271, 256, 281, 296, 297, 253]
+2018-10-13 01:21:58,859 [DEBUG|FireBrigade/210552869|TestSearchForFire] choosed:296
+2018-10-13 01:22:00,051 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:4
+2018-10-13 01:22:00,063 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:4
+2018-10-13 01:22:00,063 [DEBUG|FireBrigade/210552869|TestSearchForFire] unsearchedBuildingIDs:[253, 943]
+2018-10-13 01:22:00,063 [DEBUG|FireBrigade/210552869|TestSearchForFire] best path is:[271, 256, 281, 296, 297, 253]
+2018-10-13 01:22:00,063 [DEBUG|FireBrigade/210552869|TestSearchForFire] choosed:296
+2018-10-13 01:22:01,239 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:5
+2018-10-13 01:22:01,239 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:5
+2018-10-13 01:22:01,239 [DEBUG|FireBrigade/210552869|TestBuildingDetector] ====================================================================
+2018-10-13 01:22:01,239 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Fire Building: [Building (905)]
+2018-10-13 01:22:01,239 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Cluster Fire Building: [Building (905)]
+2018-10-13 01:22:01,239 [DEBUG|FireBrigade/210552869|TestBuildingDetector] There are fire in my cluster!
+2018-10-13 01:22:01,239 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Has allocate:0
+2018-10-13 01:22:01,239 [DEBUG|FireBrigade/210552869|TestBuildingDetector] So need me? :true
+2018-10-13 01:22:01,240 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I am going to the cluster!
+2018-10-13 01:22:01,240 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I see the 905
+2018-10-13 01:22:01,240 [DEBUG|FireBrigade/210552869|TestBuildingDetector] No body doing this, I will doing this!
+2018-10-13 01:22:02,427 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:6
+2018-10-13 01:22:02,427 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:6
+2018-10-13 01:22:02,428 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:03,574 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:7
+2018-10-13 01:22:03,574 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:7
+2018-10-13 01:22:03,574 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:04,787 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:8
+2018-10-13 01:22:04,788 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:8
+2018-10-13 01:22:04,788 [DEBUG|FireBrigade/210552869|TestBuildingDetector] ====================================================================
+2018-10-13 01:22:04,788 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Fire Building: [Building (958)]
+2018-10-13 01:22:04,788 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Cluster Fire Building: []
+2018-10-13 01:22:04,795 [DEBUG|FireBrigade/210552869|TestBuildingDetector] My cluster ok, but I am near a fire !
+2018-10-13 01:22:04,795 [DEBUG|FireBrigade/210552869|TestBuildingDetector] They need some people!
+2018-10-13 01:22:04,795 [DEBUG|FireBrigade/210552869|TestBuildingDetector] One people has been doing this.
+2018-10-13 01:22:04,795 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Fire is so big! I am going here!
+2018-10-13 01:22:06,142 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:9
+2018-10-13 01:22:06,142 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:9
+2018-10-13 01:22:06,143 [DEBUG|FireBrigade/210552869|TestBuildingDetector] ====================================================================
+2018-10-13 01:22:06,143 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Fire Building: [Building (958)]
+2018-10-13 01:22:06,143 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Cluster Fire Building: []
+2018-10-13 01:22:06,143 [DEBUG|FireBrigade/210552869|TestBuildingDetector] My cluster ok, but I am near a fire !
+2018-10-13 01:22:06,143 [DEBUG|FireBrigade/210552869|TestBuildingDetector] They need some people!
+2018-10-13 01:22:06,143 [DEBUG|FireBrigade/210552869|TestBuildingDetector] One people has been doing this.
+2018-10-13 01:22:07,243 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:10
+2018-10-13 01:22:07,243 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:10
+2018-10-13 01:22:07,243 [DEBUG|FireBrigade/210552869|TestBuildingDetector] ====================================================================
+2018-10-13 01:22:07,243 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Fire Building: [Building (958)]
+2018-10-13 01:22:07,243 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Cluster Fire Building: []
+2018-10-13 01:22:07,244 [DEBUG|FireBrigade/210552869|TestBuildingDetector] My cluster ok, but I am near a fire !
+2018-10-13 01:22:07,244 [DEBUG|FireBrigade/210552869|TestBuildingDetector] They need some people!
+2018-10-13 01:22:07,244 [DEBUG|FireBrigade/210552869|TestBuildingDetector] One people has been doing this.
+2018-10-13 01:22:08,514 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:11
+2018-10-13 01:22:08,515 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:11
+2018-10-13 01:22:08,515 [DEBUG|FireBrigade/210552869|TestBuildingDetector] ====================================================================
+2018-10-13 01:22:08,515 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Fire Building: [Building (958)]
+2018-10-13 01:22:08,515 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Cluster Fire Building: []
+2018-10-13 01:22:08,515 [DEBUG|FireBrigade/210552869|TestBuildingDetector] My cluster ok, but I am near a fire !
+2018-10-13 01:22:08,515 [DEBUG|FireBrigade/210552869|TestBuildingDetector] They need some people!
+2018-10-13 01:22:08,515 [DEBUG|FireBrigade/210552869|TestBuildingDetector] One people has been doing this.
+2018-10-13 01:22:09,666 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:12
+2018-10-13 01:22:09,666 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:12
+2018-10-13 01:22:09,666 [DEBUG|FireBrigade/210552869|TestBuildingDetector] ====================================================================
+2018-10-13 01:22:09,667 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Fire Building: [Building (947), Building (958)]
+2018-10-13 01:22:09,667 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Cluster Fire Building: []
+2018-10-13 01:22:09,667 [DEBUG|FireBrigade/210552869|TestBuildingDetector] My cluster ok, but I am near a fire !
+2018-10-13 01:22:09,667 [DEBUG|FireBrigade/210552869|TestBuildingDetector] They need some people!
+2018-10-13 01:22:10,862 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:13
+2018-10-13 01:22:10,863 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:13
+2018-10-13 01:22:10,863 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:12,038 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:14
+2018-10-13 01:22:12,039 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:14
+2018-10-13 01:22:12,039 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:13,218 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:15
+2018-10-13 01:22:13,219 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:15
+2018-10-13 01:22:13,219 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:14,442 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:16
+2018-10-13 01:22:14,442 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:16
+2018-10-13 01:22:14,443 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:15,542 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:17
+2018-10-13 01:22:15,543 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:17
+2018-10-13 01:22:15,543 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:16,802 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:18
+2018-10-13 01:22:16,803 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:18
+2018-10-13 01:22:16,803 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:18,062 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:19
+2018-10-13 01:22:18,063 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:19
+2018-10-13 01:22:18,063 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:19,183 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:20
+2018-10-13 01:22:19,184 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:20
+2018-10-13 01:22:19,184 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:20,319 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:21
+2018-10-13 01:22:20,320 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:21
+2018-10-13 01:22:20,320 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:21,454 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:22
+2018-10-13 01:22:21,455 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:22
+2018-10-13 01:22:21,455 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:22,606 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:23
+2018-10-13 01:22:22,606 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:23
+2018-10-13 01:22:22,607 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:23,843 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:24
+2018-10-13 01:22:23,843 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:24
+2018-10-13 01:22:23,843 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:25,274 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:25
+2018-10-13 01:22:25,274 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:25
+2018-10-13 01:22:25,274 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:26,370 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:26
+2018-10-13 01:22:26,371 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:26
+2018-10-13 01:22:26,371 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:27,534 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:27
+2018-10-13 01:22:27,535 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:27
+2018-10-13 01:22:27,535 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:28,674 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:28
+2018-10-13 01:22:28,675 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:28
+2018-10-13 01:22:28,675 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:29,803 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:29
+2018-10-13 01:22:29,804 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:29
+2018-10-13 01:22:29,804 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:30,938 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:30
+2018-10-13 01:22:30,939 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:30
+2018-10-13 01:22:30,939 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:32,082 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:31
+2018-10-13 01:22:32,083 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:31
+2018-10-13 01:22:32,083 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:33,222 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:32
+2018-10-13 01:22:33,223 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:32
+2018-10-13 01:22:33,223 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:34,430 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:33
+2018-10-13 01:22:34,430 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:33
+2018-10-13 01:22:34,431 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:35,527 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:34
+2018-10-13 01:22:35,527 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:34
+2018-10-13 01:22:35,527 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:36,670 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:35
+2018-10-13 01:22:36,670 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:35
+2018-10-13 01:22:36,670 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:37,798 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:36
+2018-10-13 01:22:37,802 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:36
+2018-10-13 01:22:37,802 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:38,966 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:37
+2018-10-13 01:22:38,966 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:37
+2018-10-13 01:22:38,966 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:40,102 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:38
+2018-10-13 01:22:40,102 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:38
+2018-10-13 01:22:40,102 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:41,194 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:39
+2018-10-13 01:22:41,194 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:39
+2018-10-13 01:22:41,195 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:42,487 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:40
+2018-10-13 01:22:42,488 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:40
+2018-10-13 01:22:42,488 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:43,574 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:41
+2018-10-13 01:22:43,574 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:41
+2018-10-13 01:22:43,574 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:44,690 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:42
+2018-10-13 01:22:44,690 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:42
+2018-10-13 01:22:44,690 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:45,802 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:43
+2018-10-13 01:22:45,803 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:43
+2018-10-13 01:22:45,803 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:46,922 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:44
+2018-10-13 01:22:46,922 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:44
+2018-10-13 01:22:46,923 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:48,030 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:45
+2018-10-13 01:22:48,031 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:45
+2018-10-13 01:22:48,031 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:49,138 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:46
+2018-10-13 01:22:49,138 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:46
+2018-10-13 01:22:49,139 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:50,267 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:47
+2018-10-13 01:22:50,267 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:47
+2018-10-13 01:22:50,267 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:51,374 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:48
+2018-10-13 01:22:51,374 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:48
+2018-10-13 01:22:51,375 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:52,491 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:49
+2018-10-13 01:22:52,491 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:49
+2018-10-13 01:22:52,491 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:53,595 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:50
+2018-10-13 01:22:53,595 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:50
+2018-10-13 01:22:53,595 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:54,698 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:51
+2018-10-13 01:22:54,699 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:51
+2018-10-13 01:22:54,699 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:55,818 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:52
+2018-10-13 01:22:55,819 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:52
+2018-10-13 01:22:55,819 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:57,030 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:53
+2018-10-13 01:22:57,030 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:53
+2018-10-13 01:22:57,030 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:58,358 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:54
+2018-10-13 01:22:58,358 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:54
+2018-10-13 01:22:58,359 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:22:59,474 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:55
+2018-10-13 01:22:59,474 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:55
+2018-10-13 01:22:59,474 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:00,746 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:56
+2018-10-13 01:23:00,747 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:56
+2018-10-13 01:23:00,747 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:01,834 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:57
+2018-10-13 01:23:01,835 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:57
+2018-10-13 01:23:01,835 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:03,184 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:58
+2018-10-13 01:23:03,184 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:58
+2018-10-13 01:23:03,184 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:04,258 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:59
+2018-10-13 01:23:04,259 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:59
+2018-10-13 01:23:04,259 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:05,379 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:60
+2018-10-13 01:23:05,379 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:60
+2018-10-13 01:23:05,379 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:06,506 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:61
+2018-10-13 01:23:06,507 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:61
+2018-10-13 01:23:06,507 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:07,619 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:62
+2018-10-13 01:23:07,619 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:62
+2018-10-13 01:23:07,619 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:08,743 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:63
+2018-10-13 01:23:08,743 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:63
+2018-10-13 01:23:08,743 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:09,858 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:64
+2018-10-13 01:23:09,858 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:64
+2018-10-13 01:23:09,858 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:10,982 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:65
+2018-10-13 01:23:10,983 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:65
+2018-10-13 01:23:10,983 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:12,270 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:66
+2018-10-13 01:23:12,270 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:66
+2018-10-13 01:23:12,270 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:13,342 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:67
+2018-10-13 01:23:13,342 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:67
+2018-10-13 01:23:13,343 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:14,462 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:68
+2018-10-13 01:23:14,463 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:68
+2018-10-13 01:23:14,463 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:15,586 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:69
+2018-10-13 01:23:15,586 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:69
+2018-10-13 01:23:15,586 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:16,706 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:70
+2018-10-13 01:23:16,706 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:70
+2018-10-13 01:23:16,707 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:17,818 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:71
+2018-10-13 01:23:17,818 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:71
+2018-10-13 01:23:17,819 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:18,931 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:72
+2018-10-13 01:23:18,931 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:72
+2018-10-13 01:23:18,931 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:20,046 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:73
+2018-10-13 01:23:20,046 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:73
+2018-10-13 01:23:20,046 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:21,174 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:74
+2018-10-13 01:23:21,174 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:74
+2018-10-13 01:23:21,174 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:22,286 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:75
+2018-10-13 01:23:22,286 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:75
+2018-10-13 01:23:22,286 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:23,407 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:76
+2018-10-13 01:23:23,408 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:76
+2018-10-13 01:23:23,408 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:24,510 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:77
+2018-10-13 01:23:24,511 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:77
+2018-10-13 01:23:24,511 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:25,622 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:78
+2018-10-13 01:23:25,623 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:78
+2018-10-13 01:23:25,623 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:26,726 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:79
+2018-10-13 01:23:26,728 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:79
+2018-10-13 01:23:26,728 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:27,826 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:80
+2018-10-13 01:23:27,826 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:80
+2018-10-13 01:23:27,826 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:28,930 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:81
+2018-10-13 01:23:28,931 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:81
+2018-10-13 01:23:28,931 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:30,042 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:82
+2018-10-13 01:23:30,042 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:82
+2018-10-13 01:23:30,043 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:31,142 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:83
+2018-10-13 01:23:31,142 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:83
+2018-10-13 01:23:31,143 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:32,246 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:84
+2018-10-13 01:23:32,247 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:84
+2018-10-13 01:23:32,247 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:33,358 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:85
+2018-10-13 01:23:33,359 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:85
+2018-10-13 01:23:33,359 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:34,482 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:86
+2018-10-13 01:23:34,482 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:86
+2018-10-13 01:23:34,482 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:35,590 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:87
+2018-10-13 01:23:35,590 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:87
+2018-10-13 01:23:35,590 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:36,695 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:88
+2018-10-13 01:23:36,695 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:88
+2018-10-13 01:23:36,695 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:37,818 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:89
+2018-10-13 01:23:37,818 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:89
+2018-10-13 01:23:37,819 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:38,926 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:90
+2018-10-13 01:23:38,926 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:90
+2018-10-13 01:23:38,927 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:40,062 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:91
+2018-10-13 01:23:40,063 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:91
+2018-10-13 01:23:40,063 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:41,178 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:92
+2018-10-13 01:23:41,178 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:92
+2018-10-13 01:23:41,178 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:42,287 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:93
+2018-10-13 01:23:42,288 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:93
+2018-10-13 01:23:42,288 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:43,406 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:94
+2018-10-13 01:23:43,406 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:94
+2018-10-13 01:23:43,406 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:44,546 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:95
+2018-10-13 01:23:44,546 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:95
+2018-10-13 01:23:44,546 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:45,662 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:96
+2018-10-13 01:23:45,662 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:96
+2018-10-13 01:23:45,662 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:46,770 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:97
+2018-10-13 01:23:46,771 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:97
+2018-10-13 01:23:46,771 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:47,870 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:98
+2018-10-13 01:23:47,870 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:98
+2018-10-13 01:23:47,871 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:48,982 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:99
+2018-10-13 01:23:48,983 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:99
+2018-10-13 01:23:48,983 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:50,094 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:100
+2018-10-13 01:23:50,094 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:100
+2018-10-13 01:23:50,094 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:51,202 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:101
+2018-10-13 01:23:51,202 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:101
+2018-10-13 01:23:51,203 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:52,302 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:102
+2018-10-13 01:23:52,302 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:102
+2018-10-13 01:23:52,302 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:53,406 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:103
+2018-10-13 01:23:53,407 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:103
+2018-10-13 01:23:53,407 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:54,510 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:104
+2018-10-13 01:23:54,511 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:104
+2018-10-13 01:23:54,511 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:55,622 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:105
+2018-10-13 01:23:55,622 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:105
+2018-10-13 01:23:55,622 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:56,722 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:106
+2018-10-13 01:23:56,722 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:106
+2018-10-13 01:23:56,722 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:57,834 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:107
+2018-10-13 01:23:57,834 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:107
+2018-10-13 01:23:57,834 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:23:58,939 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:108
+2018-10-13 01:23:58,939 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:108
+2018-10-13 01:23:58,939 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:00,047 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:109
+2018-10-13 01:24:00,047 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:109
+2018-10-13 01:24:00,048 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:01,142 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:110
+2018-10-13 01:24:01,142 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:110
+2018-10-13 01:24:01,143 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:02,251 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:111
+2018-10-13 01:24:02,252 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:111
+2018-10-13 01:24:02,252 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:03,350 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:112
+2018-10-13 01:24:03,350 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:112
+2018-10-13 01:24:03,350 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:04,458 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:113
+2018-10-13 01:24:04,458 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:113
+2018-10-13 01:24:04,458 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:05,570 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:114
+2018-10-13 01:24:05,570 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:114
+2018-10-13 01:24:05,570 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:06,680 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:115
+2018-10-13 01:24:06,680 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:115
+2018-10-13 01:24:06,680 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:07,770 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:116
+2018-10-13 01:24:07,770 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:116
+2018-10-13 01:24:07,770 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:08,874 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:117
+2018-10-13 01:24:08,874 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:117
+2018-10-13 01:24:08,875 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:09,970 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:118
+2018-10-13 01:24:09,970 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:118
+2018-10-13 01:24:09,970 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:11,074 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:119
+2018-10-13 01:24:11,074 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:119
+2018-10-13 01:24:11,074 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:12,194 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:120
+2018-10-13 01:24:12,194 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:120
+2018-10-13 01:24:12,194 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:13,298 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:121
+2018-10-13 01:24:13,298 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:121
+2018-10-13 01:24:13,298 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:14,402 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:122
+2018-10-13 01:24:14,402 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:122
+2018-10-13 01:24:14,402 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:15,510 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:123
+2018-10-13 01:24:15,510 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:123
+2018-10-13 01:24:15,510 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:16,614 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:124
+2018-10-13 01:24:16,614 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:124
+2018-10-13 01:24:16,614 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:17,710 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:125
+2018-10-13 01:24:17,711 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:125
+2018-10-13 01:24:17,711 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:18,811 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:126
+2018-10-13 01:24:18,811 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:126
+2018-10-13 01:24:18,812 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:19,906 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:127
+2018-10-13 01:24:19,907 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:127
+2018-10-13 01:24:19,907 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:21,014 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:128
+2018-10-13 01:24:21,014 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:128
+2018-10-13 01:24:21,014 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:22,118 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:129
+2018-10-13 01:24:22,118 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:129
+2018-10-13 01:24:22,118 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:23,219 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:130
+2018-10-13 01:24:23,221 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:130
+2018-10-13 01:24:23,221 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:24,327 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:131
+2018-10-13 01:24:24,327 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:131
+2018-10-13 01:24:24,327 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:25,422 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:132
+2018-10-13 01:24:25,422 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:132
+2018-10-13 01:24:25,422 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:26,522 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:133
+2018-10-13 01:24:26,522 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:133
+2018-10-13 01:24:26,523 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:27,622 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:134
+2018-10-13 01:24:27,622 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:134
+2018-10-13 01:24:27,622 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:28,734 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:135
+2018-10-13 01:24:28,734 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:135
+2018-10-13 01:24:28,734 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:29,843 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:136
+2018-10-13 01:24:29,843 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:136
+2018-10-13 01:24:29,843 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:30,938 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:137
+2018-10-13 01:24:30,938 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:137
+2018-10-13 01:24:30,938 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:32,038 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:138
+2018-10-13 01:24:32,038 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:138
+2018-10-13 01:24:32,038 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:33,158 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:139
+2018-10-13 01:24:33,158 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:139
+2018-10-13 01:24:33,158 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:34,254 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:140
+2018-10-13 01:24:34,254 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:140
+2018-10-13 01:24:34,254 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:35,354 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:141
+2018-10-13 01:24:35,354 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:141
+2018-10-13 01:24:35,355 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:36,490 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:142
+2018-10-13 01:24:36,490 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:142
+2018-10-13 01:24:36,490 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:37,598 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:143
+2018-10-13 01:24:37,598 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:143
+2018-10-13 01:24:37,598 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:38,702 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:144
+2018-10-13 01:24:38,702 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:144
+2018-10-13 01:24:38,702 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:39,798 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:145
+2018-10-13 01:24:39,798 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:145
+2018-10-13 01:24:39,798 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:40,907 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:146
+2018-10-13 01:24:40,907 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:146
+2018-10-13 01:24:40,907 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:42,046 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:147
+2018-10-13 01:24:42,046 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:147
+2018-10-13 01:24:42,046 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:43,158 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:148
+2018-10-13 01:24:43,158 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:148
+2018-10-13 01:24:43,158 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:44,262 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:149
+2018-10-13 01:24:44,262 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:149
+2018-10-13 01:24:44,262 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:45,374 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:150
+2018-10-13 01:24:45,374 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:150
+2018-10-13 01:24:45,374 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:46,470 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:151
+2018-10-13 01:24:46,470 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:151
+2018-10-13 01:24:46,470 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:47,574 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:152
+2018-10-13 01:24:47,574 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:152
+2018-10-13 01:24:47,575 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:48,679 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:153
+2018-10-13 01:24:48,679 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:153
+2018-10-13 01:24:48,679 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:49,783 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:154
+2018-10-13 01:24:49,783 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:154
+2018-10-13 01:24:49,783 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:50,886 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:155
+2018-10-13 01:24:50,887 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:155
+2018-10-13 01:24:50,887 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:51,987 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:156
+2018-10-13 01:24:51,989 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:156
+2018-10-13 01:24:51,989 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:53,078 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:157
+2018-10-13 01:24:53,078 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:157
+2018-10-13 01:24:53,078 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:54,178 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:158
+2018-10-13 01:24:54,178 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:158
+2018-10-13 01:24:54,178 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:55,290 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:159
+2018-10-13 01:24:55,290 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:159
+2018-10-13 01:24:55,290 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:56,386 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:160
+2018-10-13 01:24:56,386 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:160
+2018-10-13 01:24:56,386 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:57,494 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:161
+2018-10-13 01:24:57,494 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:161
+2018-10-13 01:24:57,494 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:58,602 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:162
+2018-10-13 01:24:58,602 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:162
+2018-10-13 01:24:58,602 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:24:59,714 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:163
+2018-10-13 01:24:59,714 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:163
+2018-10-13 01:24:59,714 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:00,814 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:164
+2018-10-13 01:25:00,814 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:164
+2018-10-13 01:25:00,814 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:01,928 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:165
+2018-10-13 01:25:01,929 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:165
+2018-10-13 01:25:01,929 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:03,014 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:166
+2018-10-13 01:25:03,014 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:166
+2018-10-13 01:25:03,014 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:04,122 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:167
+2018-10-13 01:25:04,122 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:167
+2018-10-13 01:25:04,122 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:05,230 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:168
+2018-10-13 01:25:05,231 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:168
+2018-10-13 01:25:05,231 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:06,334 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:169
+2018-10-13 01:25:06,334 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:169
+2018-10-13 01:25:06,334 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:07,430 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:170
+2018-10-13 01:25:07,430 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:170
+2018-10-13 01:25:07,431 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:08,534 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:171
+2018-10-13 01:25:08,534 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:171
+2018-10-13 01:25:08,534 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:09,647 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:172
+2018-10-13 01:25:09,647 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:172
+2018-10-13 01:25:09,647 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:10,742 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:173
+2018-10-13 01:25:10,743 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:173
+2018-10-13 01:25:10,743 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:11,838 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:174
+2018-10-13 01:25:11,838 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:174
+2018-10-13 01:25:11,838 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:12,950 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:175
+2018-10-13 01:25:12,950 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:175
+2018-10-13 01:25:12,951 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:14,058 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:176
+2018-10-13 01:25:14,058 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:176
+2018-10-13 01:25:14,058 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:15,158 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:177
+2018-10-13 01:25:15,159 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:177
+2018-10-13 01:25:15,159 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:16,258 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:178
+2018-10-13 01:25:16,258 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:178
+2018-10-13 01:25:16,258 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:17,367 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:179
+2018-10-13 01:25:17,367 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:179
+2018-10-13 01:25:17,367 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:18,474 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:180
+2018-10-13 01:25:18,474 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:180
+2018-10-13 01:25:18,474 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:19,570 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:181
+2018-10-13 01:25:19,570 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:181
+2018-10-13 01:25:19,570 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:20,674 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:182
+2018-10-13 01:25:20,674 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:182
+2018-10-13 01:25:20,674 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:21,778 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:183
+2018-10-13 01:25:21,778 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:183
+2018-10-13 01:25:21,778 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:22,914 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:184
+2018-10-13 01:25:22,914 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:184
+2018-10-13 01:25:22,914 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:24,014 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:185
+2018-10-13 01:25:24,014 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:185
+2018-10-13 01:25:24,015 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:25,122 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:186
+2018-10-13 01:25:25,122 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:186
+2018-10-13 01:25:25,122 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:26,222 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:187
+2018-10-13 01:25:26,222 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:187
+2018-10-13 01:25:26,222 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:27,326 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:188
+2018-10-13 01:25:27,326 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:188
+2018-10-13 01:25:27,326 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:28,426 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:189
+2018-10-13 01:25:28,427 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:189
+2018-10-13 01:25:28,427 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:29,546 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:190
+2018-10-13 01:25:29,547 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:190
+2018-10-13 01:25:29,547 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:30,659 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:191
+2018-10-13 01:25:30,659 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:191
+2018-10-13 01:25:30,659 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:31,758 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:192
+2018-10-13 01:25:31,758 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:192
+2018-10-13 01:25:31,759 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:32,858 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:193
+2018-10-13 01:25:32,859 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:193
+2018-10-13 01:25:32,859 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:33,958 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:194
+2018-10-13 01:25:33,958 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:194
+2018-10-13 01:25:33,958 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:35,062 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:195
+2018-10-13 01:25:35,062 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:195
+2018-10-13 01:25:35,062 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:36,158 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:196
+2018-10-13 01:25:36,158 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:196
+2018-10-13 01:25:36,159 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:37,258 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:197
+2018-10-13 01:25:37,258 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:197
+2018-10-13 01:25:37,258 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:38,358 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:198
+2018-10-13 01:25:38,358 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:198
+2018-10-13 01:25:38,358 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:39,466 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:199
+2018-10-13 01:25:39,466 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:199
+2018-10-13 01:25:39,466 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:40,570 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:200
+2018-10-13 01:25:40,570 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:200
+2018-10-13 01:25:40,570 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:41,674 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:201
+2018-10-13 01:25:41,674 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:201
+2018-10-13 01:25:41,674 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:42,782 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:202
+2018-10-13 01:25:42,782 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:202
+2018-10-13 01:25:42,782 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:43,890 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:203
+2018-10-13 01:25:43,890 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:203
+2018-10-13 01:25:43,890 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:44,998 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:204
+2018-10-13 01:25:44,998 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:204
+2018-10-13 01:25:44,998 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:46,094 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:205
+2018-10-13 01:25:46,094 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:205
+2018-10-13 01:25:46,094 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:47,190 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:206
+2018-10-13 01:25:47,191 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:206
+2018-10-13 01:25:47,191 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:48,306 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:207
+2018-10-13 01:25:48,306 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:207
+2018-10-13 01:25:48,306 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:49,410 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:208
+2018-10-13 01:25:49,410 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:208
+2018-10-13 01:25:49,411 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:50,506 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:209
+2018-10-13 01:25:50,506 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:209
+2018-10-13 01:25:50,506 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:51,602 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:210
+2018-10-13 01:25:51,602 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:210
+2018-10-13 01:25:51,602 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:52,730 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:211
+2018-10-13 01:25:52,730 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:211
+2018-10-13 01:25:52,730 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:53,838 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:212
+2018-10-13 01:25:53,838 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:212
+2018-10-13 01:25:53,838 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:54,946 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:213
+2018-10-13 01:25:54,946 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:213
+2018-10-13 01:25:54,946 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:56,050 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:214
+2018-10-13 01:25:56,050 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:214
+2018-10-13 01:25:56,050 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:57,166 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:215
+2018-10-13 01:25:57,166 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:215
+2018-10-13 01:25:57,166 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:58,262 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:216
+2018-10-13 01:25:58,262 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:216
+2018-10-13 01:25:58,262 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:25:59,374 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:217
+2018-10-13 01:25:59,374 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:217
+2018-10-13 01:25:59,374 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:00,479 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:218
+2018-10-13 01:26:00,479 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:218
+2018-10-13 01:26:00,479 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:01,590 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:219
+2018-10-13 01:26:01,591 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:219
+2018-10-13 01:26:01,591 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:02,686 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:220
+2018-10-13 01:26:02,686 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:220
+2018-10-13 01:26:02,686 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:03,791 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:221
+2018-10-13 01:26:03,791 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:221
+2018-10-13 01:26:03,791 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:04,894 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:222
+2018-10-13 01:26:04,894 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:222
+2018-10-13 01:26:04,894 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:06,006 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:223
+2018-10-13 01:26:06,006 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:223
+2018-10-13 01:26:06,006 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:07,106 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:224
+2018-10-13 01:26:07,106 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:224
+2018-10-13 01:26:07,106 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:08,206 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:225
+2018-10-13 01:26:08,207 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:225
+2018-10-13 01:26:08,207 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:09,302 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:226
+2018-10-13 01:26:09,302 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:226
+2018-10-13 01:26:09,302 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:10,419 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:227
+2018-10-13 01:26:10,419 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:227
+2018-10-13 01:26:10,419 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:11,518 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:228
+2018-10-13 01:26:11,518 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:228
+2018-10-13 01:26:11,518 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:12,626 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:229
+2018-10-13 01:26:12,626 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:229
+2018-10-13 01:26:12,626 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:13,726 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:230
+2018-10-13 01:26:13,726 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:230
+2018-10-13 01:26:13,726 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:14,838 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:231
+2018-10-13 01:26:14,838 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:231
+2018-10-13 01:26:14,838 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:15,938 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:232
+2018-10-13 01:26:15,939 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:232
+2018-10-13 01:26:15,939 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:17,038 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:233
+2018-10-13 01:26:17,038 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:233
+2018-10-13 01:26:17,038 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:18,142 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:234
+2018-10-13 01:26:18,142 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:234
+2018-10-13 01:26:18,142 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:19,246 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:235
+2018-10-13 01:26:19,246 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:235
+2018-10-13 01:26:19,246 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:20,342 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:236
+2018-10-13 01:26:20,342 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:236
+2018-10-13 01:26:20,342 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:21,446 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:237
+2018-10-13 01:26:21,446 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:237
+2018-10-13 01:26:21,446 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:22,614 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:238
+2018-10-13 01:26:22,614 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:238
+2018-10-13 01:26:22,614 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:23,730 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:239
+2018-10-13 01:26:23,730 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:239
+2018-10-13 01:26:23,730 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:24,834 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:240
+2018-10-13 01:26:24,834 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:240
+2018-10-13 01:26:24,834 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:25,934 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:241
+2018-10-13 01:26:25,934 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:241
+2018-10-13 01:26:25,934 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:27,038 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:242
+2018-10-13 01:26:27,038 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:242
+2018-10-13 01:26:27,038 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:28,150 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:243
+2018-10-13 01:26:28,150 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:243
+2018-10-13 01:26:28,150 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:29,246 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:244
+2018-10-13 01:26:29,246 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:244
+2018-10-13 01:26:29,246 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:30,350 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:245
+2018-10-13 01:26:30,350 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:245
+2018-10-13 01:26:30,350 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:31,470 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:246
+2018-10-13 01:26:31,470 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:246
+2018-10-13 01:26:31,470 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:32,570 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:247
+2018-10-13 01:26:32,570 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:247
+2018-10-13 01:26:32,570 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:33,670 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:248
+2018-10-13 01:26:33,670 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:248
+2018-10-13 01:26:33,670 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:34,766 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:249
+2018-10-13 01:26:34,766 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:249
+2018-10-13 01:26:34,766 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:35,874 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:250
+2018-10-13 01:26:35,874 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:250
+2018-10-13 01:26:35,874 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:37,406 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:251
+2018-10-13 01:26:37,406 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:251
+2018-10-13 01:26:37,406 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:38,510 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:252
+2018-10-13 01:26:38,511 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:252
+2018-10-13 01:26:38,513 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:39,610 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:253
+2018-10-13 01:26:39,610 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:253
+2018-10-13 01:26:39,610 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:40,722 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:254
+2018-10-13 01:26:40,722 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:254
+2018-10-13 01:26:40,723 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:41,830 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:255
+2018-10-13 01:26:41,830 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:255
+2018-10-13 01:26:41,830 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:42,935 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:256
+2018-10-13 01:26:42,935 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:256
+2018-10-13 01:26:42,935 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:44,051 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:257
+2018-10-13 01:26:44,051 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:257
+2018-10-13 01:26:44,051 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:45,154 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:258
+2018-10-13 01:26:45,154 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:258
+2018-10-13 01:26:45,154 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:46,274 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:259
+2018-10-13 01:26:46,274 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:259
+2018-10-13 01:26:46,274 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:47,378 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:260
+2018-10-13 01:26:47,378 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:260
+2018-10-13 01:26:47,378 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:48,478 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:261
+2018-10-13 01:26:48,478 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:261
+2018-10-13 01:26:48,478 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:49,578 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:262
+2018-10-13 01:26:49,579 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:262
+2018-10-13 01:26:49,579 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:50,686 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:263
+2018-10-13 01:26:50,686 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:263
+2018-10-13 01:26:50,686 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:51,782 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:264
+2018-10-13 01:26:51,782 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:264
+2018-10-13 01:26:51,782 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:52,883 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:265
+2018-10-13 01:26:52,883 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:265
+2018-10-13 01:26:52,883 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:53,991 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:266
+2018-10-13 01:26:53,991 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:266
+2018-10-13 01:26:53,991 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:55,094 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:267
+2018-10-13 01:26:55,094 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:267
+2018-10-13 01:26:55,094 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:56,190 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:268
+2018-10-13 01:26:56,190 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:268
+2018-10-13 01:26:56,190 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:57,286 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:269
+2018-10-13 01:26:57,286 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:269
+2018-10-13 01:26:57,286 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:58,386 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:270
+2018-10-13 01:26:58,386 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:270
+2018-10-13 01:26:58,386 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:26:59,498 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:271
+2018-10-13 01:26:59,498 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:271
+2018-10-13 01:26:59,498 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:00,594 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:272
+2018-10-13 01:27:00,594 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:272
+2018-10-13 01:27:00,594 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:01,702 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:273
+2018-10-13 01:27:01,702 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:273
+2018-10-13 01:27:01,703 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:02,802 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:274
+2018-10-13 01:27:02,802 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:274
+2018-10-13 01:27:02,803 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:03,910 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:275
+2018-10-13 01:27:03,911 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:275
+2018-10-13 01:27:03,911 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:05,006 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:276
+2018-10-13 01:27:05,006 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:276
+2018-10-13 01:27:05,007 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:06,106 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:277
+2018-10-13 01:27:06,106 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:277
+2018-10-13 01:27:06,106 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:07,206 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:278
+2018-10-13 01:27:07,206 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:278
+2018-10-13 01:27:07,206 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:08,322 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:279
+2018-10-13 01:27:08,322 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:279
+2018-10-13 01:27:08,322 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:09,418 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:280
+2018-10-13 01:27:09,418 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:280
+2018-10-13 01:27:09,419 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:10,518 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:281
+2018-10-13 01:27:10,518 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:281
+2018-10-13 01:27:10,518 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:11,634 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:282
+2018-10-13 01:27:11,634 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:282
+2018-10-13 01:27:11,634 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:12,746 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:283
+2018-10-13 01:27:12,746 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:283
+2018-10-13 01:27:12,746 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:13,834 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:284
+2018-10-13 01:27:13,834 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:284
+2018-10-13 01:27:13,834 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:14,935 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:285
+2018-10-13 01:27:14,935 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:285
+2018-10-13 01:27:14,935 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:16,039 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:286
+2018-10-13 01:27:16,039 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:286
+2018-10-13 01:27:16,040 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:17,142 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:287
+2018-10-13 01:27:17,142 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:287
+2018-10-13 01:27:17,142 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:18,242 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:288
+2018-10-13 01:27:18,242 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:288
+2018-10-13 01:27:18,242 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:19,346 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:289
+2018-10-13 01:27:19,346 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:289
+2018-10-13 01:27:19,346 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:20,446 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:290
+2018-10-13 01:27:20,446 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:290
+2018-10-13 01:27:20,446 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:21,558 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:291
+2018-10-13 01:27:21,558 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:291
+2018-10-13 01:27:21,558 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:22,658 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:292
+2018-10-13 01:27:22,658 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:292
+2018-10-13 01:27:22,658 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:23,766 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:293
+2018-10-13 01:27:23,766 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:293
+2018-10-13 01:27:23,766 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:24,866 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:294
+2018-10-13 01:27:24,866 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:294
+2018-10-13 01:27:24,866 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:25,970 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:295
+2018-10-13 01:27:25,970 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:295
+2018-10-13 01:27:25,970 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:27,078 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:296
+2018-10-13 01:27:27,078 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:296
+2018-10-13 01:27:27,078 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:28,174 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:297
+2018-10-13 01:27:28,174 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:297
+2018-10-13 01:27:28,174 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:29,282 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:298
+2018-10-13 01:27:29,282 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:298
+2018-10-13 01:27:29,282 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:30,394 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:299
+2018-10-13 01:27:30,395 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:299
+2018-10-13 01:27:30,395 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!
+2018-10-13 01:27:31,490 [DEBUG|FireBrigade/210552869|TestBuildingDetector] Time:300
+2018-10-13 01:27:31,490 [DEBUG|FireBrigade/210552869|TestSearchForFire] Time:300
+2018-10-13 01:27:31,490 [DEBUG|FireBrigade/210552869|TestBuildingDetector] I has been allocated!

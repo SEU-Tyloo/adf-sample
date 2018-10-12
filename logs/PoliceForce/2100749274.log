@@ -1,0 +1,2041 @@
+2018-10-13 01:21:56,343 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:1
+2018-10-13 01:21:56,343 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:1
+2018-10-13 01:21:56,343 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:21:56,343 [DEBUG|PoliceForce/2100749274|TestRoadDetector] NowPosition:268
+2018-10-13 01:21:56,344 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***priorityRoads[976, 274]
+2018-10-13 01:21:56,344 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***targetAreas[976, 274]
+2018-10-13 01:21:56,344 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 1.***priorityRoads[976, 274]
+2018-10-13 01:21:56,344 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 1.***targetAreas[976, 274]
+2018-10-13 01:21:56,344 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.1 Select the path:[275, 258, 269, 266, 279, 274]
+2018-10-13 01:21:56,344 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.Selected Target: 274
+2018-10-13 01:21:57,747 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:2
+2018-10-13 01:21:57,748 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:2
+2018-10-13 01:21:57,748 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:21:57,748 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 274
+2018-10-13 01:21:58,876 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:3
+2018-10-13 01:21:58,877 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:3
+2018-10-13 01:21:58,877 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:21:58,877 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 274
+2018-10-13 01:22:00,062 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:4
+2018-10-13 01:22:00,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:4
+2018-10-13 01:22:00,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (273)
+2018-10-13 01:22:00,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (976)
+2018-10-13 01:22:00,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:22:00,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 274
+2018-10-13 01:22:01,263 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:5
+2018-10-13 01:22:01,264 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:5
+2018-10-13 01:22:01,264 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (273)
+2018-10-13 01:22:01,264 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (976)
+2018-10-13 01:22:01,264 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:22:01,264 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 274
+2018-10-13 01:22:02,426 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:6
+2018-10-13 01:22:02,427 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:6
+2018-10-13 01:22:02,427 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (976)
+2018-10-13 01:22:02,427 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (273)
+2018-10-13 01:22:02,427 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:22:02,427 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 274
+2018-10-13 01:22:03,571 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:7
+2018-10-13 01:22:03,571 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:7
+2018-10-13 01:22:03,572 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (273)
+2018-10-13 01:22:03,572 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:22:03,572 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 274
+2018-10-13 01:22:04,787 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:8
+2018-10-13 01:22:04,789 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:8
+2018-10-13 01:22:04,790 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:04,790 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (273)
+2018-10-13 01:22:04,790 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:22:04,790 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[275, 268, 933]
+2018-10-13 01:22:04,790 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 933
+2018-10-13 01:22:06,144 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:9
+2018-10-13 01:22:06,144 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:9
+2018-10-13 01:22:06,144 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (273)
+2018-10-13 01:22:06,144 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:06,144 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:22:06,144 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 933
+2018-10-13 01:22:07,247 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:10
+2018-10-13 01:22:07,247 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:10
+2018-10-13 01:22:07,247 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:07,247 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (273)
+2018-10-13 01:22:07,248 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:22:07,248 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 933
+2018-10-13 01:22:08,518 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:11
+2018-10-13 01:22:08,518 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:11
+2018-10-13 01:22:08,519 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (273)
+2018-10-13 01:22:08,519 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:08,519 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:08,519 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:22:08,519 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 933
+2018-10-13 01:22:09,682 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:12
+2018-10-13 01:22:09,682 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:12
+2018-10-13 01:22:09,682 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:09,682 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:09,682 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:22:09,682 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 933
+2018-10-13 01:22:10,866 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:13
+2018-10-13 01:22:10,867 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:13
+2018-10-13 01:22:10,867 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:10,867 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (273)
+2018-10-13 01:22:10,867 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:22:10,867 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 933
+2018-10-13 01:22:12,042 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:14
+2018-10-13 01:22:12,042 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:14
+2018-10-13 01:22:12,042 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:12,042 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:12,042 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:12,043 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:22:12,043 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 933
+2018-10-13 01:22:13,222 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:15
+2018-10-13 01:22:13,223 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:15
+2018-10-13 01:22:13,223 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:13,223 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:13,223 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:13,223 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:22:13,223 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[933]
+2018-10-13 01:22:13,223 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 933
+2018-10-13 01:22:14,446 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:16
+2018-10-13 01:22:14,446 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:16
+2018-10-13 01:22:14,446 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:14,446 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:14,446 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:14,447 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:22:14,447 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 933
+2018-10-13 01:22:15,546 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:17
+2018-10-13 01:22:15,546 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:17
+2018-10-13 01:22:15,546 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:22:15,546 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:15,546 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:15,547 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:22:15,547 [DEBUG|PoliceForce/2100749274|TestRoadDetector] NowPosition:933
+2018-10-13 01:22:15,547 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***priorityRoads[]
+2018-10-13 01:22:15,547 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***targetAreas[913]
+2018-10-13 01:22:15,547 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.***priorityRoads[]
+2018-10-13 01:22:15,547 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.***targetAreas[913]
+2018-10-13 01:22:15,547 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Select the path:[268, 278, 263, 913]
+2018-10-13 01:22:15,547 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:16,806 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:18
+2018-10-13 01:22:16,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:18
+2018-10-13 01:22:16,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:16,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:16,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:16,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:22:16,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:18,071 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:19
+2018-10-13 01:22:18,071 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:19
+2018-10-13 01:22:18,071 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:18,071 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:18,071 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:22:18,071 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:19,186 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:20
+2018-10-13 01:22:19,187 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:20
+2018-10-13 01:22:19,187 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:19,187 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:19,187 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:19,187 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:22:19,187 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:20,326 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:21
+2018-10-13 01:22:20,326 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:21
+2018-10-13 01:22:20,327 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:20,327 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:20,327 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:22:20,329 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:21,458 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:22
+2018-10-13 01:22:21,458 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:22
+2018-10-13 01:22:21,458 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:21,458 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:21,458 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:21,458 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:22:21,459 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:22,607 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:23
+2018-10-13 01:22:22,607 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:23
+2018-10-13 01:22:22,607 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:22,607 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:22,607 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:22:22,607 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:23,842 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:24
+2018-10-13 01:22:23,844 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:24
+2018-10-13 01:22:23,844 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:23,844 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:23,844 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:22:23,844 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[263, 913]
+2018-10-13 01:22:23,844 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 913
+2018-10-13 01:22:25,278 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:25
+2018-10-13 01:22:25,278 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:25
+2018-10-13 01:22:25,278 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:25,278 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:25,279 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:25,279 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:22:25,279 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:26,371 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:26
+2018-10-13 01:22:26,371 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:26
+2018-10-13 01:22:26,372 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:26,372 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:26,372 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:22:26,372 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:27,542 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:27
+2018-10-13 01:22:27,542 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:27
+2018-10-13 01:22:27,542 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:27,542 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:27,543 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:27,543 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:22:27,543 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:28,678 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:28
+2018-10-13 01:22:28,679 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:28
+2018-10-13 01:22:28,679 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:28,679 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:28,679 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:22:28,679 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:29,806 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:29
+2018-10-13 01:22:29,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:29
+2018-10-13 01:22:29,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:29,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:29,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:22:29,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:30,947 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:30
+2018-10-13 01:22:30,947 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:30
+2018-10-13 01:22:30,947 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:30,947 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:30,947 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:30,947 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:22:30,947 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:32,082 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:31
+2018-10-13 01:22:32,083 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:31
+2018-10-13 01:22:32,083 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:32,083 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:32,084 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:32,084 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:22:32,084 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[913]
+2018-10-13 01:22:32,084 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 913
+2018-10-13 01:22:33,236 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:32
+2018-10-13 01:22:33,236 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:32
+2018-10-13 01:22:33,236 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:33,237 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:33,237 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:22:33,237 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:34,434 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:33
+2018-10-13 01:22:34,434 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:33
+2018-10-13 01:22:34,434 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:34,434 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:34,435 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:34,435 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:22:34,435 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 913
+2018-10-13 01:22:35,530 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:34
+2018-10-13 01:22:35,530 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:34
+2018-10-13 01:22:35,530 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:22:35,530 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:35,531 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:35,531 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:35,531 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:22:35,531 [DEBUG|PoliceForce/2100749274|TestRoadDetector] NowPosition:913
+2018-10-13 01:22:35,531 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***priorityRoads[]
+2018-10-13 01:22:35,531 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***targetAreas[916, 297, 910]
+2018-10-13 01:22:35,531 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.***priorityRoads[]
+2018-10-13 01:22:35,531 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.***targetAreas[916, 297, 910]
+2018-10-13 01:22:35,531 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Select the path:[263, 270, 916]
+2018-10-13 01:22:35,532 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 916
+2018-10-13 01:22:36,670 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:35
+2018-10-13 01:22:36,671 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:35
+2018-10-13 01:22:36,671 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:36,671 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:36,671 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:36,671 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:22:36,671 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 916
+2018-10-13 01:22:37,798 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:36
+2018-10-13 01:22:37,803 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:36
+2018-10-13 01:22:37,803 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:37,803 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:37,803 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:37,803 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:22:37,803 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 916
+2018-10-13 01:22:38,970 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:37
+2018-10-13 01:22:38,970 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:37
+2018-10-13 01:22:38,971 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:38,971 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:38,971 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:38,971 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:22:38,971 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 916
+2018-10-13 01:22:40,107 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:38
+2018-10-13 01:22:40,107 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:38
+2018-10-13 01:22:40,109 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:40,109 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:40,109 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:40,109 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:22:40,109 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 916
+2018-10-13 01:22:41,198 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:39
+2018-10-13 01:22:41,198 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:39
+2018-10-13 01:22:41,198 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:41,198 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:41,198 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:22:41,198 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 916
+2018-10-13 01:22:42,498 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:40
+2018-10-13 01:22:42,499 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:40
+2018-10-13 01:22:42,499 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:42,499 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:42,499 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:22:42,499 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 916
+2018-10-13 01:22:43,574 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:41
+2018-10-13 01:22:43,574 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:41
+2018-10-13 01:22:43,574 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:22:43,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:43,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:43,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:22:43,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] NowPosition:916
+2018-10-13 01:22:43,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***priorityRoads[]
+2018-10-13 01:22:43,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***targetAreas[976, 257, 297, 268, 910]
+2018-10-13 01:22:43,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.***priorityRoads[]
+2018-10-13 01:22:43,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.***targetAreas[976, 257, 297, 268, 910]
+2018-10-13 01:22:43,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Select the path:[270, 257]
+2018-10-13 01:22:43,576 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 257
+2018-10-13 01:22:44,698 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:42
+2018-10-13 01:22:44,698 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:42
+2018-10-13 01:22:44,698 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:44,698 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:44,698 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:22:44,698 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 257
+2018-10-13 01:22:45,806 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:43
+2018-10-13 01:22:45,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:43
+2018-10-13 01:22:45,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:45,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:45,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:22:45,807 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 257
+2018-10-13 01:22:46,926 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:44
+2018-10-13 01:22:46,926 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:44
+2018-10-13 01:22:46,926 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:22:46,926 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:46,926 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:22:46,926 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 257
+2018-10-13 01:22:48,034 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:45
+2018-10-13 01:22:48,035 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:45
+2018-10-13 01:22:48,035 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:22:48,035 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:48,035 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:48,035 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:48,035 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:22:48,035 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 257
+2018-10-13 01:22:49,150 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:46
+2018-10-13 01:22:49,150 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:46
+2018-10-13 01:22:49,151 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:22:49,151 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:49,151 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:49,151 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:49,151 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:22:49,151 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 257
+2018-10-13 01:22:50,266 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:47
+2018-10-13 01:22:50,266 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:47
+2018-10-13 01:22:50,266 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:22:50,266 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:50,266 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:50,266 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:50,266 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:22:50,266 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 257
+2018-10-13 01:22:51,378 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:48
+2018-10-13 01:22:51,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:48
+2018-10-13 01:22:51,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:22:51,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:51,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:51,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:51,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:22:51,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[280, 259, 336]
+2018-10-13 01:22:51,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 336
+2018-10-13 01:22:52,490 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:49
+2018-10-13 01:22:52,491 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:49
+2018-10-13 01:22:52,492 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:52,492 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:52,492 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:22:52,492 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 336
+2018-10-13 01:22:53,602 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:50
+2018-10-13 01:22:53,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:50
+2018-10-13 01:22:53,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:53,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:53,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:53,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:22:53,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 336
+2018-10-13 01:22:54,704 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:51
+2018-10-13 01:22:54,705 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:51
+2018-10-13 01:22:54,705 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:54,705 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:54,705 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:54,705 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:22:54,708 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 336
+2018-10-13 01:22:55,826 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:52
+2018-10-13 01:22:55,826 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:52
+2018-10-13 01:22:55,826 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:55,826 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:55,828 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:55,828 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:22:55,828 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 336
+2018-10-13 01:22:57,030 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:53
+2018-10-13 01:22:57,033 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:53
+2018-10-13 01:22:57,033 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:57,034 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:57,034 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:57,034 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:22:57,034 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 336
+2018-10-13 01:22:58,362 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:54
+2018-10-13 01:22:58,363 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:54
+2018-10-13 01:22:58,363 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:58,363 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:58,363 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:58,363 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:22:58,363 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 336
+2018-10-13 01:22:59,472 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:55
+2018-10-13 01:22:59,472 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:55
+2018-10-13 01:22:59,472 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:22:59,472 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:22:59,472 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:22:59,472 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:22:59,473 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[336]
+2018-10-13 01:22:59,473 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 336
+2018-10-13 01:23:00,750 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:56
+2018-10-13 01:23:00,750 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:56
+2018-10-13 01:23:00,750 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:00,750 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:00,750 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:00,751 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:23:00,751 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 336
+2018-10-13 01:23:01,847 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:57
+2018-10-13 01:23:01,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:57
+2018-10-13 01:23:01,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:01,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:01,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:01,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:23:01,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] NowPosition:336
+2018-10-13 01:23:01,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***priorityRoads[]
+2018-10-13 01:23:01,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***targetAreas[917, 918, 297, 910, 974]
+2018-10-13 01:23:01,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.***priorityRoads[]
+2018-10-13 01:23:01,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.***targetAreas[917, 918, 297, 910, 974]
+2018-10-13 01:23:01,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Select the path:[259, 297]
+2018-10-13 01:23:01,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:03,182 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:58
+2018-10-13 01:23:03,182 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:58
+2018-10-13 01:23:03,183 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:03,183 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:03,183 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:23:03,183 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:04,259 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:59
+2018-10-13 01:23:04,259 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:59
+2018-10-13 01:23:04,259 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:04,259 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:04,259 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:04,260 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:04,260 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:23:04,260 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:05,378 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:60
+2018-10-13 01:23:05,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:60
+2018-10-13 01:23:05,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:05,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:05,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:05,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:05,378 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:23:05,379 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:06,510 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:61
+2018-10-13 01:23:06,510 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:61
+2018-10-13 01:23:06,511 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:06,511 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:06,511 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:06,511 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:06,511 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:23:06,511 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:07,618 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:62
+2018-10-13 01:23:07,618 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:62
+2018-10-13 01:23:07,618 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:07,619 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:07,619 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:07,619 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:23:07,619 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:08,748 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:63
+2018-10-13 01:23:08,748 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:63
+2018-10-13 01:23:08,748 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:08,748 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:08,748 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:08,748 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:08,749 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:23:08,749 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:09,862 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:64
+2018-10-13 01:23:09,863 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:64
+2018-10-13 01:23:09,863 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:09,863 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:09,863 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:09,863 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:09,863 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:23:09,863 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[914]
+2018-10-13 01:23:09,863 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 914
+2018-10-13 01:23:10,982 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:65
+2018-10-13 01:23:10,982 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:65
+2018-10-13 01:23:10,983 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:10,983 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:10,983 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:10,983 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:23:10,983 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 914
+2018-10-13 01:23:12,274 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:66
+2018-10-13 01:23:12,274 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:66
+2018-10-13 01:23:12,274 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:12,274 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:12,274 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:23:12,275 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 914
+2018-10-13 01:23:13,342 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:67
+2018-10-13 01:23:13,342 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:67
+2018-10-13 01:23:13,342 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:13,342 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:13,342 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:13,343 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:23:13,343 [DEBUG|PoliceForce/2100749274|TestRoadDetector] NowPosition:914
+2018-10-13 01:23:13,343 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***priorityRoads[]
+2018-10-13 01:23:13,343 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***targetAreas[915, 917, 918, 297, 910, 974, 911]
+2018-10-13 01:23:13,343 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.***priorityRoads[]
+2018-10-13 01:23:13,343 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.***targetAreas[915, 917, 918, 297, 910, 974, 911]
+2018-10-13 01:23:13,343 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Select the path:[297]
+2018-10-13 01:23:13,343 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:14,470 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:68
+2018-10-13 01:23:14,470 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:68
+2018-10-13 01:23:14,470 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:14,471 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:14,471 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:14,471 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:23:14,471 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:15,586 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:69
+2018-10-13 01:23:15,586 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:69
+2018-10-13 01:23:15,586 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:15,586 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:15,587 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:15,587 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:23:15,587 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:16,710 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:70
+2018-10-13 01:23:16,711 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:70
+2018-10-13 01:23:16,711 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:16,711 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:16,711 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:16,711 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:16,711 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:23:16,711 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:17,822 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:71
+2018-10-13 01:23:17,822 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:71
+2018-10-13 01:23:17,822 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:17,823 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:17,823 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:23:17,823 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:18,930 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:72
+2018-10-13 01:23:18,930 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:72
+2018-10-13 01:23:18,930 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:18,930 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:18,930 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:18,930 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:23:18,930 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:20,050 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:73
+2018-10-13 01:23:20,050 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:73
+2018-10-13 01:23:20,050 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:20,050 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:20,050 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:20,050 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:20,050 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:23:20,050 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:21,178 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:74
+2018-10-13 01:23:21,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:74
+2018-10-13 01:23:21,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:21,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:21,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:21,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:21,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:23:21,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[915]
+2018-10-13 01:23:21,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 915
+2018-10-13 01:23:22,294 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:75
+2018-10-13 01:23:22,294 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:75
+2018-10-13 01:23:22,294 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:22,294 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:22,294 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:22,294 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:23:22,294 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 915
+2018-10-13 01:23:23,406 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:76
+2018-10-13 01:23:23,406 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:76
+2018-10-13 01:23:23,406 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 我刚刚到达目的地！
+2018-10-13 01:23:23,407 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:23,407 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:23,407 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:23,407 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:23:23,407 [DEBUG|PoliceForce/2100749274|TestRoadDetector] NowPosition:915
+2018-10-13 01:23:23,409 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***priorityRoads[]
+2018-10-13 01:23:23,411 [DEBUG|PoliceForce/2100749274|TestRoadDetector] ***targetAreas[256, 976, 917, 918, 297, 268, 910, 974, 911]
+2018-10-13 01:23:23,411 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.***priorityRoads[]
+2018-10-13 01:23:23,411 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 2.***targetAreas[256, 976, 917, 918, 297, 268, 910, 974, 911]
+2018-10-13 01:23:23,411 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Select the path:[297]
+2018-10-13 01:23:23,411 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:24,514 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:77
+2018-10-13 01:23:24,514 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:77
+2018-10-13 01:23:24,516 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:24,516 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:24,516 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:24,516 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:23:24,516 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:25,627 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:78
+2018-10-13 01:23:25,627 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:78
+2018-10-13 01:23:25,627 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:25,627 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:25,627 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:23:25,628 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:26,727 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:79
+2018-10-13 01:23:26,728 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:79
+2018-10-13 01:23:26,728 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:26,728 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:26,728 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:26,729 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:23:26,729 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:27,830 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:80
+2018-10-13 01:23:27,830 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:80
+2018-10-13 01:23:27,830 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:27,830 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:27,830 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:23:27,830 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:28,934 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:81
+2018-10-13 01:23:28,934 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:81
+2018-10-13 01:23:28,934 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:28,934 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:28,935 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:28,935 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:23:28,935 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:30,043 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:82
+2018-10-13 01:23:30,043 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:82
+2018-10-13 01:23:30,043 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:30,043 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:30,043 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:23:30,043 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:31,142 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:83
+2018-10-13 01:23:31,142 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:83
+2018-10-13 01:23:31,142 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:31,143 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:31,143 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:23:31,143 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:23:31,144 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:23:32,246 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:84
+2018-10-13 01:23:32,247 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:84
+2018-10-13 01:23:32,247 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:32,247 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:32,248 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:32,248 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:23:32,248 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:33,363 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:85
+2018-10-13 01:23:33,364 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:85
+2018-10-13 01:23:33,364 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:33,364 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:33,364 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:33,364 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:23:33,364 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:34,486 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:86
+2018-10-13 01:23:34,486 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:86
+2018-10-13 01:23:34,486 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:34,486 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:34,486 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:34,486 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:23:34,486 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:35,594 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:87
+2018-10-13 01:23:35,594 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:87
+2018-10-13 01:23:35,594 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:35,594 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:35,594 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:23:35,594 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:36,694 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:88
+2018-10-13 01:23:36,695 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:88
+2018-10-13 01:23:36,695 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:36,696 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:36,697 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:36,697 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:23:36,697 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:37,818 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:89
+2018-10-13 01:23:37,818 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:89
+2018-10-13 01:23:37,819 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:37,819 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:37,819 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (915)
+2018-10-13 01:23:37,819 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:23:37,819 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:38,926 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:90
+2018-10-13 01:23:38,927 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:90
+2018-10-13 01:23:38,927 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:38,928 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:38,928 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:23:38,928 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:23:38,928 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:23:40,062 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:91
+2018-10-13 01:23:40,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:91
+2018-10-13 01:23:40,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:40,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:40,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:40,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:23:40,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:41,178 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:92
+2018-10-13 01:23:41,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:92
+2018-10-13 01:23:41,179 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:41,179 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:41,179 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:41,180 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:23:41,180 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:42,290 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:93
+2018-10-13 01:23:42,290 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:93
+2018-10-13 01:23:42,290 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:42,290 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:42,291 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:42,291 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:23:42,291 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:43,410 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:94
+2018-10-13 01:23:43,410 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:94
+2018-10-13 01:23:43,410 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:43,410 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:43,410 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:23:43,410 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:44,559 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:95
+2018-10-13 01:23:44,559 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:95
+2018-10-13 01:23:44,559 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:44,560 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:23:44,560 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:45,666 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:96
+2018-10-13 01:23:45,666 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:96
+2018-10-13 01:23:45,666 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:45,666 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:45,666 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:45,666 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:23:45,666 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:46,774 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:97
+2018-10-13 01:23:46,774 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:97
+2018-10-13 01:23:46,774 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:46,775 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:46,775 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:46,775 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:23:46,775 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:23:46,775 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:23:47,874 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:98
+2018-10-13 01:23:47,874 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:98
+2018-10-13 01:23:47,874 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:47,874 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:47,874 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:47,874 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:23:47,874 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:48,986 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:99
+2018-10-13 01:23:48,986 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:99
+2018-10-13 01:23:48,986 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:48,986 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:48,986 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:23:48,987 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:50,097 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:100
+2018-10-13 01:23:50,098 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:100
+2018-10-13 01:23:50,098 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:50,098 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:50,098 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:23:50,098 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:51,202 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:101
+2018-10-13 01:23:51,202 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:101
+2018-10-13 01:23:51,202 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:51,202 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:51,203 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:23:51,203 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:52,306 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:102
+2018-10-13 01:23:52,306 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:102
+2018-10-13 01:23:52,306 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:52,306 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:52,306 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:52,306 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:23:52,306 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:53,406 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:103
+2018-10-13 01:23:53,406 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:103
+2018-10-13 01:23:53,406 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:53,406 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:53,406 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:53,407 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:23:53,407 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:54,522 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:104
+2018-10-13 01:23:54,522 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:104
+2018-10-13 01:23:54,522 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:54,522 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:54,522 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:23:54,523 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:23:54,523 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:23:55,626 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:105
+2018-10-13 01:23:55,626 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:105
+2018-10-13 01:23:55,626 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:55,626 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:55,626 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:55,626 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:23:55,626 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:56,722 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:106
+2018-10-13 01:23:56,722 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:106
+2018-10-13 01:23:56,722 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:56,722 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:56,723 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:23:56,723 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:57,834 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:107
+2018-10-13 01:23:57,834 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:107
+2018-10-13 01:23:57,834 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:57,834 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:57,834 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:23:57,834 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:23:58,938 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:108
+2018-10-13 01:23:58,938 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:108
+2018-10-13 01:23:58,939 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:23:58,939 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:23:58,939 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:23:58,939 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:23:58,940 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:00,046 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:109
+2018-10-13 01:24:00,047 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:109
+2018-10-13 01:24:00,047 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:00,047 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:00,047 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:00,048 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:24:00,048 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:01,142 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:110
+2018-10-13 01:24:01,142 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:110
+2018-10-13 01:24:01,142 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:01,142 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:01,143 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:24:01,143 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:02,250 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:111
+2018-10-13 01:24:02,250 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:111
+2018-10-13 01:24:02,250 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:02,250 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:02,251 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:24:02,251 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:24:02,251 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:24:03,350 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:112
+2018-10-13 01:24:03,350 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:112
+2018-10-13 01:24:03,351 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:03,351 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:03,351 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:24:03,351 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:04,466 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:113
+2018-10-13 01:24:04,466 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:113
+2018-10-13 01:24:04,466 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:04,466 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:04,466 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:24:04,467 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:05,578 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:114
+2018-10-13 01:24:05,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:114
+2018-10-13 01:24:05,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:05,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:05,579 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:24:05,579 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:06,678 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:115
+2018-10-13 01:24:06,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:115
+2018-10-13 01:24:06,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:06,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:06,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:24:06,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:07,774 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:116
+2018-10-13 01:24:07,774 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:116
+2018-10-13 01:24:07,774 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:07,774 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:07,774 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:07,774 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:24:07,774 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:08,874 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:117
+2018-10-13 01:24:08,874 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:117
+2018-10-13 01:24:08,875 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:08,875 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:08,875 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:08,875 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:24:08,875 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:09,978 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:118
+2018-10-13 01:24:09,978 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:118
+2018-10-13 01:24:09,978 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:09,978 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:09,978 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:09,978 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:24:09,979 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:24:09,979 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:24:11,078 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:119
+2018-10-13 01:24:11,078 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:119
+2018-10-13 01:24:11,078 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:11,078 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:11,078 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:24:11,078 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:12,194 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:120
+2018-10-13 01:24:12,194 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:120
+2018-10-13 01:24:12,194 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:12,194 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:12,194 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:12,194 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:24:12,194 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:13,302 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:121
+2018-10-13 01:24:13,302 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:121
+2018-10-13 01:24:13,302 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:13,302 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:13,302 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:13,302 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:24:13,302 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:14,402 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:122
+2018-10-13 01:24:14,402 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:122
+2018-10-13 01:24:14,402 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:14,402 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:14,403 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:14,403 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:24:14,403 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:15,514 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:123
+2018-10-13 01:24:15,514 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:123
+2018-10-13 01:24:15,514 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:15,514 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:15,514 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:15,514 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:24:15,514 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:16,614 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:124
+2018-10-13 01:24:16,615 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:124
+2018-10-13 01:24:16,615 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:16,615 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:16,615 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:16,615 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:24:16,615 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:17,714 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:125
+2018-10-13 01:24:17,714 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:125
+2018-10-13 01:24:17,714 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:17,714 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:17,714 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:24:17,714 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:24:17,715 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:24:18,810 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:126
+2018-10-13 01:24:18,810 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:126
+2018-10-13 01:24:18,810 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:18,811 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:18,811 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:18,811 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:24:18,811 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:19,914 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:127
+2018-10-13 01:24:19,914 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:127
+2018-10-13 01:24:19,914 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:19,914 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:19,914 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:19,915 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:24:19,915 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:21,014 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:128
+2018-10-13 01:24:21,014 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:128
+2018-10-13 01:24:21,014 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:21,015 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:21,015 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:24:21,015 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:22,122 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:129
+2018-10-13 01:24:22,122 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:129
+2018-10-13 01:24:22,122 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:22,122 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:22,122 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:24:22,122 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:23,218 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:130
+2018-10-13 01:24:23,218 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:130
+2018-10-13 01:24:23,218 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:23,222 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:23,222 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:23,222 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:24:23,222 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:24,326 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:131
+2018-10-13 01:24:24,326 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:131
+2018-10-13 01:24:24,326 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:24,326 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:24,326 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:24,327 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:24:24,327 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:25,426 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:132
+2018-10-13 01:24:25,426 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:132
+2018-10-13 01:24:25,426 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:25,426 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:24:25,427 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:24:25,427 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:24:26,526 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:133
+2018-10-13 01:24:26,526 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:133
+2018-10-13 01:24:26,526 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:26,526 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:26,526 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:24:26,526 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:27,626 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:134
+2018-10-13 01:24:27,626 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:134
+2018-10-13 01:24:27,626 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:24:27,626 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:28,738 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:135
+2018-10-13 01:24:28,738 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:135
+2018-10-13 01:24:28,738 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:28,738 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:28,738 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:28,738 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:24:28,738 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:29,842 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:136
+2018-10-13 01:24:29,842 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:136
+2018-10-13 01:24:29,842 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:29,842 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:29,842 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:24:29,842 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:30,942 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:137
+2018-10-13 01:24:30,942 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:137
+2018-10-13 01:24:30,942 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:30,942 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:30,942 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:30,942 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:24:30,942 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:32,046 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:138
+2018-10-13 01:24:32,046 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:138
+2018-10-13 01:24:32,046 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:32,047 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:32,047 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:24:32,047 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:33,158 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:139
+2018-10-13 01:24:33,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:139
+2018-10-13 01:24:33,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:33,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:33,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:33,159 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:24:33,159 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:24:33,159 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:24:34,262 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:140
+2018-10-13 01:24:34,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:140
+2018-10-13 01:24:34,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:34,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:24:34,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:35,358 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:141
+2018-10-13 01:24:35,358 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:141
+2018-10-13 01:24:35,358 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:35,358 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:35,358 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:35,358 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:24:35,358 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:36,490 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:142
+2018-10-13 01:24:36,490 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:142
+2018-10-13 01:24:36,490 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:36,491 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:36,491 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:24:36,491 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:37,602 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:143
+2018-10-13 01:24:37,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:143
+2018-10-13 01:24:37,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:37,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:37,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:24:37,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:38,706 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:144
+2018-10-13 01:24:38,706 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:144
+2018-10-13 01:24:38,706 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:38,706 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:38,706 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:38,706 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:24:38,706 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:39,798 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:145
+2018-10-13 01:24:39,798 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:145
+2018-10-13 01:24:39,799 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:39,799 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:39,799 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:24:39,799 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:40,905 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:146
+2018-10-13 01:24:40,906 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:146
+2018-10-13 01:24:40,906 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:40,906 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:40,906 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:40,906 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:24:40,906 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:24:40,906 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:24:42,046 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:147
+2018-10-13 01:24:42,046 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:147
+2018-10-13 01:24:42,047 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:42,047 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:42,047 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:42,047 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:24:42,047 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:43,162 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:148
+2018-10-13 01:24:43,162 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:148
+2018-10-13 01:24:43,163 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:43,164 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:43,164 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:43,164 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:24:43,164 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:44,266 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:149
+2018-10-13 01:24:44,266 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:149
+2018-10-13 01:24:44,266 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:44,266 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:44,266 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:44,266 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:24:44,266 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:45,370 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:150
+2018-10-13 01:24:45,370 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:150
+2018-10-13 01:24:45,370 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:45,370 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:45,370 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:45,370 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:24:45,370 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:46,473 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:151
+2018-10-13 01:24:46,474 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:151
+2018-10-13 01:24:46,474 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:46,474 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:46,474 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:46,474 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:24:46,474 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:47,574 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:152
+2018-10-13 01:24:47,574 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:152
+2018-10-13 01:24:47,574 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:47,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:47,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:24:47,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:48,678 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:153
+2018-10-13 01:24:48,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:153
+2018-10-13 01:24:48,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:48,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:48,679 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:24:48,679 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:24:48,679 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:24:49,782 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:154
+2018-10-13 01:24:49,782 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:154
+2018-10-13 01:24:49,782 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:49,782 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:49,782 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:49,783 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:24:49,783 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:50,886 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:155
+2018-10-13 01:24:50,886 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:155
+2018-10-13 01:24:50,886 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:50,886 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:50,887 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:50,887 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:24:50,887 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:51,987 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:156
+2018-10-13 01:24:51,988 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:156
+2018-10-13 01:24:51,988 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:51,988 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:51,988 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:51,988 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:24:51,988 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:53,082 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:157
+2018-10-13 01:24:53,082 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:157
+2018-10-13 01:24:53,082 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:53,083 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:53,083 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:53,083 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:24:53,083 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:54,182 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:158
+2018-10-13 01:24:54,182 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:158
+2018-10-13 01:24:54,182 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:54,182 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:54,182 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:24:54,182 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:55,293 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:159
+2018-10-13 01:24:55,294 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:159
+2018-10-13 01:24:55,294 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:55,294 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:55,294 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:55,295 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:24:55,295 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:56,386 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:160
+2018-10-13 01:24:56,389 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:160
+2018-10-13 01:24:56,389 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:56,389 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:56,390 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:56,390 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:24:56,390 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:24:56,390 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:24:57,498 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:161
+2018-10-13 01:24:57,498 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:161
+2018-10-13 01:24:57,498 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:24:57,498 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:57,498 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:24:57,498 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:58,607 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:162
+2018-10-13 01:24:58,607 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:162
+2018-10-13 01:24:58,607 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:24:58,607 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:24:58,607 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:24:59,714 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:163
+2018-10-13 01:24:59,714 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:163
+2018-10-13 01:24:59,714 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:24:59,714 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:24:59,715 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:00,817 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:164
+2018-10-13 01:25:00,818 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:164
+2018-10-13 01:25:00,818 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:00,818 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:00,818 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:00,818 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:25:00,818 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:01,926 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:165
+2018-10-13 01:25:01,928 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:165
+2018-10-13 01:25:01,928 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:01,928 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:01,928 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:01,928 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:25:01,929 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:03,017 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:166
+2018-10-13 01:25:03,018 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:166
+2018-10-13 01:25:03,018 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:03,018 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:03,018 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:03,018 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:25:03,018 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:04,126 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:167
+2018-10-13 01:25:04,126 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:167
+2018-10-13 01:25:04,126 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:04,126 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:04,126 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:25:04,126 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:25:04,126 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:25:05,230 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:168
+2018-10-13 01:25:05,230 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:168
+2018-10-13 01:25:05,230 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:05,230 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:05,230 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:05,230 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:25:05,230 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:06,334 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:169
+2018-10-13 01:25:06,334 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:169
+2018-10-13 01:25:06,334 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:06,334 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:06,334 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:06,334 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:25:06,334 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:07,430 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:170
+2018-10-13 01:25:07,430 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:170
+2018-10-13 01:25:07,430 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:07,430 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:07,431 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:07,431 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:25:07,431 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:08,538 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:171
+2018-10-13 01:25:08,538 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:171
+2018-10-13 01:25:08,538 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:08,538 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:25:08,538 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:09,646 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:172
+2018-10-13 01:25:09,646 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:172
+2018-10-13 01:25:09,646 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:09,646 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:09,647 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:25:09,647 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:10,742 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:173
+2018-10-13 01:25:10,742 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:173
+2018-10-13 01:25:10,742 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:10,742 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:10,742 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:10,742 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:25:10,742 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:11,846 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:174
+2018-10-13 01:25:11,846 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:174
+2018-10-13 01:25:11,846 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:11,846 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:11,846 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:11,846 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:25:11,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:25:11,847 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:25:12,950 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:175
+2018-10-13 01:25:12,951 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:175
+2018-10-13 01:25:12,951 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:12,951 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:12,951 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:25:12,951 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:14,058 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:176
+2018-10-13 01:25:14,058 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:176
+2018-10-13 01:25:14,058 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:14,059 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:14,059 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:25:14,059 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:15,158 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:177
+2018-10-13 01:25:15,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:177
+2018-10-13 01:25:15,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:15,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:15,159 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:15,159 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:25:15,159 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:16,258 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:178
+2018-10-13 01:25:16,258 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:178
+2018-10-13 01:25:16,259 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:16,259 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:16,259 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:25:16,259 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:17,361 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:179
+2018-10-13 01:25:17,362 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:179
+2018-10-13 01:25:17,362 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:17,362 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:17,362 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:25:17,362 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:18,474 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:180
+2018-10-13 01:25:18,474 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:180
+2018-10-13 01:25:18,474 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:18,474 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:18,474 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:25:18,474 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:19,574 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:181
+2018-10-13 01:25:19,574 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:181
+2018-10-13 01:25:19,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:19,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:19,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:25:19,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:25:19,575 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:25:20,670 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:182
+2018-10-13 01:25:20,670 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:182
+2018-10-13 01:25:20,670 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:20,670 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:20,670 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:20,670 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:25:20,670 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:21,782 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:183
+2018-10-13 01:25:21,782 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:183
+2018-10-13 01:25:21,782 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:21,782 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:21,782 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:21,783 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:25:21,783 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:22,917 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:184
+2018-10-13 01:25:22,918 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:184
+2018-10-13 01:25:22,918 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:22,918 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:22,918 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:22,918 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:25:22,918 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:24,018 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:185
+2018-10-13 01:25:24,018 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:185
+2018-10-13 01:25:24,019 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:24,019 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:24,020 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:25:24,020 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:25,122 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:186
+2018-10-13 01:25:25,122 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:186
+2018-10-13 01:25:25,122 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:25,122 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:25,122 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:25,122 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:25:25,122 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:26,226 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:187
+2018-10-13 01:25:26,226 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:187
+2018-10-13 01:25:26,226 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:26,226 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:26,226 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:26,226 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:25:26,226 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:27,330 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:188
+2018-10-13 01:25:27,330 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:188
+2018-10-13 01:25:27,330 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:27,330 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:27,330 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:25:27,330 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:25:27,330 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:25:28,430 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:189
+2018-10-13 01:25:28,430 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:189
+2018-10-13 01:25:28,430 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:28,430 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:28,430 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:28,430 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:25:28,430 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:29,546 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:190
+2018-10-13 01:25:29,546 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:190
+2018-10-13 01:25:29,546 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:29,546 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:29,546 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:25:29,546 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:30,658 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:191
+2018-10-13 01:25:30,658 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:191
+2018-10-13 01:25:30,658 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:30,658 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:25:30,658 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:31,758 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:192
+2018-10-13 01:25:31,758 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:192
+2018-10-13 01:25:31,758 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:31,758 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:31,758 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:25:31,758 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:32,858 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:193
+2018-10-13 01:25:32,860 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:193
+2018-10-13 01:25:32,860 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:32,860 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:32,860 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:32,861 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:25:32,861 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:33,958 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:194
+2018-10-13 01:25:33,958 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:194
+2018-10-13 01:25:33,958 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:33,958 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:33,959 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:25:33,959 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:35,062 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:195
+2018-10-13 01:25:35,062 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:195
+2018-10-13 01:25:35,062 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:35,062 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:35,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:25:35,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:25:35,063 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:25:36,158 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:196
+2018-10-13 01:25:36,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:196
+2018-10-13 01:25:36,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:36,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:36,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:36,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:25:36,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:37,262 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:197
+2018-10-13 01:25:37,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:197
+2018-10-13 01:25:37,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:37,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:37,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:37,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:25:37,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:38,361 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:198
+2018-10-13 01:25:38,362 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:198
+2018-10-13 01:25:38,362 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:38,362 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:38,362 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:38,362 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:25:38,362 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:39,474 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:199
+2018-10-13 01:25:39,474 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:199
+2018-10-13 01:25:39,474 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:39,475 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:39,475 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:25:39,475 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:40,578 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:200
+2018-10-13 01:25:40,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:200
+2018-10-13 01:25:40,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:40,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:40,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:40,579 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:25:40,579 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:41,678 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:201
+2018-10-13 01:25:41,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:201
+2018-10-13 01:25:41,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:41,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:41,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:41,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:25:41,678 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:42,786 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:202
+2018-10-13 01:25:42,786 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:202
+2018-10-13 01:25:42,786 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:42,786 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:42,787 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:25:42,787 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:25:42,787 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:25:43,894 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:203
+2018-10-13 01:25:43,894 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:203
+2018-10-13 01:25:43,894 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:43,894 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:43,894 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:25:43,894 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:44,998 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:204
+2018-10-13 01:25:44,998 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:204
+2018-10-13 01:25:44,998 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:44,998 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:44,998 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:44,998 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:25:44,998 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:46,094 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:205
+2018-10-13 01:25:46,094 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:205
+2018-10-13 01:25:46,094 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:46,095 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:46,095 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:46,095 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:25:46,095 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:47,190 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:206
+2018-10-13 01:25:47,190 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:206
+2018-10-13 01:25:47,190 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:47,190 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:47,190 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:47,191 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:25:47,191 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:48,310 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:207
+2018-10-13 01:25:48,310 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:207
+2018-10-13 01:25:48,310 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:48,310 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:48,310 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:48,310 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:25:48,310 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:49,407 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:208
+2018-10-13 01:25:49,408 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:208
+2018-10-13 01:25:49,408 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:49,408 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:49,408 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:49,408 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:25:49,408 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:50,506 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:209
+2018-10-13 01:25:50,506 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:209
+2018-10-13 01:25:50,506 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:50,506 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:50,506 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:50,506 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:25:50,507 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:25:50,507 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:25:51,602 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:210
+2018-10-13 01:25:51,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:210
+2018-10-13 01:25:51,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:51,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:51,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:51,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:25:51,602 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:52,734 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:211
+2018-10-13 01:25:52,734 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:211
+2018-10-13 01:25:52,734 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:52,734 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:52,734 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:25:52,734 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:53,842 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:212
+2018-10-13 01:25:53,842 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:212
+2018-10-13 01:25:53,842 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:53,842 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:53,842 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:25:53,842 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:54,949 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:213
+2018-10-13 01:25:54,949 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:213
+2018-10-13 01:25:54,950 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:54,950 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:54,950 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:25:54,950 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:56,054 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:214
+2018-10-13 01:25:56,054 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:214
+2018-10-13 01:25:56,054 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:56,054 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:56,054 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:56,054 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:25:56,054 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:57,166 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:215
+2018-10-13 01:25:57,166 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:215
+2018-10-13 01:25:57,166 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:57,166 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:57,166 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:25:57,166 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:25:58,262 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:216
+2018-10-13 01:25:58,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:216
+2018-10-13 01:25:58,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:58,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:58,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:58,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:25:58,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:25:58,262 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:25:59,374 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:217
+2018-10-13 01:25:59,374 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:217
+2018-10-13 01:25:59,374 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:25:59,374 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:25:59,375 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:25:59,375 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:25:59,375 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:00,478 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:218
+2018-10-13 01:26:00,478 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:218
+2018-10-13 01:26:00,478 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:00,478 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:00,478 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:00,478 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:26:00,478 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:01,590 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:219
+2018-10-13 01:26:01,590 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:219
+2018-10-13 01:26:01,590 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:01,590 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:01,590 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:01,590 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:26:01,591 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:02,690 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:220
+2018-10-13 01:26:02,690 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:220
+2018-10-13 01:26:02,690 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:02,690 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:02,690 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:26:02,690 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:03,790 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:221
+2018-10-13 01:26:03,790 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:221
+2018-10-13 01:26:03,790 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:03,790 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:03,790 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:26:03,790 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:04,894 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:222
+2018-10-13 01:26:04,894 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:222
+2018-10-13 01:26:04,894 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:04,894 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:04,894 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:04,894 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:26:04,894 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:06,010 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:223
+2018-10-13 01:26:06,010 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:223
+2018-10-13 01:26:06,010 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:06,010 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:06,010 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:26:06,010 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:26:06,010 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:26:07,106 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:224
+2018-10-13 01:26:07,106 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:224
+2018-10-13 01:26:07,106 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:07,107 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:26:07,107 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:08,206 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:225
+2018-10-13 01:26:08,206 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:225
+2018-10-13 01:26:08,207 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:08,207 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:08,207 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:08,208 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:26:08,208 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:09,306 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:226
+2018-10-13 01:26:09,306 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:226
+2018-10-13 01:26:09,306 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:09,306 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:26:09,306 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:10,418 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:227
+2018-10-13 01:26:10,418 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:227
+2018-10-13 01:26:10,418 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:10,418 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:10,418 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:26:10,419 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:11,518 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:228
+2018-10-13 01:26:11,518 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:228
+2018-10-13 01:26:11,518 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:11,518 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:11,518 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:26:11,518 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:12,630 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:229
+2018-10-13 01:26:12,630 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:229
+2018-10-13 01:26:12,630 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:12,630 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:12,630 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:12,631 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:26:12,631 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:13,730 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:230
+2018-10-13 01:26:13,730 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:230
+2018-10-13 01:26:13,730 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:13,730 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:13,730 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:13,730 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:26:13,730 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:26:13,730 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:26:14,838 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:231
+2018-10-13 01:26:14,838 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:231
+2018-10-13 01:26:14,838 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:14,838 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:14,838 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:14,839 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:26:14,839 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:15,938 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:232
+2018-10-13 01:26:15,939 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:232
+2018-10-13 01:26:15,939 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:15,939 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:15,939 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:26:15,940 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:17,038 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:233
+2018-10-13 01:26:17,039 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:233
+2018-10-13 01:26:17,039 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:17,039 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:17,039 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:17,039 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:26:17,039 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:18,146 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:234
+2018-10-13 01:26:18,146 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:234
+2018-10-13 01:26:18,146 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:18,146 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:18,146 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:26:18,146 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:19,246 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:235
+2018-10-13 01:26:19,246 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:235
+2018-10-13 01:26:19,246 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:19,246 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:19,246 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:19,246 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:26:19,246 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:20,346 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:236
+2018-10-13 01:26:20,346 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:236
+2018-10-13 01:26:20,346 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:20,346 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:20,346 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:20,347 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:26:20,347 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:21,450 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:237
+2018-10-13 01:26:21,450 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:237
+2018-10-13 01:26:21,450 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:21,450 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:21,450 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:21,450 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:26:21,450 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:26:21,450 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:26:22,617 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:238
+2018-10-13 01:26:22,618 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:238
+2018-10-13 01:26:22,618 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:22,618 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:22,618 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:26:22,618 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:23,730 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:239
+2018-10-13 01:26:23,730 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:239
+2018-10-13 01:26:23,731 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:23,731 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:26:23,731 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:24,838 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:240
+2018-10-13 01:26:24,838 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:240
+2018-10-13 01:26:24,838 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:24,838 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:26:24,838 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:25,934 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:241
+2018-10-13 01:26:25,934 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:241
+2018-10-13 01:26:25,934 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:25,934 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:25,934 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:26:25,934 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:27,042 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:242
+2018-10-13 01:26:27,042 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:242
+2018-10-13 01:26:27,042 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:27,042 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:27,042 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:26:27,043 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:28,156 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:243
+2018-10-13 01:26:28,157 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:243
+2018-10-13 01:26:28,157 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:28,157 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:28,157 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:28,157 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:26:28,157 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:29,250 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:244
+2018-10-13 01:26:29,250 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:244
+2018-10-13 01:26:29,250 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:29,250 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:29,250 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:29,250 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:26:29,251 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:26:29,251 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:26:30,353 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:245
+2018-10-13 01:26:30,353 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:245
+2018-10-13 01:26:30,354 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:30,354 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:30,354 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:26:30,354 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:31,469 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:246
+2018-10-13 01:26:31,470 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:246
+2018-10-13 01:26:31,470 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:31,470 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:31,470 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:31,470 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:26:31,470 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:32,578 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:247
+2018-10-13 01:26:32,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:247
+2018-10-13 01:26:32,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:32,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:32,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:26:32,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:33,666 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:248
+2018-10-13 01:26:33,666 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:248
+2018-10-13 01:26:33,666 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:33,666 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:33,666 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:26:33,666 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:34,769 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:249
+2018-10-13 01:26:34,770 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:249
+2018-10-13 01:26:34,770 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:34,770 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:34,770 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:34,770 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:26:34,770 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:35,874 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:250
+2018-10-13 01:26:35,874 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:250
+2018-10-13 01:26:35,874 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:35,875 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:35,875 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:35,875 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:26:35,875 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:37,409 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:251
+2018-10-13 01:26:37,410 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:251
+2018-10-13 01:26:37,411 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:37,411 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:37,411 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:26:37,411 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:26:37,411 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:26:38,514 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:252
+2018-10-13 01:26:38,514 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:252
+2018-10-13 01:26:38,514 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:38,515 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:38,515 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:26:38,515 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:39,614 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:253
+2018-10-13 01:26:39,614 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:253
+2018-10-13 01:26:39,614 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:39,614 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:39,614 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:26:39,614 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:40,726 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:254
+2018-10-13 01:26:40,726 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:254
+2018-10-13 01:26:40,726 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:40,726 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:40,726 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:26:40,726 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:41,834 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:255
+2018-10-13 01:26:41,837 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:255
+2018-10-13 01:26:41,838 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:41,838 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:41,838 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:41,838 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:26:41,838 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:42,938 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:256
+2018-10-13 01:26:42,938 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:256
+2018-10-13 01:26:42,938 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:42,938 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:42,938 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:26:42,938 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:44,050 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:257
+2018-10-13 01:26:44,050 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:257
+2018-10-13 01:26:44,050 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:44,050 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:44,050 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:44,050 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:26:44,050 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:45,157 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:258
+2018-10-13 01:26:45,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:258
+2018-10-13 01:26:45,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:45,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:45,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:45,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:26:45,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:26:45,158 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:26:46,278 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:259
+2018-10-13 01:26:46,278 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:259
+2018-10-13 01:26:46,278 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:46,278 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:46,278 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:46,279 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:26:46,279 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:47,382 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:260
+2018-10-13 01:26:47,382 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:260
+2018-10-13 01:26:47,382 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:47,382 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:47,383 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:26:47,383 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:48,482 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:261
+2018-10-13 01:26:48,482 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:261
+2018-10-13 01:26:48,482 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:48,482 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:48,482 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:48,482 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:26:48,482 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:49,578 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:262
+2018-10-13 01:26:49,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:262
+2018-10-13 01:26:49,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:49,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:49,578 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:49,579 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:26:49,579 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:50,687 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:263
+2018-10-13 01:26:50,687 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:263
+2018-10-13 01:26:50,687 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:50,688 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:26:50,688 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:51,786 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:264
+2018-10-13 01:26:51,786 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:264
+2018-10-13 01:26:51,786 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:51,787 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:51,787 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:26:51,787 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:52,891 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:265
+2018-10-13 01:26:52,891 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:265
+2018-10-13 01:26:52,892 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:52,892 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:52,892 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:52,892 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:26:52,892 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:26:52,892 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:26:53,990 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:266
+2018-10-13 01:26:53,990 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:266
+2018-10-13 01:26:53,990 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:53,990 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:53,990 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:53,990 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:26:53,991 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:55,094 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:267
+2018-10-13 01:26:55,094 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:267
+2018-10-13 01:26:55,094 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:55,095 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:55,095 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:55,095 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:26:55,095 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:56,190 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:268
+2018-10-13 01:26:56,191 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:268
+2018-10-13 01:26:56,191 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:56,191 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:56,191 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:56,191 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:26:56,191 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:57,290 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:269
+2018-10-13 01:26:57,290 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:269
+2018-10-13 01:26:57,290 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:57,290 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:57,290 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:57,291 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:26:57,291 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:58,390 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:270
+2018-10-13 01:26:58,390 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:270
+2018-10-13 01:26:58,390 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:58,390 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:58,390 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:26:58,390 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:26:59,498 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:271
+2018-10-13 01:26:59,498 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:271
+2018-10-13 01:26:59,498 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:26:59,498 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:26:59,498 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:26:59,498 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:26:59,498 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:00,598 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:272
+2018-10-13 01:27:00,598 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:272
+2018-10-13 01:27:00,598 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:00,598 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:00,598 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:00,598 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:27:00,598 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:27:00,599 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:27:01,706 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:273
+2018-10-13 01:27:01,706 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:273
+2018-10-13 01:27:01,706 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:01,707 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:01,707 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:27:01,707 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:02,803 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:274
+2018-10-13 01:27:02,803 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:274
+2018-10-13 01:27:02,803 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:02,804 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:27:02,804 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:03,910 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:275
+2018-10-13 01:27:03,910 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:275
+2018-10-13 01:27:03,910 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:03,910 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:03,910 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:03,910 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:27:03,911 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:05,006 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:276
+2018-10-13 01:27:05,006 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:276
+2018-10-13 01:27:05,006 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:05,006 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:05,007 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:27:05,007 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:06,114 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:277
+2018-10-13 01:27:06,114 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:277
+2018-10-13 01:27:06,115 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:06,115 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:06,115 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:06,115 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:27:06,115 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:07,210 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:278
+2018-10-13 01:27:07,210 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:278
+2018-10-13 01:27:07,210 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:07,211 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:07,211 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:07,211 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:27:07,211 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:08,322 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:279
+2018-10-13 01:27:08,322 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:279
+2018-10-13 01:27:08,322 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:08,322 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:08,322 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:27:08,322 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:27:08,322 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:27:09,418 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:280
+2018-10-13 01:27:09,418 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:280
+2018-10-13 01:27:09,418 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:09,418 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:09,418 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:09,419 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:27:09,419 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:10,518 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:281
+2018-10-13 01:27:10,518 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:281
+2018-10-13 01:27:10,518 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:10,518 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:10,518 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:10,519 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:27:10,519 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:11,642 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:282
+2018-10-13 01:27:11,642 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:282
+2018-10-13 01:27:11,642 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:11,642 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:11,642 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:11,644 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:27:11,644 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:12,742 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:283
+2018-10-13 01:27:12,742 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:283
+2018-10-13 01:27:12,742 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:12,742 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:12,742 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:27:12,742 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:13,834 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:284
+2018-10-13 01:27:13,834 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:284
+2018-10-13 01:27:13,834 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:13,834 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:13,836 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:13,836 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:27:13,836 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:14,934 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:285
+2018-10-13 01:27:14,934 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:285
+2018-10-13 01:27:14,934 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:14,934 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:14,934 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:27:14,934 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:16,038 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:286
+2018-10-13 01:27:16,038 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:286
+2018-10-13 01:27:16,038 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:16,038 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:27:16,038 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:27:16,038 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:27:17,146 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:287
+2018-10-13 01:27:17,146 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:287
+2018-10-13 01:27:17,146 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:17,146 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:17,146 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:17,146 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:27:17,147 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:18,246 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:288
+2018-10-13 01:27:18,246 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:288
+2018-10-13 01:27:18,246 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:18,246 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:18,247 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:27:18,247 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:19,346 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:289
+2018-10-13 01:27:19,346 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:289
+2018-10-13 01:27:19,346 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:19,346 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:27:19,346 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:20,450 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:290
+2018-10-13 01:27:20,450 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:290
+2018-10-13 01:27:20,450 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:20,450 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:20,450 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:20,450 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:27:20,450 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:21,562 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:291
+2018-10-13 01:27:21,562 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:291
+2018-10-13 01:27:21,562 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:21,562 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:21,563 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:27:21,563 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:22,662 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:292
+2018-10-13 01:27:22,662 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:292
+2018-10-13 01:27:22,662 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:22,662 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:22,662 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:27:22,662 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:23,770 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:293
+2018-10-13 01:27:23,770 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:293
+2018-10-13 01:27:23,770 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:23,770 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:23,770 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:23,770 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:27:23,770 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:27:23,770 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297
+2018-10-13 01:27:24,862 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:294
+2018-10-13 01:27:24,862 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:294
+2018-10-13 01:27:24,862 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:24,862 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=0
+2018-10-13 01:27:24,862 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:25,975 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:295
+2018-10-13 01:27:25,975 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:295
+2018-10-13 01:27:25,975 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:25,975 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:25,975 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=1
+2018-10-13 01:27:25,975 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:27,081 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:296
+2018-10-13 01:27:27,082 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:296
+2018-10-13 01:27:27,082 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:27,082 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:27,082 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:27,082 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=2
+2018-10-13 01:27:27,082 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:28,178 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:297
+2018-10-13 01:27:28,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:297
+2018-10-13 01:27:28,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:28,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:28,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:28,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=3
+2018-10-13 01:27:28,178 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:29,290 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:298
+2018-10-13 01:27:29,290 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:298
+2018-10-13 01:27:29,290 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:29,290 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:29,290 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:29,291 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=4
+2018-10-13 01:27:29,291 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:30,394 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:299
+2018-10-13 01:27:30,394 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:299
+2018-10-13 01:27:30,394 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:30,394 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:30,394 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:30,395 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=5
+2018-10-13 01:27:30,395 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 3.Selected Target: 297
+2018-10-13 01:27:31,493 [DEBUG|PoliceForce/2100749274|TestSearchForFire] Time:300
+2018-10-13 01:27:31,494 [DEBUG|PoliceForce/2100749274|TestRoadDetector] TheTime:300
+2018-10-13 01:27:31,494 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (929)
+2018-10-13 01:27:31,494 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRefuge (255)
+2018-10-13 01:27:31,494 [DEBUG|PoliceForce/2100749274|TestRoadDetector] FireBrige TargetRoad (896)
+2018-10-13 01:27:31,494 [DEBUG|PoliceForce/2100749274|TestRoadDetector] Thecount=6
+2018-10-13 01:27:31,494 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Select the path:[297]
+2018-10-13 01:27:31,494 [DEBUG|PoliceForce/2100749274|TestRoadDetector] 0.Selected Target: 297

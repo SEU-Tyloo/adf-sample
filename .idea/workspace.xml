@@ -2,49 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df6b85b0-4ac0-45f6-b2ce-b4f56be40061" name="Default Changelist" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/AmbulanceTeam/1258706259.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/AmbulanceTeam/1266203310.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/AmbulanceTeam/1393335846.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/AmbulanceTeam/1683832393.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/AmbulanceTeam/608721590.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/1201298625.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/1208810557.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/1266203310.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/1294982624.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/1312469398.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/1346026749.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/135153009.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/1393335846.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/141943013.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/1432104601.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/1485687278.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/149795089.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/1540683164.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/15606557.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/1610680539.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/1683832393.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/171177217.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/1922944475.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/2010506301.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/2010987065.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/2141381928.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/297102873.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/385253529.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/608721590.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/688213310.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/719047931.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/724032899.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/801259675.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/83091732.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/logs/FireBrigade/92760370.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1208810557.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1485687278.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1540683164.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/385253529.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/83091732.log" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Tyloo/module/algorithm/AStarPathPlanning$1.class" afterPath="$PROJECT_DIR$/build/Tyloo/module/algorithm/AStarPathPlanning$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Tyloo/module/algorithm/AStarPathPlanning.class" afterPath="$PROJECT_DIR$/build/Tyloo/module/algorithm/AStarPathPlanning.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1005037758.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1076915664.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1098330608.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1196593231.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1205863010.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1211625498.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1258706259.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/131608312.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1329872710.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1457752870.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1506154062.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1624799306.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/178094060.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1946051978.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1960879663.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1963497334.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/1966561238.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/197311178.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/2010656199.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/2128588806.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/419733655.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/445321505.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/487310038.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/600668868.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/647606606.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/650590783.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/656292291.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/732036963.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/938320081.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/PoliceForce/951149996.log" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestBuildingDetector$DDistanceSorter.class" afterPath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestBuildingDetector$DDistanceSorter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestBuildingDetector$DistanceSorter.class" afterPath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestBuildingDetector$DistanceSorter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestBuildingDetector.class" afterPath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestBuildingDetector.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestHumanDetector$DistanceSorter.class" afterPath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestHumanDetector$DistanceSorter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestHumanDetector.class" afterPath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestHumanDetector.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestRoadDetector.class" afterPath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestRoadDetector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestSearchForFire.class" afterPath="$PROJECT_DIR$/build/Tyloo/module/complex/self/TestSearchForFire.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tyloo/module/algorithm/AStarPathPlanning.java" afterPath="$PROJECT_DIR$/src/Tyloo/module/algorithm/AStarPathPlanning.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestBuildingDetector.java" afterPath="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestBuildingDetector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestHumanDetector.java" afterPath="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestHumanDetector.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestRoadDetector.java" afterPath="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestRoadDetector.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestSearchForFire.java" afterPath="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestSearchForFire.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,12 +114,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="TestRoadDetector.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/self/TestRoadDetector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="209" column="26" lean-forward="false" selection-start-line="209" selection-start-column="26" selection-end-line="209" selection-end-column="26" />
+            <state relative-caret-position="-5984">
+              <caret line="92" column="21" lean-forward="false" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -111,6 +138,10 @@
       <find>roadPassable</find>
       <find>isP</find>
       <find>pathPlanning</find>
+      <find>isBlockadesDefined</find>
+      <find>priorityRoads</find>
+      <find>Water</find>
+      <find>5</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -124,16 +155,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestHumanDetector.java" />
         <option value="$PROJECT_DIR$/src/Tyloo/module/complex/center/TestAmbulanceTargetAllocator.java" />
         <option value="$PROJECT_DIR$/src/Tyloo/module/complex/center/TestFireTargetAllocator.java" />
         <option value="$PROJECT_DIR$/src/Tyloo/module/complex/center/TestPoliceTargetAllocator.java" />
         <option value="$PROJECT_DIR$/src/Tyloo/module/algorithm/KMeans.java" />
-        <option value="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestBuildingDetector.java" />
         <option value="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestSearchForFire.java" />
         <option value="$PROJECT_DIR$/src/Tyloo/module/algorithm/AStarPathPlanning.java" />
         <option value="$PROJECT_DIR$/logs/PoliceForce/1258706259.log" />
         <option value="$PROJECT_DIR$/logs/PoliceForce/131608312.log" />
+        <option value="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestBuildingDetector.java" />
+        <option value="$PROJECT_DIR$/build/adf/sample/SampleLoader.class" />
+        <option value="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestHumanDetector.java" />
+        <option value="$PROJECT_DIR$/logs/PoliceForce/1548259968.log" />
         <option value="$PROJECT_DIR$/src/Tyloo/module/complex/self/TestRoadDetector.java" />
       </list>
     </option>
@@ -144,9 +177,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-35" />
+    <option name="y" value="144" />
     <option name="width" value="1910" />
-    <option name="height" value="1013" />
+    <option name="height" value="759" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -178,27 +213,13 @@
             <path>
               <item name="adf-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="adf-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+              <item name="PoliceForce" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="adf-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="adf-sample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adf-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adf-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
-              <item name="module" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adf-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adf-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
-              <item name="tactics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="adf-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -226,16 +247,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="module" type="462c0819:PsiDirectoryNode" />
               <item name="complex" type="462c0819:PsiDirectoryNode" />
+              <item name="center" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adf-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adf-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="complex" type="462c0819:PsiDirectoryNode" />
               <item name="self" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -368,14 +397,28 @@
       <workItem from="1538807164446" duration="5570000" />
       <workItem from="1538833769309" duration="2310000" />
       <workItem from="1538908721293" duration="99000" />
+      <workItem from="1538964128764" duration="556000" />
+      <workItem from="1538965483691" duration="662000" />
+      <workItem from="1538994227396" duration="1626000" />
+      <workItem from="1538997212224" duration="698000" />
+      <workItem from="1539002654010" duration="37000" />
+      <workItem from="1539003107209" duration="215000" />
+      <workItem from="1539004368041" duration="26000" />
+      <workItem from="1539006446849" duration="792000" />
+      <workItem from="1539052081650" duration="1003000" />
+      <workItem from="1539054828471" duration="1466000" />
+      <workItem from="1539087924533" duration="3713000" />
+      <workItem from="1539358702371" duration="1329000" />
+      <workItem from="1539360582856" duration="62000" />
+      <workItem from="1539360721363" duration="4602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14709000" />
+    <option name="totallyTimeSpent" value="31496000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1013" extended-state="7" />
+    <frame x="0" y="0" width="1920" height="1013" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -385,19 +428,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14635417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -413,61 +456,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/library/rescue/adf/adf-core.jar!/adf/agent/communication/standard/bundle/information/MessageFireBrigade.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4768">
-          <caret line="174" column="30" lean-forward="false" selection-start-line="174" selection-start-column="20" selection-end-line="174" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/adf/sample/centralized/CommandExecutorAmbulance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/adf/sample/SampleLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/self/TestHumanDetector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/self/TestRoadDetector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6112">
-          <caret line="221" column="51" lean-forward="false" selection-start-line="221" selection-start-column="51" selection-end-line="221" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/self/TestSearchForFire.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/self/TestBuildingDetector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8160">
-          <caret line="286" column="36" lean-forward="true" selection-start-line="286" selection-start-column="36" selection-end-line="286" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/adf/sample/centralized/CommandExecutorAmbulance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -508,7 +502,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5280">
           <caret line="195" column="45" lean-forward="true" selection-start-line="195" selection-start-column="45" selection-end-line="195" selection-end-column="45" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -523,7 +519,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4608">
           <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -564,13 +562,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/center/TestAmbulanceTargetAllocator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/center/TestFireTargetAllocator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
@@ -647,13 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/self/TestHumanDetector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="203" column="31" lean-forward="false" selection-start-line="203" selection-start-column="17" selection-end-line="203" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/library/rescue/adf/adf-core.jar!/adf/agent/communication/MessageManager.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1888">
@@ -691,70 +675,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/logs/PoliceForce/1258706259.log" />
     <entry file="file://$PROJECT_DIR$/logs/PoliceForce/1211625498.log" />
+    <entry file="file://$PROJECT_DIR$/logs/PoliceForce/420673465.log" />
+    <entry file="file://$PROJECT_DIR$/logs/FireBrigade/156340320.log" />
+    <entry file="file://$PROJECT_DIR$/logs/FireBrigade/378069275.log" />
+    <entry file="file://$PROJECT_DIR$/logs/FireBrigade/532230468.log" />
+    <entry file="file://$PROJECT_DIR$/logs/FireBrigade/357696482.log" />
+    <entry file="file://$PROJECT_DIR$/logs/FireBrigade/742336136.log" />
+    <entry file="file://$PROJECT_DIR$/logs/PoliceForce/4667326.log" />
     <entry file="file://$PROJECT_DIR$/logs/PoliceForce/131608312.log" />
+    <entry file="file://$PROJECT_DIR$/src/Tyloo/module/algorithm/AStarPathPlanning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3904">
+          <caret line="140" column="20" lean-forward="false" selection-start-line="140" selection-start-column="20" selection-end-line="140" selection-end-column="20" />
+          <folding>
+            <element signature="e#4132#4133#0" expanded="true" />
+            <element signature="e#4171#4172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/self/TestSearchForFire.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="44" column="12" lean-forward="false" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
+        <state relative-caret-position="448">
+          <caret line="53" column="8" lean-forward="false" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/self/TestBuildingDetector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="99" column="56" lean-forward="true" selection-start-line="99" selection-start-column="56" selection-end-line="99" selection-end-column="56" />
+        <state relative-caret-position="480">
+          <caret line="44" column="10" lean-forward="false" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/center/TestFireTargetAllocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tyloo/module/algorithm/AStarPathPlanning.java">
+    <entry file="file://$PROJECT_DIR$/build/adf/sample/module/complex/SampleFireTargetAllocator.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        <state relative-caret-position="1088">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/PoliceForce/420673465.log">
+    <entry file="file://$PROJECT_DIR$/build/Tyloo/module/complex/self/TestHumanDetector.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="5856">
+          <caret line="218" column="41" lean-forward="false" selection-start-line="218" selection-start-column="41" selection-end-line="218" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/FireBrigade/156340320.log">
+    <entry file="file://$PROJECT_DIR$/build/adf/sample/SampleLoader.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="128">
+          <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/FireBrigade/378069275.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/FireBrigade/532230468.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
-          <caret line="38" column="106" lean-forward="true" selection-start-line="38" selection-start-column="106" selection-end-line="38" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/FireBrigade/357696482.log">
+    <entry file="file://$PROJECT_DIR$/build/adf/sample/module/complex/SampleDecentralizedFireTargetAllocator.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/self/TestHumanDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="183" column="35" lean-forward="false" selection-start-line="183" selection-start-column="21" selection-end-line="183" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/FireBrigade/742336136.log">
+    <entry file="file://$PROJECT_DIR$/build/Tyloo/module/complex/self/TestBuildingDetector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="374" column="2" lean-forward="true" selection-start-line="374" selection-start-column="2" selection-end-line="374" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/PoliceForce/1548259968.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -764,8 +774,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tyloo/module/complex/self/TestRoadDetector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="209" column="26" lean-forward="false" selection-start-line="209" selection-start-column="26" selection-end-line="209" selection-end-column="26" />
+        <state relative-caret-position="-5984">
+          <caret line="92" column="21" lean-forward="false" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="21" />
           <folding />
         </state>
       </provider>

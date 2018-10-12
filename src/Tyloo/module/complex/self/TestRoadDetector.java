@@ -75,21 +75,22 @@ public class TestRoadDetector extends RoadDetector {
 				if (path != null && path.size() > 0)
 				{
 					this.result = path.get(path.size() - 1);
+
 				}
 				return this;
 			}
-		}//
+		}//回家
 		if(MyHP <= 5000 )
 		{
 			this.result=null;
 			return this;
-		}
+		}//巡逻
 
 		logger.debug("Thecount="+this.count);
 
 		if(this.result!= null)
 			this.count++;
-		if(count == 7 ){//如果在这个地方停留7次，则强制更换工作地方
+		if(count == 6 ){//如果在这个地方停留6次，则强制更换工作地方
 			this.count=0;
 			targetAreas.remove(positionID);
 			this.pathPlanning.setFrom(positionID);
@@ -203,39 +204,74 @@ public class TestRoadDetector extends RoadDetector {
 		if(agentInfo.getTime()==1)
 		{
 			this.priorityRoads = new HashSet<>();
-			for (StandardEntity e : this.worldInfo.getEntitiesOfType(REFUGE,GAS_STATION)) {
+			this.targetAreas=new HashSet<>();
+			for (StandardEntity e : this.worldInfo.getEntitiesOfType(REFUGE)) {
 				for (EntityID id : ((Building) e).getNeighbours()) {
 					StandardEntity neighbour = this.worldInfo.getEntity(id);
 					if (neighbour instanceof Road) {
-						//if (((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
-							//如果该地区Block被定义，且该Block不为空，加入到优先级道路队列
-							this.priorityRoads.add(id);
+						this.priorityRoads.add(id);
+						this.targetAreas.add(id);
+
+						for(EntityID neighbourID : ((Road) neighbour).getNeighbours()){
+							StandardEntity neighbour_neighbour = this.worldInfo.getEntity(neighbourID);
+							if(neighbour_neighbour instanceof Road)
+							{
+								this.priorityRoads.add(id);
+								this.targetAreas.add(id);
+							}
+						}
 					}
 				}
 			}//优先级队列
 		}
-		this.targetAreas = new HashSet<>();
-		for (StandardEntity e : this.worldInfo.getEntitiesOfType(REFUGE,GAS_STATION,BUILDING)) {
-			for (EntityID id : ((Building) e).getNeighbours()) {
-				StandardEntity neighbour = this.worldInfo.getEntity(id);
-				if (neighbour instanceof Road) {
-					if (((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
-						//如果该地区Block被定义，且该Block不为空，加入到目标区域
-						this.targetAreas.add(id);
+		else
+		{
+			this.targetAreas = new HashSet<>();
+			for (StandardEntity e : this.worldInfo.getEntitiesOfType(REFUGE,GAS_STATION,BUILDING)) {
+				for (EntityID id : ((Building) e).getNeighbours()) {
+					StandardEntity neighbour = this.worldInfo.getEntity(id);
+					if (neighbour instanceof Road) {
+						if (((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
+						{
+							this.targetAreas.add(id);
+						}
+						for(EntityID neighbourID : ((Road) neighbour).getNeighbours()){
+							StandardEntity neighbour_neighbour = this.worldInfo.getEntity(neighbourID);
+							if(neighbour_neighbour instanceof Road)
+							{
+								if (((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
+								{
+									this.targetAreas.add(id);
+								}
+							}
+						}
+					}
 				}
-			}
-		}//目标队列
-		this.priorityRoads = new HashSet<>();
-		for (StandardEntity e : this.worldInfo.getEntitiesOfType(REFUGE,GAS_STATION)) {
-			for (EntityID id : ((Building) e).getNeighbours()) {
-				StandardEntity neighbour = this.worldInfo.getEntity(id);
-				if (neighbour instanceof Road) {
-					if (((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
-						//如果该地区Block被定义，且该Block不为空，加入到优先级道路队列
-						this.priorityRoads.add(id);
+			}//目标队列
+			this.priorityRoads = new HashSet<>();
+			for (StandardEntity e : this.worldInfo.getEntitiesOfType(REFUGE)) {
+				for (EntityID id : ((Building) e).getNeighbours()) {
+					StandardEntity neighbour = this.worldInfo.getEntity(id);
+					if (neighbour instanceof Road) {
+						if (((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
+						{
+							this.priorityRoads.add(id);
+						}
+						for(EntityID neighbourID : ((Road) neighbour).getNeighbours()){
+							StandardEntity neighbour_neighbour = this.worldInfo.getEntity(neighbourID);
+							if(neighbour_neighbour instanceof Road)
+							{
+								if (((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
+								{
+									this.priorityRoads.add(id);
+								}
+							}
+						}
+					}
 				}
-			}
-		}//优先级队列
+			}//优先级队列
+		}
+
 
 
 		logger.debug("TheTime:"+agentInfo.getTime());
@@ -259,16 +295,17 @@ public class TestRoadDetector extends RoadDetector {
 				else if (entity instanceof Road)
 				{
 					Road road = (Road) entity;
-					if (!road.isBlockadesDefined() || road.getBlockades().isEmpty())
+					if (!road.isBlockadesDefined() )
 					{
 						this.targetAreas.remove(this.result);
 						this.result = null;
-					}//如果没有阻塞，将该区域从targetAreas中删除
+					}//如果该地区没有定义阻塞
+					if(road.isBlockadesDefined() && road.getBlockades().isEmpty() )
+					{
+						this.targetAreas.remove(this.result);
+						this.result = null;
+					}//如果该地区定义了阻塞，且该地区阻塞不为空
 				}
-			}
-			else
-			{
-				logger.debug("我还没到达目的地！");
 			}
 		} //到达目的地之后，重新处理targets
 
@@ -282,48 +319,31 @@ public class TestRoadDetector extends RoadDetector {
 			if (messageClass == MessageAmbulanceTeam.class)
 			{
 				this.reflectMessage((MessageAmbulanceTeam) message);
-				logger.debug("1.---priorityRoads"+priorityRoads);
-				logger.debug("1.---targetAreas"+targetAreas);
+
 			}//呼应救援队伍
 			else if (messageClass == MessageFireBrigade.class)
 			{
 				this.reflectMessage((MessageFireBrigade) message);
-				logger.debug("2.---priorityRoads"+priorityRoads);
-				logger.debug("2.---targetAreas"+targetAreas);
+
 			}//呼应救火队伍
 			else if (messageClass == MessageRoad.class)
 			{
 				this.reflectMessage((MessageRoad) message, changedEntities);
-				logger.debug("3.---priorityRoads"+priorityRoads);
-				logger.debug("3.---targetAreas"+targetAreas);
+
 			}//呼应道路信息
 			else if (messageClass == MessagePoliceForce.class)
 			{
 				this.reflectMessage((MessagePoliceForce) message);
-				logger.debug("4.---priorityRoads"+priorityRoads);
-				logger.debug("4.---targetAreas"+targetAreas);
+
 			}//呼应其他警察信息
 			else if (messageClass == CommandPolice.class)
 			{
 				this.reflectMessage((CommandPolice) message);
-				logger.debug("5.---priorityRoads"+priorityRoads);
-				logger.debug("5.---targetAreas"+targetAreas);
+
 			}
 		}
-//		for (EntityID id : this.worldInfo.getChanged().getChangedEntities())
-//		{
-//			StandardEntity entity = this.worldInfo.getEntity(id);
-//			if (entity instanceof Road)
-//			{
-//				Road road = (Road) entity;
-//				if (!road.isBlockadesDefined() || road.getBlockades().isEmpty())
-//				{
-//					this.targetAreas.remove(id);
-//				}
-//			}
-//		}
-		logger.debug("6.---priorityRoads"+priorityRoads);
-		logger.debug("6.---targetAreas"+targetAreas);
+
+
 		return this;
 	}//主要更新已被清理过的区域块
 
@@ -333,10 +353,10 @@ public class TestRoadDetector extends RoadDetector {
 		{
 			MessageUtil.reflectMessage(this.worldInfo, messageRoad);
 		}
-		if (messageRoad.isPassable())
-		{
-			this.targetAreas.remove(messageRoad.getRoadID());
-		}//如果能通行。将该地区移除
+//		if (messageRoad.isPassable())
+//		{
+//			this.targetAreas.remove(messageRoad.getRoadID());
+//		}//如果能通行。将该地区移除
 	}
 
 	private void reflectMessage(MessageAmbulanceTeam messageAmbulanceTeam)
@@ -365,6 +385,17 @@ public class TestRoadDetector extends RoadDetector {
 		{
 			if (messageAmbulanceTeam.getTargetID() == null)
 			{
+				StandardEntity position = this.worldInfo.getEntity(messageAmbulanceTeam.getPosition());
+				if(position != null && position instanceof Road)
+					for (EntityID id : ((Road) position).getNeighbours()) {
+						StandardEntity neighbour = this.worldInfo.getEntity(id);
+						if (neighbour instanceof Road) {
+							if (((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
+								//如果该地区Block被定义，且该Block不为空，加入到目标区域
+								if(!this.targetAreas.contains(id))
+									this.targetAreas.add(id);
+						}
+					}
 				return;
 			}
 			StandardEntity target = this.worldInfo.getEntity(messageAmbulanceTeam.getTargetID());//获取医生的目标
@@ -375,7 +406,7 @@ public class TestRoadDetector extends RoadDetector {
 					StandardEntity neighbour = this.worldInfo.getEntity(id);
 					if (neighbour instanceof Road)
 					{
-						if(((Road) neighbour).isBlockadesDefined() || !((Road) neighbour).getBlockades().isEmpty())
+						if(((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
 						{
 							this.priorityRoads.add(id);
 							this.targetAreas.add(id);
@@ -397,7 +428,7 @@ public class TestRoadDetector extends RoadDetector {
 							StandardEntity neighbour = this.worldInfo.getEntity(id);
 							if (neighbour instanceof Road)
 							{
-								if(((Road) neighbour).isBlockadesDefined() || !((Road) neighbour).getBlockades().isEmpty())
+								if(((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
 								{
 									this.priorityRoads.add(id);
 									this.targetAreas.add(id);
@@ -414,22 +445,34 @@ public class TestRoadDetector extends RoadDetector {
 	{
 		if (messageFireBrigade.getTargetID() == null)
 		{
+			StandardEntity position = this.worldInfo.getEntity(messageFireBrigade.getPosition());
+			if(position != null && position instanceof Road)
+				for (EntityID id : ((Road) position).getNeighbours()) {
+					StandardEntity neighbour = this.worldInfo.getEntity(id);
+					if (neighbour instanceof Road) {
+						if (((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
+						{
+							if(!this.targetAreas.contains(id))
+								this.targetAreas.add(id);
+							if(!this.priorityRoads.contains(id))
+								this.priorityRoads.add(id);
+						}//如果该地区Block被定义，且该Block不为空，加入到目标区域
+
+					}
+				}
 			return;
-		}//消防队的目标为空，直接返回即可，无需响应
+		}//消防队的目标为空，为防止其被阻碍，跟着去清理目标
 		if (messageFireBrigade.getAction() == MessageFireBrigade.ACTION_EXTINGUISH)//正在扑灭火
 		{
 			StandardEntity position = this.worldInfo.getEntity(messageFireBrigade.getPosition());//消防员的位置
 			if (position != null && position instanceof Building)
 			{
+				//this.targetAreas.addAll(((Building) position).getNeighbours());
 				this.targetAreas.removeAll(((Building) position).getNeighbours());
 			}
 		}//如果消防员在扑灭火，代表这个地区可以通过，无需清理
 		if(messageFireBrigade.getAction() == MessageFireBrigade.ACTION_MOVE)
 		{
-			if (messageFireBrigade.getTargetID() == null)
-			{
-				return;
-			}
 			StandardEntity target = this.worldInfo.getEntity(messageFireBrigade.getTargetID());//获取消防队的目标
 			logger.debug("FireBrige Target"+target);
 			if (target instanceof Building)//如果消防队的目标是建筑物
@@ -441,37 +484,15 @@ public class TestRoadDetector extends RoadDetector {
 					{
 						if(((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
 						{
-							this.priorityRoads.add(id);
-							this.targetAreas.add(id);
+							if(!this.targetAreas.contains(id))
+								this.targetAreas.add(id);
+							if(!this.priorityRoads.contains(id))
+								this.priorityRoads.add(id);
 						}
 
 					}//如果道路阻塞，或者道路阻塞不为空，加入到优先级队列中
 				}
 			}//帮助消防员清理道路，将医生阻塞的道路加入到优先级队列中
-		}
-		if (messageFireBrigade.getAction() == MessageFireBrigade.ACTION_REFILL)//如果消防员在加水
-		{
-			StandardEntity target = this.worldInfo.getEntity(messageFireBrigade.getTargetID());
-			if (target instanceof Building)
-			{
-				for (EntityID id : ((Building) target).getNeighbours())
-				{
-					StandardEntity neighbour = this.worldInfo.getEntity(id);
-					if (neighbour instanceof Road)
-					{
-						if(((Road) neighbour).isBlockadesDefined() && !((Road) neighbour).getBlockades().isEmpty())
-						{
-							this.priorityRoads.add(id);
-							this.targetAreas.add(id);
-						}
-					}
-				}
-			}//如果在避难所加水，清空道路
-			else if (target.getStandardURN() == HYDRANT)//如果是消防栓
-			{
-				this.priorityRoads.add(target.getID());
-				this.targetAreas.add(target.getID());
-			}
 		}
 	}
 
@@ -545,7 +566,6 @@ public class TestRoadDetector extends RoadDetector {
 			StandardEntity target = this.worldInfo.getEntity(commandPolice.getTargetID());
 			if (target instanceof Area)
 			{
-				this.priorityRoads.add(target.getID());
 				this.targetAreas.add(target.getID());
 			}
 			else if (target.getStandardURN() == BLOCKADE)
@@ -553,7 +573,6 @@ public class TestRoadDetector extends RoadDetector {
 				Blockade blockade = (Blockade) target;
 				if (blockade.isPositionDefined())
 				{
-					this.priorityRoads.add(blockade.getPosition());
 					this.targetAreas.add(blockade.getPosition());
 				}
 			}

@@ -259,7 +259,8 @@ public class TestBuildingDetector extends BuildingDetector {
                 int extroId = clustering.getClusterIndex(extroS.get(0));
                 Building extroBuilding = extroS.get(0);
                 extroS.remove(0);
-                if(getOnfile(extroId) > 4 && extroBuilding.getFieryness() < 4){ //　火区真的比较大了，迅速集结
+                if((getOnfile(extroId) > 4 && extroBuilding.getFieryness() < 3)
+						|| isValueHelp(extroBuilding)){ //　火区真的比较大了，迅速集结
                     buildingToPeople.put(extroBuilding.getID(),this.agentInfo.getID());
                     addClusterToPeople(clusterIndex,this.agentInfo.getID());
                     logger.debug("Fire is so big! I am going here!");
@@ -271,6 +272,14 @@ public class TestBuildingDetector extends BuildingDetector {
         }
         return null;
         //SYSTEMW
+	}
+
+	private boolean isValueHelp(Building building){
+    	if(!building.isFierynessDefined())
+    		return false;
+    	if(building.getFieryness() > 2 && building.getFieryness() < 6)
+    		return true;
+    	return false;
 	}
 
 	private boolean isNearGasStation(Building building){
@@ -347,9 +356,15 @@ public class TestBuildingDetector extends BuildingDetector {
 		ArrayList<Building> fireBuildings = new ArrayList<>();
 		for (StandardEntity entity : input) {
 			if (entity instanceof Building && ((Building) entity).isOnFire()) {
-				if(((Building) entity).isFierynessDefined() && ((Building) entity).getFieryness() == 8)
-					continue;
-				fireBuildings.add((Building) entity);
+				Building building = (Building) entity;
+				int clusterId = clustering.getClusterIndex(entity.getID());
+				if(getOnfile(clusterId) < 7){
+					if(building.isFierynessDefined() && building.getFieryness() != 8)
+						fireBuildings.add((Building) entity);
+				}
+				if((getOnfile(clusterId) >= 7))
+					if(building.isFierynessDefined() && building.getFieryness() < 7)
+						fireBuildings.add((Building) entity);
 			}
 		}
 		return fireBuildings;
